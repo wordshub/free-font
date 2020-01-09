@@ -1,15 +1,13 @@
 
 ## 中文
 
-### 简体
-
-#### 方正系列
+### 方正系列
 
 方正字库提供了四种免费字体：方正黑体、方正书宋、方正仿宋、方正楷体。针对“商业发布”这种使用方式免费。
 
 商业发布：指以直接营利或者间接营利为目的，将字体作为视觉设计要素，进行复制、发行、展览、放映、信息网络传播、广播等使用字体的行为。
 
-##### 方正黑体
+#### 方正黑体
 
 **简介**
 
@@ -23,7 +21,7 @@
 
 [方正字库授权许可](https://www.foundertype.com/index.php/About/bookAuth/key/my_sysq.html)
 
-##### 方正书宋
+#### 方正书宋
 
 **简介**
 
@@ -37,7 +35,7 @@
 
 [方正字库授权许可](https://www.foundertype.com/index.php/About/bookAuth/key/my_sysq.html)
 
-##### 方正仿宋
+#### 方正仿宋
 
 **简介**
 
@@ -51,7 +49,7 @@
 
 [方正字库授权许可](https://www.foundertype.com/index.php/About/bookAuth/key/my_sysq.html)
 
-##### 方正楷体
+#### 方正楷体
 
 **简介**
 
@@ -65,9 +63,9 @@
 
 [方正字库授权许可](https://www.foundertype.com/index.php/About/bookAuth/key/my_sysq.html)
 
-#### 庞门正道系列
+### 庞门正道系列
 
-##### 庞门正道标题体
+#### 庞门正道标题体
 
 **简介**
 
@@ -81,7 +79,7 @@
 
 [发布了！一款免费字库的诞生！](https://mp.weixin.qq.com/s/1ccpLCOrIn81JhV9ulwPIQ)
 
-##### 庞门正道粗书体
+#### 庞门正道粗书体
 
 **简介**
 
@@ -95,7 +93,7 @@
 
 [庞门正道公众号](https://mp.weixin.qq.com/s/LZ_PMNc-3uX-Atmri4OLGQ)
 
-##### 庞门正道轻松体
+#### 庞门正道轻松体
 
 **简介**
 
@@ -109,9 +107,9 @@
 
 [发布了！一款免费字库的诞生！](https://mp.weixin.qq.com/s/1ccpLCOrIn81JhV9ulwPIQ)
 
-#### 站酷系列
+### 站酷系列
 
-##### 站酷高端黑
+#### 站酷高端黑
 
 **简介**
 
@@ -125,7 +123,7 @@
 
 [设计师福利！站酷高端黑字体修订版发布@站酷网](https://www.zcool.com.cn/article/ZMTQyOTUy.html)
 
-##### 站酷文艺体
+#### 站酷文艺体
 
 **简介**
 
@@ -139,7 +137,7 @@
 
 [站酷文艺体@刘克兵](https://www.zcool.com.cn/work/ZMjc2NDA5NDA=.html)
 
-##### 站酷小微LOGO体
+#### 站酷小微LOGO体
 
 **简介**
 
@@ -153,7 +151,7 @@
 
 [站酷字库](https://www.zcool.com.cn/special/zcoolfonts/)
 
-##### 站酷庆科黄油体
+#### 站酷庆科黄油体
 
 **简介**
 
@@ -167,7 +165,7 @@
 
 [站酷庆科黄油体@郑庆科](https://www.zcool.com.cn/work/ZMTg5MDEyMDQ=.html)
 
-##### 站酷酷黑
+#### 站酷酷黑
 
 **简介**
 
@@ -181,7 +179,7 @@
 
 [站酷十年，酷黑发布@胡晓波设计](https://www.zcool.com.cn/work/ZMTc2MDM5MTY=.html)
 
-##### 站酷快乐体
+#### 站酷快乐体
 
 **简介**
 
@@ -195,23 +193,9 @@
 
 [站酷快乐体，快乐公布！@刘兵克](https://www.zcool.com.cn/work/ZMTMzMDQ0Mjg=.html)
 
-#### 胡晓波系列
+### 胡晓波系列
 
-##### 胡晓波男神体
-
-**简介**
-
-由设计师胡晓波设计的一款免费字体
-
-**授权**
-
-永久免费商业使用
-
-**参考**
-
-[三套字体，免费商用！](https://www.zcool.com.cn/work/ZNDE3NjcwMTY=.html)
-
-##### 胡晓波骚包体
+#### 胡晓波男神体
 
 **简介**
 
@@ -225,7 +209,7 @@
 
 [三套字体，免费商用！](https://www.zcool.com.cn/work/ZNDE3NjcwMTY=.html)
 
-##### 胡晓波真帅体
+#### 胡晓波骚包体
 
 **简介**
 
@@ -239,9 +223,23 @@
 
 [三套字体，免费商用！](https://www.zcool.com.cn/work/ZNDE3NjcwMTY=.html)
 
-#### 沐瑶系列
+#### 胡晓波真帅体
 
-##### 沐瑶软笔手写体
+**简介**
+
+由设计师胡晓波设计的一款免费字体
+
+**授权**
+
+永久免费商业使用
+
+**参考**
+
+[三套字体，免费商用！](https://www.zcool.com.cn/work/ZNDE3NjcwMTY=.html)
+
+### 沐瑶系列
+
+#### 沐瑶软笔手写体
 
 **简介**
 
@@ -255,7 +253,7 @@ Muyao-Softbrush 沐瑶软笔手写体 是一款手写体，自来站酷设计师
 
 [送给大家的免费字体：沐瑶软笔手写体](https://www.zcool.com.cn/work/ZMjg5MjAwMDQ=.html)
 
-##### 沐瑶随心手写体
+#### 沐瑶随心手写体
 
 **简介**
 
@@ -269,25 +267,141 @@ Muyao-Softbrush 沐瑶软笔手写体 是一款手写体，自来站酷设计师
 
 [送给大家的字体2：沐瑶随心手写体](https://www.zcool.com.cn/work/ZMzYwMzk2MjA=.html)
 
-#### 思源系列
+### 思源系列
 
-##### 思源黑体
+#### 思源黑体
 
-##### 思源宋体
+#### 思源宋体
 
-#### 文泉驿系列
+### 文泉驿系列
 
-##### 文泉驿正黑
+#### 文泉驿正黑
 
-##### 文泉驿微米黑
+#### 文泉驿微米黑
 
-##### 文泉驿等宽正黑
+#### 文泉驿等宽正黑
 
-##### 文泉驿等宽微米黑
+#### 文泉驿等宽微米黑
 
-#### 其他
+### 台湾全字库系列
 
-##### 包图小白体
+#### 全字库正楷体
+
+#### 全字库正宋体
+
+#### 全字库说文解字
+
+### 明体系列
+
+台湾最活跃的字型社团「字嗨」管理员 But Ko ，释出三款改造自思源宋体的繁体中文字体，开放给需要的使用者免费下载！三款字体分别为：源样明体、源流明体及源云明体。
+
+这三款字体的共同特色是修改自「思源宋体」，源样明体采用思源宋体韩文版本的字符，配合繁体中文习惯的置中标点符号，可说是兼具排版及传统印刷体风格的繁体中文字体；源流明体在笔画上有所调整，使字型看起来更有力道；至于源云明体在横笔的起笔及竖笔的起笔、收笔处加入粗细变化，笔画交叉处有朦胧处理。
+
+和思源宋体一样，源样明体、源流明体都有七种字重，源云明体则是 Light、Regular、Medium 和 SemiBold 四种，能广泛使用于各种环境。
+
+#### 源云明体
+
+**简介**
+
+「源云明体」是基于[思源宋体](https://github.com/adobe-fonts/source-han-serif/)的而改造的开放原始码中文字型。
+
+**授权**
+
+以[SIL Open Font License 1.1](https://scripts.sil.org/OFL) 授权条款授权
+
+**参考**
+
+https://github.com/ButTaiwan/genwan-font
+
+#### 源流明体
+
+**简介**
+
+「源流明体」是基于[思源宋体](https://github.com/adobe-fonts/source-han-serif/)的而改造的开放原始码中文字型。
+
+**授权**
+
+以[SIL Open Font License 1.1](https://scripts.sil.org/OFL) 授权条款授权
+
+**参考**
+
+https://github.com/ButTaiwan/genryu-font
+
+#### 源样明体
+
+**简介**
+
+「源样明体」是基于[思源宋体](https://github.com/adobe-fonts/source-han-serif)的开放原始码中文字型。 採用思源宋体韩文（KR）版本的字符，配合繁体中文惯用的置中标点，可排版传统印刷体风格的文件。
+
+**授权**
+
+以[SIL Open Font License 1.1](https://scripts.sil.org/OFL) 授权条款授权
+
+**参考**
+
+https://github.com/ButTaiwan/genyo-font
+
+### 刻石录系列
+
+#### 一点明体
+
+**简介**
+
+`I.明体(I.Ming)` 是一套依照传承字形标准化文件《传承字形部件检校表》的推荐字形标准，并以 `TrueType`格式封装、依照 `Unicode` 编码的 `OpenType`字型。`I.明体` 名称里的 `I` 是罗马数字 `一`，`I.`  念作 `一点`，象徵笔画的基本：点与线。目前`I.明体`已由开源字型组织[一点字坊](https://github.com/ichitenfont/I.Ming) 全力维护。
+
+**授权**
+
+以 [IPA開放字型授權條款 第1.0版（IPA Open Font License v1.0，IPAフォントライセンスv1.0）](https://github.com/ichitenfont/I.Ming/blob/master/LICENSE.md) 授权
+
+**参考**
+
+[造字:開源字型_i.明體](http://founder.acgvlyric.org/iu/doku.php/造字:開源字型_i.明體)
+
+#### 一点钢笔鹤体
+
+**简介**
+
+刻石录钢笔鹤体由王汉宗粗钢体修改而来，刻石錄重新制作和修整原字型中缺少的或有欠美观的部份，例如半形英数、圈圈字、常用符号等。
+
+**授权**
+
+以[GNU GPL 2.0](http://www.gnu.org/licenses/gpl-2.0.txt)或[以上](http://www.gnu.org/licenses/gpl-3.0.txt)授权条款授权。
+
+**参考**
+
+[造字:開源字型_i.鋼筆鶴體](http://founder.acgvlyric.org/iu/doku.php/造字:開源字型_i.鋼筆鶴體)
+
+#### 一点颜体
+
+**简介**
+
+刻石录颜体是由王汉宗颜体修改而来，重新制作和修整原字型中缺少的或有欠美观的部份，例如全半形英数、平假名、片假名、拉丁字母、俄文字母、阿拉伯数字、圈圈字、常用符号等。
+
+**授权**
+
+以[GNU GPL 2.0](http://www.gnu.org/licenses/gpl-2.0.txt)或[以上](http://www.gnu.org/licenses/gpl-3.0.txt)授权条款授权。
+
+**参考**
+
+[造字:開源字型_i.顏體](http://founder.acgvlyric.org/iu/doku.php/造字:開源字型_i.顏體)
+
+### 王漢宗系列
+
+**简介**
+
+王汉宗自由字型由研发天蚕字库的台湾中原大学数学系王汉宗教授先分别在2000年和2004年先后捐出十套WCL系列字型和32套新字型，全部以GNU GPL许可分发。
+
+**争议**
+
+2005年，文鼎科技认为王汉宗字型与文鼎的字型极度相似，一些自由软件网站决定在问题明了前先移除字型下载以避免法律问题[1]，然而就是字则认为部分字型未有侵权问题，在提供字型列表中可见到筛选过后较无疑虑的10个王汉宗自由字型
+
+**参考**
+
+[王漢宗自由字型](https://zh.wikipedia.org/wiki/王漢宗自由字型)
+
+### 其他
+
+#### 包图小白体
 
 **简介**
 
@@ -301,7 +415,7 @@ Muyao-Softbrush 沐瑶软笔手写体 是一款手写体，自来站酷设计师
 
 [包图小白体免费商用](https://act.ibaotu.com/activity/1.html)
 
-##### 江西拙楷
+#### 江西拙楷
 
 **简介**
 
@@ -315,7 +429,7 @@ Muyao-Softbrush 沐瑶软笔手写体 是一款手写体，自来站酷设计师
 
 [我的首套字库江西拙楷正式跟大家见面了，免费商用！](https://www.zcool.com.cn/work/ZNDE4MzY4Mjg=.html)
 
-##### 优设标题黑
+#### 优设标题黑
 
 **简介**
 
@@ -329,7 +443,7 @@ Muyao-Softbrush 沐瑶软笔手写体 是一款手写体，自来站酷设计师
 
 [火热下载！优设首款免费可商用中文字体「优设标题黑」来啦！](https://www.uisdc.com/uisdc-first-free-font)
 
-##### 锐字真言体
+#### 锐字真言体
 
 **简介**
 
@@ -345,7 +459,7 @@ Muyao-Softbrush 沐瑶软笔手写体 是一款手写体，自来站酷设计师
 
 [官宣丨锐字家族首款免费商用字库上线！](https://www.douban.com/note/694509881/)
 
-##### 联盟起艺卢帅正锐黑体
+#### 联盟起艺卢帅正锐黑体
 
 **简介**
 
@@ -359,7 +473,7 @@ Muyao-Softbrush 沐瑶软笔手写体 是一款手写体，自来站酷设计师
 
 [联盟起艺卢帅正锐黑体正式发布](https://www.zcool.com.cn/work/ZMzUxMzUzNzY=.html)
 
-##### 问藏书房
+#### 问藏书房
 
 **简介**
 
@@ -373,7 +487,7 @@ Muyao-Softbrush 沐瑶软笔手写体 是一款手写体，自来站酷设计师
 
 [问藏书房官网](https://www.wencang.com/font.jsp)
 
-##### 清松手写体
+#### 清松手写体
 
 **简介**
 
@@ -397,7 +511,7 @@ Muyao-Softbrush 沐瑶软笔手写体 是一款手写体，自来站酷设计师
 
 [顺其字然小组](https://www.facebook.com/groups/549661292148791/)
 
-##### 新叶念体
+#### 新叶念体
 
 **简介**
 
@@ -411,7 +525,7 @@ Muyao-Softbrush 沐瑶软笔手写体 是一款手写体，自来站酷设计师
 
 新叶念体-[免费商用手写字库](https://www.zcool.com.cn/work/ZMzc1MDI2Njg=.html)
 
-##### 贤二体
+#### 贤二体
 
 **简介**
 
@@ -427,7 +541,7 @@ Muyao-Softbrush 沐瑶软笔手写体 是一款手写体，自来站酷设计师
 
 [新字下载 | 汉仪首款商用免费字体“贤二体”佛系上线！](https://www.zcool.com.cn/article/ZNjk4NDM2.html)
 
-##### 手书体
+#### 手书体
 
 **简介**
 
@@ -441,7 +555,7 @@ Muyao-Softbrush 沐瑶软笔手写体 是一款手写体，自来站酷设计师
 
 [手书体中文简体—可免费商用字体](https://www.zcool.com.cn/work/ZMjI2MDk1MDg=.html)
 
-##### 杨任东竹石体
+#### 杨任东竹石体
 
 **简介**
 
@@ -455,130 +569,9 @@ Muyao-Softbrush 沐瑶软笔手写体 是一款手写体，自来站酷设计师
 
 [杨任东字体-微信公众号](https://mp.weixin.qq.com/s/7kv3i_YEs7x9_9IrCDYvBA)
 
-### 繁体
+#### 臺湾新细明体
 
-#### 台湾全字库系列
-
-##### 全字库正楷体
-
-##### 全字库正宋体
-
-##### 全字库说文解字
-
-#### 明体系列
-
-台湾最活跃的字型社团「字嗨」管理员 But Ko ，释出三款改造自思源宋体的繁体中文字体，开放给需要的使用者免费下载！三款字体分别为：源样明体、源流明体及源云明体。
-
-这三款字体的共同特色是修改自「思源宋体」，源样明体采用思源宋体韩文版本的字符，配合繁体中文习惯的置中标点符号，可说是兼具排版及传统印刷体风格的繁体中文字体；源流明体在笔画上有所调整，使字型看起来更有力道；至于源云明体在横笔的起笔及竖笔的起笔、收笔处加入粗细变化，笔画交叉处有朦胧处理。
-
-和思源宋体一样，源样明体、源流明体都有七种字重，源云明体则是 Light、Regular、Medium 和 SemiBold 四种，能广泛使用于各种环境。
-
-##### 源云明体
-
-**简介**
-
-「源云明体」是基于[思源宋体](https://github.com/adobe-fonts/source-han-serif/)的而改造的开放原始码中文字型。
-
-**授权**
-
-以[SIL Open Font License 1.1](https://scripts.sil.org/OFL) 授权条款授权
-
-**参考**
-
-https://github.com/ButTaiwan/genwan-font
-
-##### 源流明体
-
-**简介**
-
-「源流明体」是基于[思源宋体](https://github.com/adobe-fonts/source-han-serif/)的而改造的开放原始码中文字型。
-
-**授权**
-
-以[SIL Open Font License 1.1](https://scripts.sil.org/OFL) 授权条款授权
-
-**参考**
-
-https://github.com/ButTaiwan/genryu-font
-
-##### 源样明体
-
-**简介**
-
-「源样明体」是基于[思源宋体](https://github.com/adobe-fonts/source-han-serif)的开放原始码中文字型。 採用思源宋体韩文（KR）版本的字符，配合繁体中文惯用的置中标点，可排版传统印刷体风格的文件。
-
-**授权**
-
-以[SIL Open Font License 1.1](https://scripts.sil.org/OFL) 授权条款授权
-
-**参考**
-
-https://github.com/ButTaiwan/genyo-font
-
-#### 刻石录系列
-
-##### 一点明体
-
-**简介**
-
-`I.明体(I.Ming)` 是一套依照传承字形标准化文件《传承字形部件检校表》的推荐字形标准，并以 `TrueType`格式封装、依照 `Unicode` 编码的 `OpenType`字型。`I.明体` 名称里的 `I` 是罗马数字 `一`，`I.`  念作 `一点`，象徵笔画的基本：点与线。目前`I.明体`已由开源字型组织[一点字坊](https://github.com/ichitenfont/I.Ming) 全力维护。
-
-**授权**
-
-以 [IPA開放字型授權條款 第1.0版（IPA Open Font License v1.0，IPAフォントライセンスv1.0）](https://github.com/ichitenfont/I.Ming/blob/master/LICENSE.md) 授权
-
-**参考**
-
-[造字:開源字型_i.明體](http://founder.acgvlyric.org/iu/doku.php/造字:開源字型_i.明體)
-
-##### 一点钢笔鹤体
-
-**简介**
-
-刻石录钢笔鹤体由王汉宗粗钢体修改而来，刻石錄重新制作和修整原字型中缺少的或有欠美观的部份，例如半形英数、圈圈字、常用符号等。
-
-**授权**
-
-以[GNU GPL 2.0](http://www.gnu.org/licenses/gpl-2.0.txt)或[以上](http://www.gnu.org/licenses/gpl-3.0.txt)授权条款授权。
-
-**参考**
-
-[造字:開源字型_i.鋼筆鶴體](http://founder.acgvlyric.org/iu/doku.php/造字:開源字型_i.鋼筆鶴體)
-
-##### 一点颜体
-
-**简介**
-
-刻石录颜体是由王汉宗颜体修改而来，重新制作和修整原字型中缺少的或有欠美观的部份，例如全半形英数、平假名、片假名、拉丁字母、俄文字母、阿拉伯数字、圈圈字、常用符号等。
-
-**授权**
-
-以[GNU GPL 2.0](http://www.gnu.org/licenses/gpl-2.0.txt)或[以上](http://www.gnu.org/licenses/gpl-3.0.txt)授权条款授权。
-
-**参考**
-
-[造字:開源字型_i.顏體](http://founder.acgvlyric.org/iu/doku.php/造字:開源字型_i.顏體)
-
-#### 王漢宗系列
-
-**简介**
-
-王汉宗自由字型由研发天蚕字库的台湾中原大学数学系王汉宗教授先分别在2000年和2004年先后捐出十套WCL系列字型和32套新字型，全部以GNU GPL许可分发。
-
-**争议**
-
-2005年，文鼎科技认为王汉宗字型与文鼎的字型极度相似，一些自由软件网站决定在问题明了前先移除字型下载以避免法律问题[1]，然而就是字则认为部分字型未有侵权问题，在提供字型列表中可见到筛选过后较无疑虑的10个王汉宗自由字型
-
-**参考**
-
-[王漢宗自由字型](https://zh.wikipedia.org/wiki/王漢宗自由字型)
-
-
-#### 其他
-
-##### 臺湾新细明体
-
-##### 青柳隷书
+#### 青柳隷书
 
 ## 日文
 

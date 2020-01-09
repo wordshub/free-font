@@ -340,7 +340,32 @@ Muyao-Softbrush 沐瑶软笔手写体 是一款手写体，自来站酷设计师
 
 ### 思源黑体
 
+**简介**
+
+思源黑体是一套 OpenType/CFF 泛中日韩字体。这个开源项目不仅提供了可用的 OpenType 字体，还提供了利用 AFDKO *makeotf* 和 *otf2otc* 工具创建这些 OpenType 字体时的所有源文件。
+
+**授权**
+
+ [SIL Open Font License 1.1](http://scripts.sil.org/OFL) 
+
+**参考**
+
+[github](https://github.com/adobe-fonts/source-han-sans)
+
 ### 思源宋体
+
+**简介**
+
+思源宋体是 Adobe Type 发布的最新泛 CJK 字体，它是对应于[思源黑体](https://blog.typekit.com/alternate/source-han-sans-chs/)的宋体字体；我们发布这两种字体是为了响应统一设计的需求，以服务于东亚 15 亿人口。
+
+思源宋体支持四种不同的东亚语言（简体中文、繁体中文、日语和朝鲜语），7 种粗细类型中的每一种都有 65,535 个字形，可共同呈现一致的视觉美感。该字体还包含多个西方字形，支持拉丁语、希腊语和西里尔文脚本，这些字形均来源于 [Source Serif](https://blog.typekit.com/2017/01/10/introducing-source-serif-2-0/)。
+
+**授权**
+
+ [SIL Open Font License 1.1](http://scripts.sil.org/OFL) 
+
+**参考**
+[github](https://github.com/adobe-fonts/source-han-serif)
 
 ## 文泉驿系列
 

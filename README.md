@@ -371,11 +371,31 @@ Muyao-Softbrush 沐瑶软笔手写体 是一款手写体，自来站酷设计师
 
 ### 文泉驿正黑
 
+**简介**
+
+文泉驿正黑体是一个"[自由字体](http://wenq.org/wqy2/index.cgi?LibreFont)"。该字体包含了所有常用简体中文、繁体中文所需要的汉字(最新版本包含超过27842个汉字，完整覆盖GB2312/Big5/GBK以及GB18030标准字符集)。该字体同时还包含了日文、韩文和其他几十种语言符号。除此以外，该字体还嵌入了最新版本的[文泉驿点阵宋体](http://wenq.org/wqy2/index.cgi?BitmapSong)的中英文点阵，使得屏幕汉字显示清晰锐利，易于阅读。
+
+作为黑体中文字体，文泉驿正黑为非衬线字体，笔画对比度明显，特别适合屏幕汉字显示以及文档标题字体。
+**授权**
+
+[GNU General Public License授权](http://wenq.org/wqy2/index.cgi?GPL)
+
+**参考**
+[文泉驿开源矢量中文字体](http://wenq.org/wqy2/index.cgi?ZenHei)
+
 ### 文泉驿微米黑
 
-### 文泉驿等宽正黑
+**简介**
 
-### 文泉驿等宽微米黑
+文泉驿微米黑是一个"[自由字体](http://wenq.org/wqy2/index.cgi?LibreFont)"。该字体包含了所有常用简体中文、繁体中文所需要的汉字(最新版本包含超过20932个汉字，完整覆盖GB2312/Big5以及GBK标准字符集)。该字体同时还包含了日文、韩文和其他几十种语言符号。以外，该字体还包含了高质量的Droid Sans拉丁符号和Droid Sans Mono等宽字体，并内置Hinting和Kerning信息。微米黑字体文件极小，特别使用于便携式电脑设备。
+该字体版权受到法律保护，字体版权人为[Google](http://www.google.com/intl/en/contact/)和[文泉驿信任委员会](http://wenq.org/wqy2/index.cgi?CopyrightPolicy)。请遵循官方字体授权使用并衍生本字体
+
+**授权**
+
+[GNU General Public License授权](http://wenq.org/wqy2/index.cgi?GPL)
+
+**参考**
+[文泉驿开源矢量中文字体](http://wenq.org/wqy2/index.cgi?MicroHei)
 
 ## 台湾全字库系列
 

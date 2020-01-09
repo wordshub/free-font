@@ -29,12 +29,6 @@
   - [文泉驿系列](#文泉驿系列)
     - [文泉驿正黑](#文泉驿正黑)
     - [文泉驿微米黑](#文泉驿微米黑)
-    - [文泉驿等宽正黑](#文泉驿等宽正黑)
-    - [文泉驿等宽微米黑](#文泉驿等宽微米黑)
-  - [台湾全字库系列](#台湾全字库系列)
-    - [全字库正楷体](#全字库正楷体)
-    - [全字库正宋体](#全字库正宋体)
-    - [全字库说文解字](#全字库说文解字)
   - [明体系列](#明体系列)
     - [源云明体](#源云明体)
     - [源流明体](#源流明体)
@@ -199,6 +193,8 @@
 站酷文艺体，由字体设计师刘兵克确定字形和规范，由刘兵克工作室以及刘兵克字体设计直播课学员共同创作完成，设计师郑庆科完成了最终的字库生成工作。字形新颖独特，简洁有力，清新淡雅，文艺范十足。包含7155个常用字，52个英文字母，10 个阿拉伯数字，67个常用标点及符号。
 
 **授权**
+
+![](assets/copyright.svg)
 
 免费授权全社会使用（包括商用）
 
@@ -499,11 +495,63 @@ https://github.com/ButTaiwan/genyo-font
 
 **争议**
 
-2005年，文鼎科技认为王汉宗字型与文鼎的字型极度相似，一些自由软件网站决定在问题明了前先移除字型下载以避免法律问题[1]，然而就是字则认为部分字型未有侵权问题，在提供字型列表中可见到筛选过后较无疑虑的10个王汉宗自由字型
+2005年，台湾著名字型厂商文鼎科技认为王汉宗字型与文鼎的字体极度相似，一些自由软件网站决定在问题明了前先移除字体下载以避免法律问题。
+
+然而云端字体服务公司 justfont 则不认为存在授权问题，在提供字体列表中可见到 17 个王汉宗自由字型。文鼎公司觉得王汉宗有许多套字体是 copy 自文鼎字体。但是如果说是完全抄袭，也会有争议，因为虽然骨架相同，但描绘点并不一样，法律上顶多只能算是「疑似」抄袭。
+
+另外就「隶书」、「仿宋」、等字体来说，文鼎公司也并非独创，有许多字体公司的同名字型几乎长得其实一模一样。这么一来其实很难说谁抄谁。
+
+|            |              |              |          |                  |
+| :--------: | :----------: | :----------: | :------: | :--------------: |
+|  字体文件  |  字体中文名  |  字体英文名  | 名称缩写 | 文鼎科技主张侵权 |
+| WCL-01.ttf |    波浪体    | HanWangWCL01 |  wcl01   |                  |
+| WCL-02.ttf |    特明体    | HanWangWCL02 |  wcl02   |        是        |
+| WCL-03.ttf |  波卡体空阴  | HanWangWCL03 |  wcl03   |                  |
+| WCL-04.ttf | 综艺体双空阴 | HanWangWCL04 |  wcl04   |        是        |
+| WCL-05.ttf |  标楷体空心  | HanWangWCL05 |  wcl05   |                  |
+| WCL-06.ttf |    仿宋体    | HanWangWCL06 |  wcl06   |                  |
+| WCL-07.ttf |    粗钢体    | HanWangWCL07 |  wcl07   |                  |
+| WCL-08.ttf |  粗黑体实阴  | HanWangWCL08 |  wcl08   |                  |
+| WCL-09.ttf |  粗圆体双空  | HanWangWCL09 |  wcl09   |                  |
+| WCL-10.ttf | 海报体半天水 | HanWangWCL10 |  wcl10   |                  |
+| wt001.ttf      | 细明         | HanWangMingLight        | hwml    |      |
+| wt002.ttf      | 中明         | HanWangMingMedium       | hwmm    | 是   |
+| wt003.ttf      | 粗明         | HanWangMingBold         | hwmb    | 是   |
+| wt004.ttf      | 特明         | HanWangMingHeavy        | hwmh    | 是   |
+| wt005.ttf      | 超明         | HanWangMingBlack        | hwmbk   |      |
+| wt006.ttf      | 细圆         | HanWangYenLight         | hwyl    | 是   |
+| wt009.ttf      | 特圆         | HanWangYenHeavy         | hwyh    | 是   |
+| wt011.ttf      | 细黑         | HanWangHeiLight         | hwhl    |      |
+| wt014.ttf      | 特黑         | HanWangHeiHeavy         | hwhh    |      |
+| wt021.ttf      | 中隶书       | HanWangLiSuMedium       | hwlsm   | 是   |
+| wt024.ttf      | 中仿宋       | HanWangFangSongMedium   | hwfsm   | 是   |
+| wt028.ttf      | 叠圆         | HanWangKanDaYan         | hwkdy   | 是   |
+| wt034.ttf      | 勘亭流       | HanWangKanTan           | hwkt    | 是   |
+| wt040.ttf      | 综艺体       | HanWangZonYi            | hwzy    | 是   |
+| wt064.ttf      | 颜体         | HanWangYanKai           | hwyk    |      |
+| wt071.ttf      | 中行书       | HanWangShinSuMedium     | hwssm   | 是   |
+| wtcc02.ttf     | 酷俪海报     | HanWangCC02             | hwcc02  |      |
+| wtcc15.ttf     | 正海报       | HanWangCC15             | hwcc15  |      |
+| wthc06.ttf     | 钢笔行楷     | HanWangGB06             | hwhc    |      |
+| wtg-06cut1.ttf | 超黑俏皮动物 | HanWangGSolid06cut1     | hwgsc1  |      |
+| wp010-05.ttf   | 中明注音体   | HanWangMingMediumChuIn  | hwmmci  |      |
+| wp110-05.ttf   | 中明破音字1  | HanWangMingMediumChuIn1 | hwmmci1 |      |
+| wp210-05.ttf   | 中明破音字2  | HanWangMingMediumChuIn2 | hwmmci2 |      |
+| wp310-05.ttf   | 中明破音字3  | HanWangMingMediumChuIn3 | hwmmci3 |      |
+| wp010-08.ttf   | 中楷注音体   | HanWangKaiMediumChuIn   | hwkmci  |      |
+| wp110-08.ttf   | 中楷破音字1  | HanWangKaiMediumChuIn1  | hwkmci1 |      |
+| wp210-08.ttf   | 中楷破音字2  | HanWangKaiMediumChuIn2  | hwkmci2 |      |
+| wp310-08.ttf   | 中楷破音字3  | HanWangKaiMediumChuIn3  | hwkmci3 |      |
+| wts11.ttf      | 粗楷体简体   | KaiBold-Gb5             | wts11   | 是   |
+| wts43.ttf      | 中魏碑简体   | WeiBeiMedium-Gb5        | wts43   |      |
+| wts47.ttf      | 中仿宋简体   | FangSongMedium-Gb5      | wts47   | 是   |
+| wts55.ttf      | 细新宋简体   | SinSongThin-Gb5         | wts55   |      |
 
 **参考**
 
 [王漢宗自由字型](https://zh.wikipedia.org/wiki/王漢宗自由字型)
+
+[wangfonts](https://code.google.com/archive/p/wangfonts/)
 
 ## 其他
 

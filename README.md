@@ -16,6 +16,7 @@
 ## 开源字体
 
 ![](https://img.shields.io/badge/license-GPL--2.0-orange?style=flat-square)
+
 [GNU通用公共许可证](http://www.gnu.org/licenses/old-licenses/) (GNU General Public License)是GNU运动为保证其软件在后续的发展中仍保持开源开放而为其软件设立的“使用条款”。
 
 GPL 最大的特点是：**如果你在自己的作品中使用了受制于 GPL 的软件，那么该作品也必须以 GPL 许可分发。**这显然会产生一个大问题：**如果我在文档中用了 GPL 字体，这份文件是否也就因此「感染」了 GPL、变成了开源的东西？**这是一个没有定论的问题，但其潜在争议很大，以至于 GPL 的推广者自由软件基金会额外推出了一条名为[「GPL 字型例外」（GPL font exception）](https://en.wikipedia.org/wiki/GPL_font_exception)的条款，可以附在 GPL 字体许可的后面，阻断其向使用该字体的文件的传播。
@@ -23,9 +24,11 @@ GPL 最大的特点是：**如果你在自己的作品中使用了受制于 GPL 
 > 由于其争议性这里收录的文泉系列字体需慎用。
 
 ![](https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square)
+
 [SIL开放字体许可证](https://scripts.sil.org/OFL) (SIL Open Font License) 由SIL国际制定，初版于2005年发布，如今已是诸多开源字体的首选授权条款，这种许可证比 GPL 要开明，不会扩散到使用 SIL 字体的作品上，而只要求对字体作出修改后的作品本身要以相同许可分发。
 
 ![](https://img.shields.io/badge/license-IPA--1.0-orange?style=flat-square)
+
 IPA开放字型授权条款是日本「IPA」以符合「开放原始码促进会（Open Source Initiative）」于2009年开源定义的使用条款。
 
 **免责声明：本文涉及对字体/字库/字库软件等的分发、使用等著作权相关法律问题的讨论。其中很多目前在法律上并无明确规定，学理上存在争议，不同国家、甚至相同法域内也存在相互冲突的判例。因此，文章内容仅代表个人观点，仅供参考，不应被作为正式的法律意见，作者不对采纳文中建议或观点所可能产生的任何责任或后果承担责任。**
@@ -96,6 +99,7 @@ IPA开放字型授权条款是日本「IPA」以符合「开放原始码促进�
 方正黑体的设计源于铅字时代的黑体字稿，是一款专门为正文排版设计的黑体。方正黑体的笔画两端留有喇叭口，撇、捺、钩笔画的粗细变化较大，中宫比较紧凑。其字重适中、字形风格中性朴实，不但适用于印刷媒介，还可用于屏幕阅读，是一款非常经典的正文黑体。
 
 **授权**
+
 ![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square)
 
 **参考**
@@ -109,6 +113,7 @@ IPA开放字型授权条款是日本「IPA」以符合「开放原始码促进�
 方正书宋源自上海印刷技术研究所的宋二，原字形距今已有近60年。最初的设计就是专门针对最常用的小字号正文排版。方正书宋的字形端正清秀，中宫适度。凭着清晰爽目、久读不易疲劳、印刷适性好的优点，长期被作为杂志和书籍的正文首选字体，所以也是一款非常经典的正文宋体。
 
 **授权**
+
 ![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square)
 
  **参考**
@@ -122,6 +127,7 @@ IPA开放字型授权条款是日本「IPA」以符合「开放原始码促进�
 “仿宋体”产生于20世纪初，由当时的铅字制作者仿宋版书中的瘦细字体而制成。方正仿宋源于铅字时代的字稿，其字身略窄，笔画瘦硬，横竖笔画等粗，起笔处有斜势棱角，折笔处棱角分明，整体字形挺拔俊秀，给人以悦目之感。因清晰美观，容易辨认，长期被用于工程图纸文字和书刊中的引文。
 
 **授权**
+
 ![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square)
 
 **参考**
@@ -136,6 +142,7 @@ IPA开放字型授权条款是日本「IPA」以符合「开放原始码促进�
 方正楷体源于上海印刷技术研究所“华文楷体”字稿。原“华文楷体”诞生于20世纪40年代，新中国成立后一直是主要使用的铅字楷体。在此期间，上海字模一厂、上海印刷技术研究所等单位进行了数次改良，并添加了简体字。方正楷体的结构秀丽匀称，笔画圆润柔和，横竖笔画的粗细变化不大。这款字体被大量应用于报纸、杂志和书籍中的正文，在教科书中最为常见。
 
 **授权**
+
 ![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square)
 
 **参考**
@@ -150,6 +157,7 @@ IPA开放字型授权条款是日本「IPA」以符合「开放原始码促进�
 2016年，庞门正道联合了13位设计师推出了第一款免费商用字体。
 
 **授权**
+
 ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
 
 **参考**
@@ -163,6 +171,7 @@ IPA开放字型授权条款是日本「IPA」以符合「开放原始码促进�
 2018年，庞门正道公众号发布的第二款免费商用字体，由车港敏设计完成
 
 **授权**
+
 ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
 
 **参考**
@@ -176,6 +185,7 @@ IPA开放字型授权条款是日本「IPA」以符合「开放原始码促进�
 2019年，庞门正道的第三款免费字体
 
 **授权**
+
 ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
 
 **参考**
@@ -191,6 +201,7 @@ IPA开放字型授权条款是日本「IPA」以符合「开放原始码促进�
 由字体设计师胡晓波、刘兵克发起，参与汉字百人舞100位字体设计师共同完成。是2014年圣诞发布的第一款由站酷冠名的公益字体，字体设计师胡晓波、刘兵克在站酷网发起“汉字百人舞”的征集设计师集体造字，前后参与设计师近百人。2014年12月发布第一版，2015年11月发布最新修订版。包含6763个汉字、数字和英文字母。
 
 **授权**
+
 ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
 
 **参考**
@@ -204,6 +215,7 @@ IPA开放字型授权条款是日本「IPA」以符合「开放原始码促进�
 站酷文艺体，由字体设计师刘兵克确定字形和规范，由刘兵克工作室以及刘兵克字体设计直播课学员共同创作完成，设计师郑庆科完成了最终的字库生成工作。字形新颖独特，简洁有力，清新淡雅，文艺范十足。包含7155个常用字，52个英文字母，10 个阿拉伯数字，67个常用标点及符号。
 
 **授权**
+
 ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
 
 免费授权全社会使用（包括商用）
@@ -219,6 +231,7 @@ IPA开放字型授权条款是日本「IPA」以符合「开放原始码促进�
 由上海佐兹品牌设计工作室设计总监李大卫 (David 小马哥）带领其工作室团队共成完成。是李大卫送给自己女儿出生三周年的一个礼物。其目的是为了填补免费字体中的LOGO体空缺。字体笔画浑厚，识别性高,放大放小空间间隙都能如意灵通。2018年1月最新修订版。采用GB2312汉字编码，共收录6763个汉字。
 
 **授权**
+
 ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
 
 **参考**
@@ -232,6 +245,7 @@ IPA开放字型授权条款是日本「IPA」以符合「开放原始码促进�
 站酷庆科黄油体，由字体设计师郑庆科开发，线条圆润。并且字体数量多，达到了9千个多个汉字。站酷庆科黄油体是一款字型创新、线条圆润的字体。笔划的每一个直角，都被处理成了半径为4pt的圆角。在设计中需遵循笔划简化但不省略，笔划角度尽量为垂直角度。字体部首的右下角均为45°缺角，提高了字体视觉中心，并有效的解决了一些字体因笔划交叉，字体阅读困难的毛病。
 
 **授权**
+
 ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
 
 **参考**
@@ -245,6 +259,7 @@ IPA开放字型授权条款是日本「IPA」以符合「开放原始码促进�
 由胡晓波发起，字游工作室成员进行基础字形设计。胡晓波设计班十名学员共同设计完成。[站酷酷黑体验版］在站酷十周年之际横空出世。字形笔画粗犷有力，用宽扁型的字面构建出厚重的字体形态，笔画细节上的修饰既增强了字体的设计感，又让字体多了一些小小的精致感，中宫的饱满使得文字之间的排版组合非常醒目好看。2016年7月发布体验版。包含3500个常用字，52个英文字母，10个阿拉伯数字。
 
 **授权**
+
 ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
 
 **参考**
@@ -258,6 +273,7 @@ IPA开放字型授权条款是日本「IPA」以符合「开放原始码促进�
 【站酷快乐体2016修订版】由刘兵克学员和工作室团队设计。是在“站酷快乐体”基础上耗时7个月进行的大幅修改与提升，经过多轮校审之后已正式对外公布并提供下载。2015年9月发布第一版，2016年6月发布最新修订版。采用GB2312汉字编码，共收录6763个汉字。
 
 **授权**
+
 ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
 
 **参考**
@@ -273,6 +289,7 @@ IPA开放字型授权条款是日本「IPA」以符合「开放原始码促进�
 由设计师胡晓波设计的一款免费字体
 
 **授权**
+
 ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
 
 **参考**
@@ -286,6 +303,7 @@ IPA开放字型授权条款是日本「IPA」以符合「开放原始码促进�
 由设计师胡晓波设计的一款免费字体
 
 **授权**
+
 ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
 
 **参考**
@@ -299,6 +317,7 @@ IPA开放字型授权条款是日本「IPA」以符合「开放原始码促进�
 由设计师胡晓波设计的一款免费字体
 
 **授权**
+
 ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
 
 **参考**
@@ -314,6 +333,7 @@ IPA开放字型授权条款是日本「IPA」以符合「开放原始码促进�
 Muyao-Softbrush 沐瑶软笔手写体 是一款手写体，自来站酷设计师@春颜秋色送给女儿的礼物。也是以女儿名字命名的一款可免费商用的手写字体。遵循GB2312标准，共包含6763个汉字加数字英文和常用标点。
 
 **授权**
+
 ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
 
 **参考**
@@ -324,9 +344,11 @@ Muyao-Softbrush 沐瑶软笔手写体 是一款手写体，自来站酷设计师
 
 **简介**
 
+
 站酷设计师@春颜秋色免费开发的第二款公益字体。沐瑶是以其女儿的名字命名的。字体本身是基于GB2312-80标准，共包含6763个汉字和数百个符号。
 
 **授权**
+
 ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
 
 **参考**
@@ -342,6 +364,7 @@ Muyao-Softbrush 沐瑶软笔手写体 是一款手写体，自来站酷设计师
 思源黑体是一套 OpenType/CFF 泛中日韩字体。这个开源项目不仅提供了可用的 OpenType 字体，还提供了利用 AFDKO *makeotf* 和 *otf2otc* 工具创建这些 OpenType 字体时的所有源文件。
 
 **授权**
+
 [![GitHub](https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square)](https://github.com/adobe-fonts/source-han-sans/blob/master/LICENSE.txt)
 
 **参考**
@@ -357,6 +380,7 @@ Muyao-Softbrush 沐瑶软笔手写体 是一款手写体，自来站酷设计师
 思源宋体支持四种不同的东亚语言（简体中文、繁体中文、日语和朝鲜语），7 种粗细类型中的每一种都有 65,535 个字形，可共同呈现一致的视觉美感。该字体还包含多个西方字形，支持拉丁语、希腊语和西里尔文脚本，这些字形均来源于 [Source Serif](https://blog.typekit.com/2017/01/10/introducing-source-serif-2-0/)。
 
 **授权**
+
 ![GitHub](https://img.shields.io/github/license/adobe-fonts/source-han-serif?style=flat-square)
 
 **参考**
@@ -465,7 +489,7 @@ https://github.com/ButTaiwan/genyo-font
 
 **授权**
 
-[![](https://img.shields.io/badge/license-GPL--2.0-orange?style=flat-square)](http://www.gnu.org/licenses/gpl-2.0.txt)[![](https://img.shields.io/badge/license-GPL--3.0-orange?style=flat-square)](http://www.gnu.org/licenses/gpl-3.0.txt)
+[![](https://img.shields.io/badge/license-GPL--2.0-orange?style=flat-square)](http://www.gnu.org/licenses/gpl-2.0.txt) [![](https://img.shields.io/badge/license-GPL--3.0-orange?style=flat-square)](http://www.gnu.org/licenses/gpl-3.0.txt)
 
 **参考**
 
@@ -479,7 +503,7 @@ https://github.com/ButTaiwan/genyo-font
 
 **授权**
 
-[![](https://img.shields.io/badge/license-GPL--2.0-orange?style=flat-square)](http://www.gnu.org/licenses/gpl-2.0.txt)[![](https://img.shields.io/badge/license-GPL--3.0-orange?style=flat-square)](http://www.gnu.org/licenses/gpl-3.0.txt)
+[![](https://img.shields.io/badge/license-GPL--2.0-orange?style=flat-square)](http://www.gnu.org/licenses/gpl-2.0.txt) [![](https://img.shields.io/badge/license-GPL--3.0-orange?style=flat-square)](http://www.gnu.org/licenses/gpl-3.0.txt)
 
 **参考**
 
@@ -560,6 +584,7 @@ https://github.com/ButTaiwan/genyo-font
 包图小白体， 定义为一款简单可爱的创意字体。在字形笔画上去除了折笔的弧形，换之以平直的笔画，竖弯钩转为竖折，同时弱化了钩笔画，省去了许多笔画末尾的小尾巴，显得更加直白可爱。粗短的笔画，像柯基的小短腿，相比细长的字体能给人更多的轻松感。整体形态采用了镂空的制作技巧，增强了字体的立体感，适合用于品牌标志、海报、包装、影视综艺、游戏、漫画等场景。包图小白体采用GB2312编码，共收容7707个字符，包含6763个简体汉字、110个大写字母、139个小写字母、102个数字、95个标点符号、其他特殊类符号288个、其他字母210个（包含日文平假名片假名）。
 
 **授权**
+
 ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
 
 **参考**
@@ -573,6 +598,7 @@ https://github.com/ButTaiwan/genyo-font
 由站酷设计师@[Fontree](https://www.zcool.com.cn/u/653645) （黄煜臣）个人开发并发布，这是一套手写楷体，相比电脑中标准化制作的楷体，这套字体的笔画会带有一些书写的痕迹，每个字的笔画是没有统一标准的，所以看上去显得不够规范，但是会有一种手写的自然之感。
 
 **授权**
+
 ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
 
 **参考**
@@ -586,6 +612,7 @@ https://github.com/ButTaiwan/genyo-font
 「优设标题黑」由[优设](https://www.uisdc.com/)与[字由](http://www.hellofont.cn/)合作完成，是一款适用性广，速度感、力量感极强的专业美术标题字体。它以黑体字型为基础，整体字形沉稳，同时采用较大字面和粗壮的笔画来强化力量感。每个字体水平倾斜 8° 的设计，赋予了字体极强的速度感，为了让字体倾斜后也能保持稳固，设计师将整体字身设定宽扁。而起笔和弯钩上独具匠心的尖角设计，不仅突显了设计的几何感，而且方便后期修改。
 
 **授权**
+
 ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
 
 **参考**
@@ -599,6 +626,7 @@ https://github.com/ButTaiwan/genyo-font
 锐字真言体，是锐字家族字体当中第一款免费可商用的字体。真言体笔触浑厚有力，笔画曲折有度，字形个性鲜明，刚柔并济，落笔简洁有序，给人以遒劲有力、端正凝练的感受。直角与圆角的错落搭配使得字体婉转有度，落落大方，具有自己独到的风格！这款字体特别适用于文字标题、竞技视觉、广告设计、个性品牌设计推广、企业宣传及时尚品牌的设计应用。
 
 **授权**
+
 ![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square)
 
 **参考**
@@ -614,6 +642,7 @@ https://github.com/ButTaiwan/genyo-font
 由站酷设计师@[设计师卢帅 ](https://lushuai.zcool.com.cn/) 在站酷发布，共计8000余字
 
 **授权**
+
 ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
 
 **参考**
@@ -628,6 +657,7 @@ https://github.com/ButTaiwan/genyo-font
 问藏书房字体是由[问藏书房](https://www.wencang.com/)联合[造字工房](https://www.makefont.com/)一起的设计的一款免费字体，字体整体现代简约，中宫紧凑，视觉阅读极具层次感，字字俊秀且呈现古雅之风，设计团队以精心的设计赋予了汉字全新美感！字符编码采用中华人民共和国GB2312-80字符集标准，按需添加101个汉字。共收容字数6864CJK汉字，ASCII常用字符100个。
 
 **授权**
+
 ![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square)
 中国大陆个人与商业机构无偿使用
 
@@ -652,6 +682,7 @@ https://github.com/ButTaiwan/genyo-font
 | 清松手写体5 | 风格已确定      | 行楷 |                                                              |
 
 **授权**
+
 ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
 
 **参考**
@@ -665,6 +696,7 @@ https://github.com/ButTaiwan/genyo-font
 新叶念体采用GB2312编码，约6900字，[王亚设计](https://www.zcool.com.cn/u/16357511) 在站酷发布。
 
 **授权**
+
 ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
 
 **参考**
@@ -680,6 +712,7 @@ https://github.com/ButTaiwan/genyo-font
 贤二体的字形偏长，起笔收笔锋利且粗细对比明显，笔画笨拙微带曲线感。字体组合结构松散，重心不稳，达到诙谐幽默，惹人喜爱的效果。
 
 **授权**
+
 ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
 
 **参考**
@@ -693,6 +726,7 @@ https://github.com/ButTaiwan/genyo-font
 由站酷设计师@[Joker9](https://jiazhiyong.zcool.com.cn/) 设计，收录基本汉字6763个，字体风格为手写风格，可以用于slogan、banner、海报、商标等设计里面。
 
 **授权**
+
 ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
 
 **参考**
@@ -706,6 +740,7 @@ https://github.com/ButTaiwan/genyo-font
 杨任乐竹石体是2017年世界知识产权日正式发布的一款免费商用字体。并且提供了7种字重，共计5万多个字符。
 
 **授权**
+
 ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
 
 **参考**
@@ -755,6 +790,7 @@ http://fonts.jp/hanazono/
 这是一个日本人制作的一款有点可爱风格的字体，所以会是日本字形（然而作者表示其实日本标准很多地方他都没遵循，所以叫杂字体）。作者的描述是自由使用与重新配布，可商用，但是保留著作权，字体仍在不断更新加字中。此款手写杂字体，虽为日文字体，但对中文繁体以及**中文简体**都支持得灰常不错。
 
 **授权**
+
 ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
 
 **参考**
@@ -796,6 +832,7 @@ http://flopdesign.com/blog/font/5228/
 一款日本网站提供的免费商用字体，たぬき油性マジック(TanukiMagic) 字型风格和马克笔手绘的 POP 效果如出一辙。
 
 **授权**
+
 ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
 
 **参考**

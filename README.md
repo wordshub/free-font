@@ -61,11 +61,9 @@
 
 ## 方正系列
 
-方正字库提供了四种免费字体：方正黑体、方正书宋、方正仿宋、方正楷体。针对“商业发布”这种使用方式免费。
-
-商业发布：指以直接营利或者间接营利为目的，将字体作为视觉设计要素，进行复制、发行、展览、放映、信息网络传播、广播等使用字体的行为。
-
 ### 方正黑体
+
+![ass](assets/image/FangZhengHeiTi.svg)
 
 **简介**
 
@@ -81,6 +79,8 @@
 
 ### 方正书宋
 
+![ass](assets/image/FangZhengShuSong.svg)
+
 **简介**
 
 方正书宋源自上海印刷技术研究所的宋二，原字形距今已有近60年。最初的设计就是专门针对最常用的小字号正文排版。方正书宋的字形端正清秀，中宫适度。凭着清晰爽目、久读不易疲劳、印刷适性好的优点，长期被作为杂志和书籍的正文首选字体，所以也是一款非常经典的正文宋体。
@@ -95,6 +95,8 @@
 
 ### 方正仿宋
 
+![ass](assets/image/FangZhengFangSong.svg)
+
 **简介**
 
 “仿宋体”产生于20世纪初，由当时的铅字制作者仿宋版书中的瘦细字体而制成。方正仿宋源于铅字时代的字稿，其字身略窄，笔画瘦硬，横竖笔画等粗，起笔处有斜势棱角，折笔处棱角分明，整体字形挺拔俊秀，给人以悦目之感。因清晰美观，容易辨认，长期被用于工程图纸文字和书刊中的引文。
@@ -107,7 +109,10 @@
 
 [方正字库授权许可](https://www.foundertype.com/index.php/About/bookAuth/key/my_sysq.html)
 
+
+
 ### 方正楷体
+
 ![ass](assets/image/FangZhengKaiTi.svg)
 
 **简介**
@@ -125,6 +130,8 @@
 
 ### 庞门正道标题体
 
+![ass](assets/image/PangMenZhengDaoBiaoTiTi.svg)
+
 **简介**
 
 2016年，庞门正道联合了13位设计师推出了第一款免费商用字体。
@@ -139,6 +146,8 @@
 
 ### 庞门正道粗书体
 
+![ass](assets/image/PangMenZhengDaoCuShuTi.svg)
+
 **简介**
 
 2018年，庞门正道公众号发布的第二款免费商用字体，由车港敏设计完成
@@ -152,6 +161,8 @@
 [庞门正道公众号](https://mp.weixin.qq.com/s/LZ_PMNc-3uX-Atmri4OLGQ)
 
 ### 庞门正道轻松体
+
+![ass](assets/image/PangMenZhengDaoQingSongTi.svg)
 
 **简介**
 

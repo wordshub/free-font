@@ -63,7 +63,7 @@
 
 ### 方正黑体
 
-![ass](assets/image/FangZhengHeiTi.svg)
+![方正黑体](assets/image/FangZhengHeiTi.svg)
 
 **简介**
 
@@ -79,7 +79,7 @@
 
 ### 方正书宋
 
-![ass](assets/image/FangZhengShuSong.svg)
+![方正书宋](assets/image/FangZhengShuSong.svg)
 
 **简介**
 
@@ -95,7 +95,7 @@
 
 ### 方正仿宋
 
-![ass](assets/image/FangZhengFangSong.svg)
+![方正仿宋](assets/image/FangZhengFangSong.svg)
 
 **简介**
 
@@ -113,7 +113,7 @@
 
 ### 方正楷体
 
-![ass](assets/image/FangZhengKaiTi.svg)
+![方正楷体](assets/image/FangZhengKaiTi.svg)
 
 **简介**
 
@@ -130,7 +130,7 @@
 
 ### 庞门正道标题体
 
-![ass](assets/image/PangMenZhengDaoBiaoTiTi.svg)
+![庞门正道标题体](assets/image/PangMenZhengDaoBiaoTiTi.svg)
 
 **简介**
 
@@ -146,7 +146,7 @@
 
 ### 庞门正道粗书体
 
-![ass](assets/image/PangMenZhengDaoCuShuTi.svg)
+![庞门正道粗书体](assets/image/PangMenZhengDaoCuShuTi.svg)
 
 **简介**
 
@@ -162,7 +162,7 @@
 
 ### 庞门正道轻松体
 
-![ass](assets/image/PangMenZhengDaoQingSongTi.svg)
+![庞门正道轻松体](assets/image/PangMenZhengDaoQingSongTi.svg)
 
 **简介**
 
@@ -176,9 +176,12 @@
 
 [发布了！一款免费字库的诞生！](https://mp.weixin.qq.com/s/1ccpLCOrIn81JhV9ulwPIQ)
 
+
 ## 站酷系列
 
 ### 站酷高端黑
+
+![站酷高端黑](assets/image/ZhanKuGaoDuanHei.svg)
 
 **简介**
 
@@ -193,6 +196,8 @@
 [设计师福利！站酷高端黑字体修订版发布@站酷网](https://www.zcool.com.cn/article/ZMTQyOTUy.html)
 
 ### 站酷文艺体
+
+![站酷文艺体](assets/image/ZhanKuWenYiTi.svg)
 
 **简介**
 
@@ -210,6 +215,8 @@
 
 ### 站酷小微LOGO体
 
+![站酷小微LOGO体](assets/image/ZhanKuXiaoWeiLOGOTi.svg)
+
 **简介**
 
 由上海佐兹品牌设计工作室设计总监李大卫 (David 小马哥）带领其工作室团队共成完成。是李大卫送给自己女儿出生三周年的一个礼物。其目的是为了填补免费字体中的LOGO体空缺。字体笔画浑厚，识别性高,放大放小空间间隙都能如意灵通。2018年1月最新修订版。采用GB2312汉字编码，共收录6763个汉字。
@@ -223,6 +230,8 @@
 [站酷字库](https://www.zcool.com.cn/special/zcoolfonts/)
 
 ### 站酷庆科黄油体
+
+![站酷庆科黄油体](assets/image/ZhanKuQingKeHuangYouTi.svg)
 
 **简介**
 
@@ -238,6 +247,8 @@
 
 ### 站酷酷黑
 
+![站酷酷黑](assets/image/ZhanKuKuHei.svg)
+
 **简介**
 
 由胡晓波发起，字游工作室成员进行基础字形设计。胡晓波设计班十名学员共同设计完成。[站酷酷黑体验版］在站酷十周年之际横空出世。字形笔画粗犷有力，用宽扁型的字面构建出厚重的字体形态，笔画细节上的修饰既增强了字体的设计感，又让字体多了一些小小的精致感，中宫的饱满使得文字之间的排版组合非常醒目好看。2016年7月发布体验版。包含3500个常用字，52个英文字母，10个阿拉伯数字。
@@ -251,6 +262,8 @@
 [站酷十年，酷黑发布@胡晓波设计](https://www.zcool.com.cn/work/ZMTc2MDM5MTY=.html)
 
 ### 站酷快乐体
+
+![站酷快乐体](assets/image/ZhanKuKuaiLeTi.svg)
 
 **简介**
 

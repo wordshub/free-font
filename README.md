@@ -281,6 +281,8 @@
 
 ### 胡晓波男神体
 
+![胡晓波男神体](assets/image/HuXiaoBoNanShenTi.svg)
+
 **简介**
 
 由设计师胡晓波设计的一款免费字体
@@ -295,6 +297,8 @@
 
 ### 胡晓波骚包体
 
+![胡晓波骚包体](assets/image/HuXiaoBoSaoBaoTi.svg)
+
 **简介**
 
 由设计师胡晓波设计的一款免费字体
@@ -308,6 +312,8 @@
 [三套字体，免费商用！](https://www.zcool.com.cn/work/ZNDE3NjcwMTY=.html)
 
 ### 胡晓波真帅体
+
+![胡晓波真帅体](assets/image/HuXiaoBoZhenShuaiTi.svg)
 
 **简介**
 
@@ -325,6 +331,8 @@
 
 ### 沐瑶软笔手写体
 
+![沐瑶软笔手写体](assets/image/MuYaoRuanBiShouXieTi.svg)
+
 **简介**
 
 Muyao-Softbrush 沐瑶软笔手写体 是一款手写体，自来站酷设计师@春颜秋色送给女儿的礼物。也是以女儿名字命名的一款可免费商用的手写字体。遵循GB2312标准，共包含6763个汉字加数字英文和常用标点。
@@ -338,6 +346,8 @@ Muyao-Softbrush 沐瑶软笔手写体 是一款手写体，自来站酷设计师
 [送给大家的免费字体：沐瑶软笔手写体](https://www.zcool.com.cn/work/ZMjg5MjAwMDQ=.html)
 
 ### 沐瑶随心手写体
+
+![沐瑶随心手写体](assets/image/MuYaoSuiXinShouXieTi.svg)
 
 **简介**
 

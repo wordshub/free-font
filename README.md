@@ -45,7 +45,7 @@
 | [问藏书房](#问藏书房) | ![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square) |
 | [清松手写体](#清松手写体) |   ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)   |
 | [新叶念体](#新叶念体) | ![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square) |
-| [贤二体](#贤二体) |  ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)    |
+| [贤二体](#贤二体) |  ![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square)  |
 | [手书体](#手书体) |  ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)    |
 | [杨任东竹石体](#杨任东竹石体) |![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
 | [臺湾新细明体](#臺湾新细明体) | |
@@ -366,6 +366,8 @@ Muyao-Softbrush 沐瑶软笔手写体 是一款手写体，自来站酷设计师
 
 ### 思源黑体
 
+![思源黑体](assets/image/SiYuanHeiTi.svg)
+
 **简介**
 
 思源黑体是一套 OpenType/CFF 泛中日韩字体。这个开源项目不仅提供了可用的 OpenType 字体，还提供了利用 AFDKO *makeotf* 和 *otf2otc* 工具创建这些 OpenType 字体时的所有源文件。
@@ -374,12 +376,13 @@ Muyao-Softbrush 沐瑶软笔手写体 是一款手写体，自来站酷设计师
 
 [![GitHub](https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square)](https://github.com/adobe-fonts/source-han-sans/blob/master/LICENSE.txt)
 
-
 **参考**
 
 [Github](https://github.com/adobe-fonts/source-han-sans)
 
 ### 思源宋体 
+
+![思源宋体](assets/image/SiYuanSongTi.svg)
 
 **简介**
 
@@ -398,6 +401,8 @@ Muyao-Softbrush 沐瑶软笔手写体 是一款手写体，自来站酷设计师
 
 ### 文泉驿正黑
 
+![文泉驿正黑](assets/image/WenQuanYiZhengHei.svg)
+
 **简介**
 
 文泉驿正黑体是一个"[自由字体](http://wenq.org/wqy2/index.cgi?LibreFont)"。该字体包含了所有常用简体中文、繁体中文所需要的汉字(最新版本包含超过27842个汉字，完整覆盖GB2312/Big5/GBK以及GB18030标准字符集)。该字体同时还包含了日文、韩文和其他几十种语言符号。除此以外，该字体还嵌入了最新版本的[文泉驿点阵宋体](http://wenq.org/wqy2/index.cgi?BitmapSong)的中英文点阵，使得屏幕汉字显示清晰锐利，易于阅读。
@@ -411,6 +416,8 @@ Muyao-Softbrush 沐瑶软笔手写体 是一款手写体，自来站酷设计师
 [文泉驿开源矢量中文字体](http://wenq.org/wqy2/index.cgi?ZenHei)
 
 ### 文泉驿微米黑
+
+![文泉驿微米黑](assets/image/WenQuanYiWeiMiHei.svg)
 
 **简介**
 
@@ -434,6 +441,8 @@ Muyao-Softbrush 沐瑶软笔手写体 是一款手写体，自来站酷设计师
 
 ### 源云明体
 
+![源云明体](assets/image/YuanYunMingTi.svg)
+
 **简介**
 
 「源云明体」是基于[思源宋体](https://github.com/adobe-fonts/source-han-serif/)的而改造的开放原始码中文字型。
@@ -448,6 +457,8 @@ https://github.com/ButTaiwan/genwan-font
 
 ### 源流明体
 
+![源流明体](assets/image/YuanLiuMingTi.svg)
+
 **简介**
 
 「源流明体」是基于[思源宋体](https://github.com/adobe-fonts/source-han-serif/)的而改造的开放原始码中文字型。
@@ -461,6 +472,8 @@ https://github.com/ButTaiwan/genwan-font
 https://github.com/ButTaiwan/genryu-font
 
 ### 源样明体
+
+![源样明体](assets/image/YuanYangMingTi.svg)
 
 **简介**
 
@@ -478,6 +491,8 @@ https://github.com/ButTaiwan/genyo-font
 
 ### 一点明体
 
+![一点明体](assets/image/YiDianMingTi.svg)
+
 **简介**
 
 `I.明体(I.Ming)` 是一套依照传承字形标准化文件《传承字形部件检校表》的推荐字形标准，并以 `TrueType`格式封装、依照 `Unicode` 编码的 `OpenType`字型。`I.明体` 名称里的 `I` 是罗马数字 `一`，`I.`  念作 `一点`，象徵笔画的基本：点与线。目前`I.明体`已由开源字型组织[一点字坊](https://github.com/ichitenfont/I.Ming) 全力维护。
@@ -492,6 +507,8 @@ https://github.com/ButTaiwan/genyo-font
 
 ### 一点钢笔鹤体
 
+![一点钢笔鹤体](assets/image/YiDianGangBiHeTi.svg)
+
 **简介**
 
 刻石录钢笔鹤体由王汉宗粗钢体修改而来，刻石錄重新制作和修整原字型中缺少的或有欠美观的部份，例如半形英数、圈圈字、常用符号等。
@@ -505,6 +522,8 @@ https://github.com/ButTaiwan/genyo-font
 [造字:開源字型_i.鋼筆鶴體](http://founder.acgvlyric.org/iu/doku.php/造字:開源字型_i.鋼筆鶴體)
 
 ### 一点颜体
+
+![一点颜体](assets/image/YiDianYanTi.svg)
 
 **简介**
 
@@ -588,6 +607,8 @@ https://github.com/ButTaiwan/genyo-font
 
 ### 包图小白体
 
+![包图小白体](assets/image/BaoTuXiaoBaiTi.svg)
+
 **简介**
 
 包图小白体， 定义为一款简单可爱的创意字体。在字形笔画上去除了折笔的弧形，换之以平直的笔画，竖弯钩转为竖折，同时弱化了钩笔画，省去了许多笔画末尾的小尾巴，显得更加直白可爱。粗短的笔画，像柯基的小短腿，相比细长的字体能给人更多的轻松感。整体形态采用了镂空的制作技巧，增强了字体的立体感，适合用于品牌标志、海报、包装、影视综艺、游戏、漫画等场景。包图小白体采用GB2312编码，共收容7707个字符，包含6763个简体汉字、110个大写字母、139个小写字母、102个数字、95个标点符号、其他特殊类符号288个、其他字母210个（包含日文平假名片假名）。
@@ -601,6 +622,8 @@ https://github.com/ButTaiwan/genyo-font
 [包图小白体免费商用](https://act.ibaotu.com/activity/1.html)
 
 ### 江西拙楷
+
+![江西拙楷](assets/image/JiangXiZhuoKai.svg)
 
 **简介**
 
@@ -616,6 +639,8 @@ https://github.com/ButTaiwan/genyo-font
 
 ### 优设标题黑
 
+![优设标题黑](assets/image/YouSheBiaoTiHei.svg)
+
 **简介**
 
 「优设标题黑」由[优设](https://www.uisdc.com/)与[字由](http://www.hellofont.cn/)合作完成，是一款适用性广，速度感、力量感极强的专业美术标题字体。它以黑体字型为基础，整体字形沉稳，同时采用较大字面和粗壮的笔画来强化力量感。每个字体水平倾斜 8° 的设计，赋予了字体极强的速度感，为了让字体倾斜后也能保持稳固，设计师将整体字身设定宽扁。而起笔和弯钩上独具匠心的尖角设计，不仅突显了设计的几何感，而且方便后期修改。
@@ -629,6 +654,8 @@ https://github.com/ButTaiwan/genyo-font
 [火热下载！优设首款免费可商用中文字体「优设标题黑」来啦！](https://www.uisdc.com/uisdc-first-free-font)
 
 ### 锐字真言体
+
+![锐字真言体](assets/image/RuiZiZhenYanTi.svg)
 
 **简介**
 
@@ -646,6 +673,8 @@ https://github.com/ButTaiwan/genyo-font
 
 ### 联盟起艺卢帅正锐黑体
 
+![联盟起艺卢帅正锐黑体](assets/image/LianMenQiYiLuShuaiZhenRuiHeiTi.svg)
+
 **简介**
 
 由站酷设计师@[设计师卢帅 ](https://lushuai.zcool.com.cn/) 在站酷发布，共计8000余字
@@ -658,8 +687,9 @@ https://github.com/ButTaiwan/genyo-font
 
 [联盟起艺卢帅正锐黑体正式发布](https://www.zcool.com.cn/work/ZMzUxMzUzNzY=.html)
 
-
 ### 问藏书房
+
+![问藏书房](assets/image/WenCangShuFang.svg)
 
 **简介**
 
@@ -674,6 +704,12 @@ https://github.com/ButTaiwan/genyo-font
 [问藏书房官网](https://www.wencang.com/font.jsp)
 
 ### 清松手写体
+
+![清松手写体1](assets/image/QingSongShouXieTi1.svg)
+
+![清松手写体2](assets/image/QingSongShouXieTi2.svg)
+
+![清松手写体3](assets/image/QingSongShouXieTi3.svg)
 
 **简介**
 
@@ -699,6 +735,8 @@ https://github.com/ButTaiwan/genyo-font
 
 ### 新叶念体
 
+![新叶念体](assets/image/XinYeNianTi.svg)
+
 **简介**
 
 新叶念体采用GB2312编码，约6900字，[王亚设计](https://www.zcool.com.cn/u/16357511) 在站酷发布。
@@ -713,6 +751,8 @@ https://github.com/ButTaiwan/genyo-font
 
 ### 贤二体
 
+![贤二体](assets/image/XianErTi.svg)
+
 **简介**
 
 “贤二体”是龙泉专寺动漫中心与汉仪字库联合推出的一款免费商用字体。
@@ -721,13 +761,15 @@ https://github.com/ButTaiwan/genyo-font
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square)
 
 **参考**
 
 [新字下载 | 汉仪首款商用免费字体“贤二体”佛系上线！](https://www.zcool.com.cn/article/ZNjk4NDM2.html)
 
 ### 手书体
+
+![手书体](assets/image/ShouShuTi.svg)
 
 **简介**
 
@@ -743,9 +785,11 @@ https://github.com/ButTaiwan/genyo-font
 
 ### 杨任东竹石体
 
+![杨任东竹石体](assets/image/YangRenDongZhuShiTi.svg)
+
 **简介**
 
-杨任乐竹石体是2017年世界知识产权日正式发布的一款免费商用字体。并且提供了7种字重，共计5万多个字符。
+杨任东竹石体于2017年4月26日世界知识产权日正式发布，本字体版本为1.23字体按照GB2312-80书写，并增补了少量常见汉字；整套字体有7个字重，共计50000余个字符
 
 **授权**
 
@@ -755,13 +799,11 @@ https://github.com/ButTaiwan/genyo-font
 
 [杨任东字体-微信公众号](https://mp.weixin.qq.com/s/7kv3i_YEs7x9_9IrCDYvBA)
 
-### 臺湾新细明体
-
-### 青柳隷书
-
 ## 日文
 
 ### 花园明朝
+
+![花园明朝](assets/image/HuaYuanMingChao.svg)
 
 **简介**
 
@@ -779,6 +821,8 @@ http://fonts.jp/hanazono/
 
 ### 源界明朝体
 
+![源界明朝体](assets/image/YuanJieMingChaoTi.svg)
+
 **简介**
 
 这款字体是以「思源宋体」（日文为「源ノ明朝」）为基础，加入破坏效果使其最接近可读状态，可以简单理解成思源宋体的破坏版，源界明朝在视觉上具有相当大的张力，可作为图片内的标题和大字使用，整体来说相当吸睛且颇具效果。源界明朝体为日文字体，对部分简体中文支持不太好。
@@ -789,9 +833,11 @@ http://fonts.jp/hanazono/
 
 **参考**
 
-http://fonts.jp/hanazono/
+https://flopdesign.com/blog/font/5146/
 
 ### 手写杂字体
+
+![手写杂字体](assets/image/851ShouXieZaZiTi.svg)
 
 **简介**
 
@@ -807,6 +853,8 @@ http://fonts.jp/hanazono/
 
 ### 装甲明朝
 
+![装甲明朝](assets/image/ZhuangJiaMingChao.svg)
+
 **简介**
 
 装甲明朝」是日本网友以思源宋体为基础，修改后开放免费下载的新字型。字体风格硬朗有气派，若是拿来做越野车、大型装甲机车等玩具淘宝海报设计就非常适用了。Soukou Mincho 装甲明朝体支持繁体（分部）、简体（部分）、英文、日文以及数字符号。
@@ -821,6 +869,8 @@ http://flopdesign.com/blog/font/5228/
 
 ### 濑户体
 
+![濑户体](assets/image/LaiHuTi.svg)
+
 **简介**
 
 濑户字体，是一款偏可爱风的字体，支持简体中文、繁体中文、日文，包含CJK常用汉字、平片假名、JIS第一至四级，共30000余字。这是由日本的一位业余字体设计师濑户のぞみ小姐所制作的。
@@ -834,6 +884,8 @@ http://flopdesign.com/blog/font/5228/
 [Project Web of Seto Font on OSDN Web space](http://setofont.osdn.jp/)
 
 ### 麦克笔手绘体
+
+![麦克笔手绘体](assets/image/MaiKeBiShouHui.svg)
 
 **简介**
 

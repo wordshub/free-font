@@ -80,10 +80,6 @@
 
 [方正字库授权许可](https://www.foundertype.com/index.php/About/bookAuth/key/my_sysq.html)
 
-
-
-
-
 ### 方正书宋
 
 ![方正书宋](assets/image/FangZhengShuSong.svg)

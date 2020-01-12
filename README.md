@@ -11,7 +11,6 @@
 | 字体                  | 授权                                                         |
 | --------------------- | ------------------------------------------------------------ |
 | [方正黑体](#方正黑体) | ![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square) |
-| [![方正黑体](assets/image/FangZhengHeiTi.svg)](#![方正黑体](assets/image/FangZhengHeiTi.svg)) |  |
 | [方正书宋](#方正书宋) | ![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square) |
 | [方正仿宋](#方正仿宋) | ![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square) |
 | [方正楷体](#方正楷体) | ![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square) |
@@ -130,7 +129,6 @@
 **参考**
 [方正字库授权许可](https://www.foundertype.com/index.php/About/bookAuth/key/my_sysq.html)
 
-### ![方正黑体](assets/image/FangZhengHeiTi.svg)
 
 ## 庞门正道系列
 

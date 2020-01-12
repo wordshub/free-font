@@ -50,7 +50,7 @@
 | [手书体](#手书体) |  ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)    |
 | [杨任东竹石体](#杨任东竹石体) |![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
 | [破产字体](#破产字体) |![](https://img.shields.io/badge/license-GPL--3.0-orange?style=flat-square) |
-| [cwTeX字体](#cwTeX 字体) |![](https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square) |
+| [cwTeX字体](#cwTeX字体) |![](https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square) |
 | [花园明朝](#花园明朝) | [![](https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square)](https://osdn.jp/projects/opensource/wiki/SIL_Open_Font_License_1.1) |
 | [源界明朝体](#源界明朝体) | [![](https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square)](https://osdn.jp/projects/opensource/wiki/SIL_Open_Font_License_1.1) |
 | [手写杂字体](#手写杂字体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
@@ -895,7 +895,7 @@ https://github.com/ButTaiwan/genyo-font
 
 https://ctan.org/tex-archive/fonts/fandol
 
-### cwTeX 字体
+### cwTeX字体
 
 ![中明體](assets/image/CwTeXZhongMingTi.svg)
 

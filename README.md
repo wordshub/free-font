@@ -535,7 +535,73 @@ https://github.com/ButTaiwan/genyo-font
 
 [造字:開源字型_i.顏體](http://founder.acgvlyric.org/iu/doku.php/造字:開源字型_i.顏體)
 
-## 王漢宗系列
+## 王汉宗系列
+
+![一点颜体](assets/image/WangHanZhongChaoHeiQiaoPiDongWuYi.svg)
+
+![一点颜体](assets/image/WangHanZhongChaoMingTiFan.svg)
+
+![一点颜体](assets/image/WangHanZhongCuKaiTiJian.svg)
+
+![一点颜体](assets/image/WangHanZhongCuMingTiFan.svg)
+
+![一点颜体](assets/image/WangHanZhongGangBiXingKaiFan.svg)
+
+![](assets/image/WangHanZhongKanTingLiuFan.svg)
+
+![](assets/image/WangHanZhongKongDieYuanFan.svg)
+
+![](assets/image/WangHanZhongKuLiHaiBao.svg)
+
+![](assets/image/WangHanZhongKuZhengHaiBao.svg)
+
+![](assets/image/WangHanZhongTeHeiTiFan.svg)
+
+![](assets/image/WangHanZhongTeMingTiFan.svg)
+
+![](assets/image/WangHanZhongTeYuanTiFan.svg)
+
+![](assets/image/WangHanZhongXiHeiTiFan.svg)
+
+![](assets/image/WangHanZhongXiMingTiFan.svg)
+
+![](assets/image/WangHanZhongXiXinSongJian.svg)
+
+![](assets/image/WangHanZhongXiYuanTiFan.svg)
+
+![](assets/image/WangHanZhongYanKaiTiFan.svg)
+
+![](assets/image/WangHanZhongFangSongFan.svg)
+
+![](assets/image/WangHanZhongFangSongJian.svg)
+
+![](assets/image/WangHanZhongLiShuFan.svg)
+
+![](assets/image/WangHanZhongMingTiFan.svg)
+
+![](assets/image/WangHanZhongWeiBeiJian.svg)
+
+![](assets/image/WangHanZhongXingShuFan.svg)
+
+![](assets/image/WangHanZhongZhongYiTiFan.svg)
+
+![](assets/image/WangHanZhongMingTiPoYinYi.svg)
+
+![](assets/image/WangHanZhongMingTiPoYinEr.svg)
+
+![](assets/image/WangHanZhongMingTiPoYinSan.svg)
+
+![](assets/image/WangHanZhongKaiTiPoYinYi.svg)
+
+![](assets/image/WangHanZhongKaiTiPoYinEr.svg)
+
+![](assets/image/WangHanZhongKaiTiPoYinSan.svg)
+
+![](assets/image/WangHanZhongMingTiZhuYin.svg)
+
+![](assets/image/WangHanZhongKaiTiZhuYin.svg)
+
+
 
 **简介**
 
@@ -797,6 +863,56 @@ https://github.com/ButTaiwan/genyo-font
 
 [杨任东字体-微信公众号](https://mp.weixin.qq.com/s/7kv3i_YEs7x9_9IrCDYvBA)
 
+### 破产字体
+
+![破产字体仿宋](assets/image/PoChanZiTiFangSong.svg)
+
+![破产字体黑体](assets/image/PoChanZiTiHeiTi.svg)
+
+![破产字体楷体](assets/image/PoChanZiTiKaiTi.svg)
+
+![破产字体宋体](assets/image/PoChanZiTiSongTi.svg)
+
+**简介**
+
+「破产字体」（Fandol）来自一家已经破产的字体公司，现在已经开源了。包含FandolFang、FandolHei、FandolKai、FandolSong四个字体。
+
+**授权**
+
+![](https://img.shields.io/badge/license-GPL--3.0-orange?style=flat-square)
+
+**参考**
+
+https://ctan.org/tex-archive/fonts/fandol
+
+### cwTeX 字体
+
+![中明體](assets/image/CwTeXZhongMingTi.svg)
+
+![中楷體](assets/image/CwTeXZhongKaiTi.svg)
+
+![中圓體](assets/image/CwTeXZhongYuanTi.svg)
+
+![中仿宋體](assets/image/CwTeXZhongFangSongTi.svg)
+
+![粗黑體](assets/image/CwTeXCuHeiTi.svg)
+
+
+
+**简介**
+
+「cwTeX 字体」最初是由 Tsong-Min Wu 及 Tsong-Huey Wu 于 1999 至 2004 年间制作作并以 GNU GENERAL PUBLIC LICENSE Version 2 or latter 发布。于 2014 年，Tsong-Min Wu、Tsong-Huey Wu、Edward G.J. Lee 及 Chen-Pan Liao 四人同意将汉字及中文常用标点符号之字符另外独立并以 SIL Open Font License (Version 1.1) 授出，以利与其他 OFL 授权之字体整合。
+
+目前 cwtex-q-fonts 共有五种字体，两种授权方式，0.3版本之前以 GPL 2.0 及以上授权，0.3版本之后以及 OFL 1.1 授权，这里收录的是0.4版本。
+
+**授权**
+
+![](https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square)
+
+**参考**
+
+https://github.com/l10n-tw/cwtex-q-fonts
+
 ## 日文
 
 ### 花园明朝
@@ -810,8 +926,6 @@ HanaMin 花园明朝体（花园フォント）是一款基于日语的自由开
 **授权**
 
 [![](https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square)](https://osdn.jp/projects/opensource/wiki/SIL_Open_Font_License_1.1)
-
-原始许可证和[SIL OFL许可证的](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)双重[许可证](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)。
 
 **参考**
 

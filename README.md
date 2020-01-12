@@ -11,6 +11,7 @@
 | 字体                  | 授权                                                         |
 | --------------------- | ------------------------------------------------------------ |
 | [方正黑体](#方正黑体) | ![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square) |
+| [![方正黑体](assets/image/FangZhengHeiTi.svg)](#![方正黑体](assets/image/FangZhengHeiTi.svg)) |  |
 | [方正书宋](#方正书宋) | ![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square) |
 | [方正仿宋](#方正仿宋) | ![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square) |
 | [方正楷体](#方正楷体) | ![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square) |
@@ -37,6 +38,7 @@
 | [一点明体](#一点明体) | [![](https://img.shields.io/badge/license-IPA--1.0-orange?style=flat-square)](https://github.com/ichitenfont/I.Ming/blob/master/LICENSE.md) |
 | [一点钢笔鹤体](#一点钢笔鹤体) | [![](https://img.shields.io/badge/license-GPL--2.0-orange?style=flat-square)](http://www.gnu.org/licenses/gpl-2.0.txt)[![](https://img.shields.io/badge/license-GPL--3.0-orange?style=flat-square)](http://www.gnu.org/licenses/gpl-3.0.txt) |
 | [一点颜体](#一点颜体) | [![](https://img.shields.io/badge/license-GPL--2.0-orange?style=flat-square)](http://www.gnu.org/licenses/gpl-2.0.txt)[![](https://img.shields.io/badge/license-GPL--3.0-orange?style=flat-square)](http://www.gnu.org/licenses/gpl-3.0.txt) |
+| [王汉宗系列](#王汉宗系列) | [![](https://img.shields.io/badge/license-GPL--2.0-orange?style=flat-square) |
 | [包图小白体](#包图小白体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)     |
 | [江西拙楷](#江西拙楷) |  ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)    |
 | [优设标题黑](#优设标题黑) |  ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)    |
@@ -48,6 +50,8 @@
 | [贤二体](#贤二体) |  ![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square)  |
 | [手书体](#手书体) |  ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)    |
 | [杨任东竹石体](#杨任东竹石体) |![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
+| [破产字体](#破产字体) |![](https://img.shields.io/badge/license-GPL--3.0-orange?style=flat-square) |
+| [cwTeX字体](#cwTeX 字体) |![](https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square) |
 | [花园明朝](#花园明朝) | [![](https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square)](https://osdn.jp/projects/opensource/wiki/SIL_Open_Font_License_1.1) |
 | [源界明朝体](#源界明朝体) | [![](https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square)](https://osdn.jp/projects/opensource/wiki/SIL_Open_Font_License_1.1) |
 | [手写杂字体](#手写杂字体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
@@ -60,6 +64,8 @@
 ## 方正系列
 
 ### 方正黑体
+
+
 
 ![方正黑体](assets/image/FangZhengHeiTi.svg)
 
@@ -123,6 +129,8 @@
 
 **参考**
 [方正字库授权许可](https://www.foundertype.com/index.php/About/bookAuth/key/my_sysq.html)
+
+### ![方正黑体](assets/image/FangZhengHeiTi.svg)
 
 ## 庞门正道系列
 
@@ -660,6 +668,10 @@ https://github.com/ButTaiwan/genyo-font
 | wts43.ttf      | 中魏碑简体   | WeiBeiMedium-Gb5        | wts43   |      |
 | wts47.ttf      | 中仿宋简体   | FangSongMedium-Gb5      | wts47   | 是   |
 | wts55.ttf      | 细新宋简体   | SinSongThin-Gb5         | wts55   |      |
+
+**授权**
+
+![](https://img.shields.io/badge/license-GPL--2.0-orange?style=flat-square)
 
 **参考**
 

@@ -59,7 +59,7 @@
 
 ## 方正系列
 
-### 方正黑体
+### 方正黑体 [![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square)](https://www.foundertype.com/index.php/About/bookAuth/key/my_sysq.html)
 
 ![方正黑体](assets/image/FangZhengHeiTi.svg)
 
@@ -67,25 +67,11 @@
 
 「方正黑体」的设计源于铅字时代的黑体字稿，是一款专门为正文排版设计的黑体。方正黑体的笔画两端留有喇叭口，撇、捺、钩笔画的粗细变化较大，中宫比较紧凑。其字重适中、字形风格中性朴实，不但适用于印刷媒介，还可用于屏幕阅读，是一款非常经典的正文黑体。
 
-**授权**
-
-![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square)
-
-**参考**
-
-[方正字库授权许可](https://www.foundertype.com/index.php/About/bookAuth/key/my_sysq.html)
-
-### 方正书宋
-
-![方正书宋](assets/image/FangZhengShuSong.svg)
-
-**简介**
+### 方正书宋 ![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square)
 
 「方正书宋」源自上海印刷技术研究所的宋二，原字形距今已有近60年。最初的设计就是专门针对最常用的小字号正文排版。方正书宋的字形端正清秀，中宫适度。凭着清晰爽目、久读不易疲劳、印刷适性好的优点，长期被作为杂志和书籍的正文首选字体，所以也是一款非常经典的正文宋体。
 
-**授权**
-
-![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square)
+![方正书宋](assets/image/FangZhengShuSong.svg)
 
  **参考**
 

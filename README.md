@@ -51,6 +51,9 @@
 | [杨任东竹石体](#杨任东竹石体) |![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
 | [破产字体](#破产字体) |![](https://img.shields.io/badge/license-GPL--3.0-orange?style=flat-square) |
 | [cwTeX字体](#cwTeX字体) |![](https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square) |
+| [字体视界法棍体](#字体视界法棍体) |![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square) |
+| [卓健橄榄简体](#卓健橄榄简体) |![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
+| [OPPO Sans](#OPPO Sans) |![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
 | [花园明朝](#花园明朝) | [![](https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square)](https://osdn.jp/projects/opensource/wiki/SIL_Open_Font_License_1.1) |
 | [源界明朝体](#源界明朝体) | [![](https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square)](https://osdn.jp/projects/opensource/wiki/SIL_Open_Font_License_1.1) |
 | [手写杂字体](#手写杂字体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
@@ -946,6 +949,50 @@ https://github.com/l10n-tw/cwtex-q-fonts
 **参考**
 
 https://www.17font.com/fontDay/OpenSource
+
+### 卓健橄榄简体
+
+![](assets/image/ZhuoJianGanLanJianTi.svg)
+
+**简介**
+
+「卓健橄榄简体」由[卓米品牌设计](https://www.zcool.com.cn/u/15755122)发布，并于于2019年底授权**限时免费商用**。收容7050个常用字，52 个英文字母，139个阿拉伯数字及常用标点符号，卓健橄榄简体是一款相对较时尚的字体，部分笔画斜切处理，让字体更具时尚感和时尚属性，整体中心偏上，更符合现代审美。
+
+> 官方给出的说法是限时免费下载，免费商用。具体是指可以免费商用，限时下载，还是限时免费商用，官方没有给出明确解释，这点存有疑问。如果有商用需求，请与官方联系求证。
+
+**授权**
+
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+
+**参考**
+
+[年终献礼-卓健橄榄简体发布，限时免费下载&免费商用](https://www.zcool.com.cn/work/ZNDA2MzA3ODQ=.html)
+
+### OPPO Sans
+
+![OPPO Sans Light](assets/image/OPPOSansLight.svg)
+
+![OPPO Sans Regular](assets/image/OPPOSansRegular.svg)
+
+![OPPO Sans Medium](assets/image/OPPOSansMedium.svg)
+
+![OPPO Sans Bold](assets/image/OPPOSansBold.svg)
+
+![OPPO Sans Heavy](assets/image/OPPOSansHeavy.svg)
+
+**简介**
+
+「OPPO Sans」 是 OPPO 全新品牌字体，首发于 ColorOS 6 操作系统，由 OPPO 与国内知名字体厂商汉仪合作开发出的全新中文字库，总共 226003 个字节。OPPO Sans 紧随品牌升级的步调，用文字全方位探索科技美感，字体整体简洁优雅，字型设计富有现代感，极具科技美感。
+
+字体采用全新骨架设计，中宫自然舒适，更加挺拔优雅；同时简化笔画，把握更多细节处理，去除出脚，使字体显得更加干净。简洁富有变化的字体线条还融入 OPPO 产品曲线美学，极具现代感和未来感，字体更加现代，笔画更加均匀，视觉表现更加整洁，非常适合用来作为设计素材使用，实用性相当广泛。
+
+**授权**
+
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+
+**参考**
+
+[ColorOS 社区](https://bbs.coloros.net/graphic?id=2272309)
 
 ## 日文
 

@@ -35,9 +35,9 @@
 | [源流明体](#源流明体) | [![GitHub](https://img.shields.io/github/license/ButTaiwan/genwan-font?style=flat-square)](https://github.com/ButTaiwan/genyo-font/blob/master/SIL_Open_Font_License_1.1.txt) |
 | [源样明体](#源样明体) | [![](https://img.shields.io/badge/license-IPA--1.0-orange?style=flat-square)](https://github.com/ichitenfont/I.Ming/blob/master/LICENSE.md) |
 | [一点明体](#一点明体) | [![](https://img.shields.io/badge/license-IPA--1.0-orange?style=flat-square)](https://github.com/ichitenfont/I.Ming/blob/master/LICENSE.md) |
-| [一点钢笔鹤体](#一点钢笔鹤体) | [![](https://img.shields.io/badge/license-GPL--2.0-orange?style=flat-square)](http://www.gnu.org/licenses/gpl-2.0.txt)[![](https://img.shields.io/badge/license-GPL--3.0-orange?style=flat-square)](http://www.gnu.org/licenses/gpl-3.0.txt) |
-| [一点颜体](#一点颜体) | [![](https://img.shields.io/badge/license-GPL--2.0-orange?style=flat-square)](http://www.gnu.org/licenses/gpl-2.0.txt)[![](https://img.shields.io/badge/license-GPL--3.0-orange?style=flat-square)](http://www.gnu.org/licenses/gpl-3.0.txt) |
-| [王汉宗系列](#王汉宗系列) | [![](https://img.shields.io/badge/license-GPL--2.0-orange?style=flat-square) |
+| [一点钢笔鹤体](#一点钢笔鹤体) | [![](https://img.shields.io/badge/license-GPL--2.0-orange?style=flat-square)](http://www.gnu.org/licenses/gpl-2.0.txt) [![](https://img.shields.io/badge/license-GPL--3.0-orange?style=flat-square)](http://www.gnu.org/licenses/gpl-3.0.txt) |
+| [一点颜体](#一点颜体) | [![](https://img.shields.io/badge/license-GPL--2.0-orange?style=flat-square)](http://www.gnu.org/licenses/gpl-2.0.txt) [![](https://img.shields.io/badge/license-GPL--3.0-orange?style=flat-square)](http://www.gnu.org/licenses/gpl-3.0.txt) |
+| [王汉宗系列](#王汉宗系列) | ![](https://img.shields.io/badge/license-GPL--2.0-orange?style=flat-square) |
 | [包图小白体](#包图小白体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)     |
 | [江西拙楷](#江西拙楷) |  ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)    |
 | [优设标题黑](#优设标题黑) |  ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)    |

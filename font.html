@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>字集-免费字体</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0">
+    <link rel="stylesheet" href="css/theme.css">
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.svg">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.svg">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.svg">
+
+</head>
+<body>
+
+<div class="site-wrapper">
+
+    <!-- Header -->
+    <header class="header header-default">
+        <div class="header-main">
+            <div class="container">
+                <nav class="navbar navbar-default fhmm" role="navigation">
+                    <script src="js/header.js"></script>
+                </nav>
+            </div>
+        </div>
+    </header>
+    <!-- Header / End -->
+
+    <!-- Main -->
+    <div class="main" role="main">
+        <!-- Page Heading -->
+
+        <!-- Page Heading / End -->
+        <!-- Page Content -->
+        <section class="page-content padding-bottom2">
+
+            <div class="container">
+                <div class="fonts-navigation">
+                    <div class="fontMainTit">
+                        <a href="javascript:" longdesc="hei">黑体系列</a>
+                        <a href="javascript:" longdesc="song">宋体系列</a>
+                        <a href="javascript:" longdesc="kai">楷体系列</a>
+                        <a href="javascript:" longdesc="yishu">艺术字体</a>
+                        <a href="javascript:" longdesc="shouhui">手绘字体</a>
+                    </div>
+                    <div id="fontList" class=""></div>
+                    
+
+                </div>
+                <div class="row">
+                    <div  class="col-sm-8 col-md-8 poster">
+                        <div id="poster"></div>
+                    </div>
+                    <div id="fontDesc" class="col-sm-4 col-md-4 font-detail-desc">
+                        <div class="fontDescTit" id="fontDescTit">简介</div>
+                        <div id="designDesc" class="fontDesc"  style="padding-bottom:30px;"></div>           
+
+                        <div class="fontDesc mobi-align-center down-wrapper">						
+                            <a id="down" class="btn btn-red btn-buy btn-down" target="blank" style="text-align:center;display: none;" href="#">开始下载</a>
+                        </div>
+                    </div>
+                    <div id="fontImgset" class="col-sm-12 col-md-12 poster"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Page Content / End -->
+
+        <!-- Footer -->
+        <footer class="myfooter">
+            <div class="container">
+                <script src="js/footer.js?8.0"></script>
+            </div>
+        </footer>
+        <!-- Footer / End -->
+
+    </div>
+    <!-- Main / End -->
+</div>
+
+<!-- Javascript Files
+================================================== -->
+<script src="vendor/jquery-1.11.0.min.js"></script>
+
+<script src="js/custom.js"></script>
+
+<script type="text/javascript" src="js/data.js"></script>
+<script type="text/javascript">
+    var song = new Array();
+    var hei = new Array();
+    var kai = new Array();
+    var shouhui = new Array();
+    var yishu = new Array();
+
+    function insertFontNaviHtml() {
+        var fname = location.search.substring(1);
+        fname = fname.indexOf("=")>=0?fname.substring(0,fname.length-1):fname;
+        var ttype = fontsMap[fname].type;
+        var download = fontsMap[fname].download;
+        if (download.length > 0) {
+            $("#down").attr("href",download).show();
+        }
+        var mainNavi = new Array();
+        for (var fontname in fontsMap) {
+            var name = fontsMap[fontname].name;
+            var code = fontsMap[fontname].code;
+			var type = fontsMap[fontname].type;
+            if(type=="1"){
+				    hei.push('<a class="' + (hei.length == 0 ? 'firstFont' : '') + (fname == fontname ? ' on' : '') + '" href="font.html?' + fontname + '#try" >' + name + '</a>');
+				}else if(type=="2"){
+					song.push('<a class="' + (song.length == 0 ? 'firstFont' : '') + (fname == fontname ? ' on' : '') + '" href="font.html?' + fontname + '#try" l>' + name + '</a>');
+				}else if(type=="3"){
+					kai.push('<a class="' + (yishu.length == 0 ? 'firstFont' : '') + (fname == fontname ? ' on' : '') + '" href="font.html?' + fontname + '#try" >' + name + '</a>');
+				}else if(type=="4"){
+					yishu.push('<a class="' + (yishu.length == 0 ? 'firstFont' : '') + (fname == fontname ? ' on' : '') + '" href="font.html?' + fontname + '#try" >' + name + '</a>');
+				}else if(type=="5"){
+					shouhui.push('<a class="' + (shouhui.length == 0 ? 'firstFont' : '') + (fname == fontname ? ' on' : '') + '" href="font.html?' + fontname + '#try" >' + name + '</a>');
+				}
+            
+        };
+
+        if (ttype=="1") {
+            $("#fontList").append(hei.join('\r\n'));
+            $(".fontMainTit a").eq(0).addClass("on");
+        } else if (ttype=="2") {
+            $("#fontList").append(song.join('\r\n'));
+            $(".fontMainTit a").eq(1).addClass("on");
+        }else if (ttype=="3") {
+            $("#fontList").append(kai.join('\r\n'));
+            $(".fontMainTit a").eq(2).addClass("on");
+        }  else if (ttype=="4") {
+            $("#fontList").append(yishu.join('\r\n'));
+            $(".fontMainTit a").eq(3).addClass("on");
+        } else if (ttype=="5"){
+            $("#fontList").append(shouhui.join('\r\n'));
+            $(".fontMainTit a").eq(4).addClass("on");
+        }
+
+
+        var posters = fontsMap[fname].posters;
+        var imgsHtml = new Array();
+        var posterHtml = '';
+        var imgsLength = posters.length;
+        for (var i = 0; i < imgsLength; i++) {
+            if (i == 0) {
+                posterHtml = '<img src="' + posters[i] + '"/>\r\n';
+            } else {
+                imgsHtml.push('<img src="' + posters[i] + '"/>');
+            }
+            
+        }
+        $("#fontImgset").append(imgsHtml.join('\r\n'));
+        $("#poster").append(posterHtml);
+        $("#designDesc").html(fontsMap[fname].desc);
+        $("#fontDescTit").html(fontsMap[fname].name.replace("-", "") + "设计说明");
+       // $("#headerFontName").html(fontsMap[fname].name.replace("-", ""));
+
+        /**/
+        $(".fontMainTit a").on("click", function () {
+            $(".fontMainTit a").removeClass("on");
+            $(this).addClass("on");
+            var aimNavi = eval($(this).attr("longdesc"));
+            $("#fontList").html(aimNavi.join('\r\n'));
+        });
+
+    }
+    ;
+
+    $(document).ready(function () {
+        insertFontNaviHtml();
+    });
+	
+</script>
+
+</body>
+</html>

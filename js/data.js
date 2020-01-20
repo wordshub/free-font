@@ -272,6 +272,18 @@ var fontsMap = {
         source: 'https://www.zcool.com.cn/work/ZNDE4MzY4Mjg=.html',
         download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%85%B6%E4%BB%96%E5%AD%97%E4%BD%93/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7.ttf',
         desc: '由站酷设计师@Fontree （黄煜臣）个人开发并发布，这是一套手写楷体，相比电脑中标准化制作的楷体，这套字体的笔画会带有一些书写的痕迹，每个字的笔画是没有统一标准的，所以看上去显得不够规范，但是会有一种手写的自然之感。'
+    },
+    WenCangShuFang_Regular: {
+        type: '4',
+        code: 'wencangshufang',
+        name: '问藏书房',
+        preview: 'images/font/wencangshufang/font.svg',
+        posters: ['images/font/wencangshufang/poster.svg'],
+        license: '商免',
+        auth: false,
+        source: 'https://www.wencang.com/font.jsp',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%85%B6%E4%BB%96%E5%AD%97%E4%BD%93/%E9%97%AE%E8%97%8F%E4%B9%A6%E6%88%BF.ttf',
+        desc: '问藏书房字体是由问藏书房联合造字工房一起的设计的一款免费字体，字体整体现代简约，中宫紧凑，视觉阅读极具层次感，字字俊秀且呈现古雅之风，设计团队以精心的设计赋予了汉字全新美感！字符编码采用中华人民共和国GB2312-80字符集标准，按需添加101个汉字。共收容字数6864CJK汉字，ASCII常用字符100个。'
     }
 
 };

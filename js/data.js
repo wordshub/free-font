@@ -317,7 +317,7 @@ var fontsMap = {
         preview: 'images/font/shoushuti/font.svg',
         posters: ['images/font/shoushuti/poster.svg'],
         license: '商免',
-        auth: true,
+        auth: false,
         source: 'https://www.zcool.com.cn/work/ZMjI2MDk1MDg=.html',
         download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%85%B6%E4%BB%96%E5%AD%97%E4%BD%93/%E6%89%8B%E4%B9%A6%E4%BD%93.ttf',
         desc: '由站酷设计师@Joker9 设计，收录基本汉字6763个，字体风格为手写风格，可以用于slogan、banner、海报、商标等设计里面。'
@@ -329,10 +329,22 @@ var fontsMap = {
         preview: 'images/font/yangrendongzhushiti/font.svg',
         posters: ['images/font/yangrendongzhushiti/poster.svg'],
         license: '商免',
-        auth: true,
+        auth: false,
         source: 'https://mp.weixin.qq.com/s/7kv3i_YEs7x9_9IrCDYvBA',
         download: '',
         desc: '杨任东竹石体于2017年4月26日世界知识产权日正式发布，本字体版本为1.23字体按照GB2312-80书写，并增补了少量常见汉字；整套字体有7个字重，共计50000余个字符'
+    },
+    ZiTiShiJieFaGunTi_Regular: {
+        type: '4',
+        code: 'zitishijiefagunti',
+        name: '字体视界法棍体',
+        preview: 'images/font/zitishijiefagunti/font.svg',
+        posters: ['images/font/zitishijiefagunti/poster.svg'],
+        license: '商免',
+        auth: true,
+        source: 'https://www.17font.com/fontDay/OpenSource',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%85%B6%E4%BB%96%E5%AD%97%E4%BD%93/%E5%AD%97%E4%BD%93%E8%A7%86%E7%95%8C%E6%B3%95%E6%A3%8D%E4%BD%93.ttf',
+        desc: '「字体视界法棍体」由原字体（《义启嘟嘟体》登记号：沪作登字-2016-F-00712739）更名而来。由上海义启信息科技有限公司字库部员工通过字体软件进行设计与制作，为了让更多的人可以免费使用商用字体，公司决定改名为《字体视界法棍体》，并于2019年7月17日字体节这天在字体视界官网发布许可广大用户免费商用。字体视界法棍体笔画中间呈弧形外拓，充满张力，加粗字形笔画显得更可爱个性；结构空间变化不像正体那样小，以拙为巧，憨态可掬。这款字体笔画纤细充满张力，规律加粗，曲线折角充分展现它可爱不粗笨的气质笔画，结构外圆内疏，左右呼应如手写，各个字生机勃勃又融为一体，整体一气呵成。采用 GB2312 编码，共收容 7698 个字符，包含 6771 个汉字，110 个大写字母，139 个小写字母，102 个数字（包含阿拉伯数字，罗马数字等），98 个标点符号，其他特殊符号 164 个，其他字母 224 个。'
     }
 
 };

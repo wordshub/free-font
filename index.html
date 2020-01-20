@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -41,16 +42,18 @@
             <section class="page-content padding-bottom2">
 
                 <div class="container project-feed-wrapper" style="visibility:hidden;">
-                    <div class="title-top-bordered"></div>
+
 
                     <div class="clearfix">
                         <!-- Project Feed Filter -->
                         <ul class="project-feed-filter">
-                            <li><a href="#" class="btn btn-black btn-primary2" data-filter="*">全部</a></li>
+                            <li><a href="#" class="btn btn-black btn-primary2" data-filter="*">全部字体</a></li>
                             <li><a href="#" class="btn btn-black btn-default2" data-filter=".hei" id="hei">黑体系列</a></li>
-                            <li><a href="#" class="btn btn-black btn-default2" data-filter=".song" id="song">宋体系列</a></li>
+                            <li><a href="#" class="btn btn-black btn-default2" data-filter=".song" id="song">宋体系列</a>
+                            </li>
                             <li><a href="#" class="btn btn-black btn-default2" data-filter=".kai" id="kai">楷体系列</a></li>
-                            <li><a href="#" class="btn btn-black btn-default2" data-filter=".yishu" id="yishu">艺术字体</a></li>
+                            <li><a href="#" class="btn btn-black btn-default2" data-filter=".yishu" id="yishu">艺术字体</a>
+                            </li>
                             <li><a href="#" class="btn btn-black btn-default2" data-filter=".shouhui" id="shouhui">手绘字体</a></li>
                         </ul>
                         <!-- Project Feed Filter / End -->
@@ -86,7 +89,7 @@
                                 </div>
                             </div>
                         </div> -->
-                        
+
                     </div>
                 </div>
             </section>
@@ -145,7 +148,7 @@
                     mainNavi.push('<img src="images/font/' + fontsMap[fontname].code + '/font.svg?20191230" alt="" />');
                     mainNavi.push('<div class="overlay"><a href="font.html?' + fontname + '" class="dlink"></a></div>');
                     mainNavi.push('</figure><div class="project-desc"><a class="fontTitle" href="font.html?' + fontname + '">' + name + '</a>');
-                    mainNavi.push('<a target="blank" href="'+ source +'"><span class="license">'+ license +'</span></a>');
+                    mainNavi.push('<a target="blank" href="' + source + '"><span class="license">' + license + '</span></a>');
                     if (auth) {
                         mainNavi.push('<span class="license">需授权</span>');
                     }
@@ -157,16 +160,16 @@
             $("#fontset").append(mainNavi.join('\r\n'));
         };
 
-        jQuery(document).ready(function () {
-            $('#imgHeading').imagesLoaded(function () {
+        jQuery(document).ready(function() {
+            $('#imgHeading').imagesLoaded(function() {
                 //$("#headerTitle").addClass('animated fadeIn');
             });
 
             insertFontNaviHtml();
-            var the_font_type = location.search.substring(1);//hei
+            var the_font_type = location.search.substring(1); //hei
             var $project_feed_wrapper = $(".project-feed-wrapper");
             var $container = $('.project-feed, .masonry-feed');
-            $container.imagesLoaded(function () {
+            $container.imagesLoaded(function() {
                 var $filter = $('.project-feed-filter');
                 $container.isotope({
                     filter: '*',
@@ -174,7 +177,7 @@
                     layoutMode: 'masonry',
                     itemSelector: '.project-item, .masonry-item'
                 });
-                $filter.on('click', 'a', function () {
+                $filter.on('click', 'a', function() {
                     var filterValue = $(this).attr('data-filter');
                     $filter.find('a').removeClass('btn-primary2').addClass('btn-default2');
                     $(this).addClass('btn-primary2').removeClass('btn-default2');
@@ -186,7 +189,9 @@
                 if (the_font_type.length > 0) {
                     var $aimType = $filter.find("#" + the_font_type).click();
                 }
-                $project_feed_wrapper.css({ "visibility": "visible" });
+                $project_feed_wrapper.css({
+                    "visibility": "visible"
+                });
             });
         });
     </script>

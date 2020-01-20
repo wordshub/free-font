@@ -248,6 +248,18 @@ var fontsMap = {
         source: 'https://www.zcool.com.cn/work/ZMzYwMzk2MjA=.html',
         download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E6%B2%90%E7%91%B6%E5%AD%97%E4%BD%93%E7%B3%BB%E5%88%97/%E6%B2%90%E7%91%B6%E9%9A%8F%E5%BF%83%E6%89%8B%E5%86%99%E4%BD%93.ttf',
         desc: '「沐瑶随心手写体」站酷设计师@春颜秋色免费开发的第二款公益字体。沐瑶是以其女儿的名字命名的。字体本身是基于GB2312-80标准，共包含6763个汉字和数百个符号。'
+    },
+    BaoTuXiaoBaiTi_Regular: {
+        type: '4',
+        code: 'baotuxiaobaiti',
+        name: '包图小白体',
+        preview: 'images/font/baotuxiaobaiti/font.svg',
+        posters: ['images/font/baotuxiaobaiti/poster.svg'],
+        license: '商免',
+        auth: false,
+        source: 'https://act.ibaotu.com/activity/1.html',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%85%B6%E4%BB%96%E5%AD%97%E4%BD%93/%E5%8C%85%E5%9B%BE%E5%B0%8F%E7%99%BD%E4%BD%93.ttf',
+        desc: '包图小白体， 定义为一款简单可爱的创意字体。在字形笔画上去除了折笔的弧形，换之以平直的笔画，竖弯钩转为竖折，同时弱化了钩笔画，省去了许多笔画末尾的小尾巴，显得更加直白可爱。粗短的笔画，像柯基的小短腿，相比细长的字体能给人更多的轻松感。整体形态采用了镂空的制作技巧，增强了字体的立体感，适合用于品牌标志、海报、包装、影视综艺、游戏、漫画等场景。包图小白体采用GB2312编码，共收容7707个字符，包含6763个简体汉字、110个大写字母、139个小写字母、102个数字、95个标点符号、其他特殊类符号288个、其他字母210个（包含日文平假名片假名）。'
     }
 
 };

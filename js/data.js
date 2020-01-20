@@ -260,6 +260,18 @@ var fontsMap = {
         source: 'https://act.ibaotu.com/activity/1.html',
         download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%85%B6%E4%BB%96%E5%AD%97%E4%BD%93/%E5%8C%85%E5%9B%BE%E5%B0%8F%E7%99%BD%E4%BD%93.ttf',
         desc: '包图小白体， 定义为一款简单可爱的创意字体。在字形笔画上去除了折笔的弧形，换之以平直的笔画，竖弯钩转为竖折，同时弱化了钩笔画，省去了许多笔画末尾的小尾巴，显得更加直白可爱。粗短的笔画，像柯基的小短腿，相比细长的字体能给人更多的轻松感。整体形态采用了镂空的制作技巧，增强了字体的立体感，适合用于品牌标志、海报、包装、影视综艺、游戏、漫画等场景。包图小白体采用GB2312编码，共收容7707个字符，包含6763个简体汉字、110个大写字母、139个小写字母、102个数字、95个标点符号、其他特殊类符号288个、其他字母210个（包含日文平假名片假名）。'
+    },
+    JiangXiZhuoKai_Regular: {
+        type: '4',
+        code: 'jiangxizhuokai',
+        name: '江西拙楷',
+        preview: 'images/font/jiangxizhuokai/font.svg',
+        posters: ['images/font/jiangxizhuokai/poster.svg'],
+        license: '商免',
+        auth: false,
+        source: 'https://www.zcool.com.cn/work/ZNDE4MzY4Mjg=.html',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%85%B6%E4%BB%96%E5%AD%97%E4%BD%93/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7.ttf',
+        desc: '由站酷设计师@Fontree （黄煜臣）个人开发并发布，这是一套手写楷体，相比电脑中标准化制作的楷体，这套字体的笔画会带有一些书写的痕迹，每个字的笔画是没有统一标准的，所以看上去显得不够规范，但是会有一种手写的自然之感。'
     }
 
 };

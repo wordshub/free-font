@@ -297,6 +297,18 @@ var fontsMap = {
         source: 'https://www.zcool.com.cn/work/ZMzUxMzUzNzY=.html',
         download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%85%B6%E4%BB%96%E5%AD%97%E4%BD%93/%E8%81%94%E7%9B%9F%E8%B5%B7%E8%89%BA%E5%8D%A2%E5%B8%85%E6%AD%A3%E9%94%90%E9%BB%91%E4%BD%93.ttf',
         desc: '「联盟起艺卢帅正锐黑体」由站酷设计师@设计师卢帅 在站酷发布，共计8000余字'
+    },
+    XianErTi_Regular: {
+        type: '4',
+        code: 'xianerti',
+        name: '贤二体',
+        preview: 'images/font/xianerti/font.svg',
+        posters: ['images/font/xianerti/poster.svg'],
+        license: '商免',
+        auth: true,
+        source: 'https://www.zcool.com.cn/article/ZNjk4NDM2.html',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%85%B6%E4%BB%96%E5%AD%97%E4%BD%93/%E8%B4%A4%E4%BA%8C%E4%BD%93.ttf',
+        desc: '「贤二体」是龙泉专寺动漫中心与汉仪字库联合推出的一款免费商用字体。贤二体的字形偏长，起笔收笔锋利且粗细对比明显，笔画笨拙微带曲线感。字体组合结构松散，重心不稳，达到诙谐幽默，惹人喜爱的效果。'
     }
 
 };

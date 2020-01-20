@@ -1,4 +1,5 @@
-﻿//type  1:黑体 2:宋体 3:楷体 4:艺术字体 5:手绘体
+﻿var baseUrl = 'https://cdn.jsdelivr.net/gh/wordshub/free-font/';
+//type  1:黑体 2:宋体 3:楷体 4:艺术字体 5:手绘体
 var fontsMap = {
     SiYuanSongTi_Regular: {
         type: '2',

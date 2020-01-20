@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>字集-免费字体</title>
+    <base href="https://cdn.jsdelivr.net/gh/wordshub/free-font/" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0">
     <link rel="stylesheet" href="css/theme.css">
     <link rel="shortcut icon" href="images/favicon.ico">
@@ -39,7 +40,7 @@
         <div class="main" role="main">
 
             <!-- Page Content -->
-            <section class="page-content padding-bottom2">
+            <section class="page-content">
 
                 <div class="container project-feed-wrapper" style="visibility:hidden;">
 
@@ -144,8 +145,9 @@
                     } else if (type == "5") {
                         fontType = "shouhui";
                     }
+                    var preview = fontsMap[fontname].preview;
                     mainNavi.push('<div class="col-xs-12 col-sm-6 col-md-4 project-item ' + fontType + '"><div class="project-item-inner"><figure class="alignnone project-img">');
-                    mainNavi.push('<img src="images/font/' + fontsMap[fontname].code + '/font.svg" alt="" />');
+                    mainNavi.push('<img src="' + preview + '" alt="" />');
                     mainNavi.push('<div class="overlay"><a href="font.html?' + fontname + '" class="dlink"></a></div>');
                     mainNavi.push('</figure><div class="project-desc"><a class="fontTitle" href="font.html?' + fontname + '">' + name + '</a>');
                     mainNavi.push('<a target="blank" href="' + source + '"><span class="license">' + license + '</span></a>');

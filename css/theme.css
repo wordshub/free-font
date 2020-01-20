@@ -789,7 +789,7 @@ div.logo-bottom-bordered {
 }
 
 .project-feed {
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 
 .project-item {
@@ -883,19 +883,6 @@ div.logo-bottom-bordered {
 
 .container {
     padding-bottom: 0px;
-}
-
-.padding-bottom2 {
-    padding-bottom: 90px;
-}
-
-div.title-top-bordered {
-    width: 230px;
-    border-top: 4px solid #000;
-    font-size: 14px;
-    font-weight: bold;
-    line-height: 36px;
-    padding-bottom: 18px;
 }
 
 .alignleft img,

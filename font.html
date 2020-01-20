@@ -146,10 +146,16 @@
             var posterHtml = '';
             var imgsLength = posters.length;
             for (var i = 0; i < imgsLength; i++) {
+
+                var image = posters[i];
+                if (image.indexOf('http') == -1) {
+                    image = baseUrl + image;
+                }
+
                 if (i == 0) {
-                    posterHtml = '<img src="' + posters[i] + '"/>\r\n';
+                    posterHtml = '<img src="' + image + '"/>\r\n';
                 } else {
-                    imgsHtml.push('<img src="' + posters[i] + '"/>');
+                    imgsHtml.push('<img src="' + image + '"/>');
                 }
 
             }

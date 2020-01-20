@@ -114,7 +114,7 @@
 
 
     <script src="//cdn.jsdelivr.net/gh/wordshub/free-font/js/custom.js"></script>
-    <script src="//cdn.jsdelivr.net/gh/wordshub/free-font/js/data.js"></script>
+    <script src="js/data.js"></script>
     <script>
         function insertFontNaviHtml() {
             var mainNavi = new Array();
@@ -144,7 +144,7 @@
                     } else if (type == "5") {
                         fontType = "shouhui";
                     }
-                    var preview = fontsMap[fontname].preview;
+                    var preview = baseUrl + fontsMap[fontname].preview;
                     mainNavi.push('<div class="col-xs-12 col-sm-6 col-md-4 project-item ' + fontType + '"><div class="project-item-inner"><figure class="alignnone project-img">');
                     mainNavi.push('<img src="' + preview + '" alt="" />');
                     mainNavi.push('<div class="overlay"><a href="font.html?' + fontname + '" class="dlink"></a></div>');

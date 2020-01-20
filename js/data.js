@@ -309,6 +309,30 @@ var fontsMap = {
         source: 'https://www.zcool.com.cn/article/ZNjk4NDM2.html',
         download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%85%B6%E4%BB%96%E5%AD%97%E4%BD%93/%E8%B4%A4%E4%BA%8C%E4%BD%93.ttf',
         desc: '「贤二体」是龙泉专寺动漫中心与汉仪字库联合推出的一款免费商用字体。贤二体的字形偏长，起笔收笔锋利且粗细对比明显，笔画笨拙微带曲线感。字体组合结构松散，重心不稳，达到诙谐幽默，惹人喜爱的效果。'
+    },
+    ShouShuTi_Regular: {
+        type: '5',
+        code: 'shoushuti',
+        name: '手书体',
+        preview: 'images/font/shoushuti/font.svg',
+        posters: ['images/font/shoushuti/poster.svg'],
+        license: '商免',
+        auth: true,
+        source: 'https://www.zcool.com.cn/work/ZMjI2MDk1MDg=.html',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%85%B6%E4%BB%96%E5%AD%97%E4%BD%93/%E6%89%8B%E4%B9%A6%E4%BD%93.ttf',
+        desc: '由站酷设计师@Joker9 设计，收录基本汉字6763个，字体风格为手写风格，可以用于slogan、banner、海报、商标等设计里面。'
+    },
+    YangRenDongZhuShiTi_Regular: {
+        type: '4',
+        code: 'yangrendongzhushiti',
+        name: '杨任东竹石体',
+        preview: 'images/font/yangrendongzhushiti/font.svg',
+        posters: ['images/font/yangrendongzhushiti/poster.svg'],
+        license: '商免',
+        auth: true,
+        source: 'https://mp.weixin.qq.com/s/7kv3i_YEs7x9_9IrCDYvBA',
+        download: '',
+        desc: '杨任东竹石体于2017年4月26日世界知识产权日正式发布，本字体版本为1.23字体按照GB2312-80书写，并增补了少量常见汉字；整套字体有7个字重，共计50000余个字符'
     }
 
 };

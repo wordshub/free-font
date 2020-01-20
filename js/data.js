@@ -227,7 +227,7 @@ var fontsMap = {
         desc: '「胡晓波真帅体」是由设计师胡晓波设计的一款免费字体'
     },
     MuYaoRuanBiShouXieTi_Regular: {
-        type: '4',
+        type: '5',
         code: 'muyaoruanbishouxieti',
         name: '沐瑶软笔手写体',
         preview: 'images/font/muyaoruanbishouxieti/font.svg',
@@ -239,7 +239,7 @@ var fontsMap = {
         desc: '「沐瑶软笔手写体」（Muyao-Softbrush ） 是一款手写体，自来站酷设计师@春颜秋色送给女儿的礼物。也是以女儿名字命名的一款可免费商用的手写字体。遵循GB2312标准，共包含6763个汉字加数字英文和常用标点。'
     },
     MuYaoSuiXinShouXieTi_Regular: {
-        type: '4',
+        type: '5',
         code: 'muyaosuixinshouxieti',
         name: '沐瑶随心手写体',
         preview: 'images/font/muyaosuixinshouxieti/font.svg',
@@ -260,7 +260,7 @@ var fontsMap = {
         auth: false,
         source: 'https://act.ibaotu.com/activity/1.html',
         download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%85%B6%E4%BB%96%E5%AD%97%E4%BD%93/%E5%8C%85%E5%9B%BE%E5%B0%8F%E7%99%BD%E4%BD%93.ttf',
-        desc: '包图小白体， 定义为一款简单可爱的创意字体。在字形笔画上去除了折笔的弧形，换之以平直的笔画，竖弯钩转为竖折，同时弱化了钩笔画，省去了许多笔画末尾的小尾巴，显得更加直白可爱。粗短的笔画，像柯基的小短腿，相比细长的字体能给人更多的轻松感。整体形态采用了镂空的制作技巧，增强了字体的立体感，适合用于品牌标志、海报、包装、影视综艺、游戏、漫画等场景。包图小白体采用GB2312编码，共收容7707个字符，包含6763个简体汉字、110个大写字母、139个小写字母、102个数字、95个标点符号、其他特殊类符号288个、其他字母210个（包含日文平假名片假名）。'
+        desc: '「包图小白体」定义为一款简单可爱的创意字体。在字形笔画上去除了折笔的弧形，换之以平直的笔画，竖弯钩转为竖折，同时弱化了钩笔画，省去了许多笔画末尾的小尾巴，显得更加直白可爱。粗短的笔画，像柯基的小短腿，相比细长的字体能给人更多的轻松感。整体形态采用了镂空的制作技巧，增强了字体的立体感，适合用于品牌标志、海报、包装、影视综艺、游戏、漫画等场景。包图小白体采用GB2312编码，共收容7707个字符，包含6763个简体汉字、110个大写字母、139个小写字母、102个数字、95个标点符号、其他特殊类符号288个、其他字母210个（包含日文平假名片假名）。'
     },
     JiangXiZhuoKai_Regular: {
         type: '4',
@@ -272,7 +272,7 @@ var fontsMap = {
         auth: false,
         source: 'https://www.zcool.com.cn/work/ZNDE4MzY4Mjg=.html',
         download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%85%B6%E4%BB%96%E5%AD%97%E4%BD%93/%E6%B1%9F%E8%A5%BF%E6%8B%99%E6%A5%B7.ttf',
-        desc: '由站酷设计师@Fontree （黄煜臣）个人开发并发布，这是一套手写楷体，相比电脑中标准化制作的楷体，这套字体的笔画会带有一些书写的痕迹，每个字的笔画是没有统一标准的，所以看上去显得不够规范，但是会有一种手写的自然之感。'
+        desc: '「江西拙楷」由站酷设计师@Fontree （黄煜臣）个人开发并发布，这是一套手写楷体，相比电脑中标准化制作的楷体，这套字体的笔画会带有一些书写的痕迹，每个字的笔画是没有统一标准的，所以看上去显得不够规范，但是会有一种手写的自然之感。'
     },
     WenCangShuFang_Regular: {
         type: '4',
@@ -284,7 +284,19 @@ var fontsMap = {
         auth: false,
         source: 'https://www.wencang.com/font.jsp',
         download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%85%B6%E4%BB%96%E5%AD%97%E4%BD%93/%E9%97%AE%E8%97%8F%E4%B9%A6%E6%88%BF.ttf',
-        desc: '问藏书房字体是由问藏书房联合造字工房一起的设计的一款免费字体，字体整体现代简约，中宫紧凑，视觉阅读极具层次感，字字俊秀且呈现古雅之风，设计团队以精心的设计赋予了汉字全新美感！字符编码采用中华人民共和国GB2312-80字符集标准，按需添加101个汉字。共收容字数6864CJK汉字，ASCII常用字符100个。'
+        desc: '「问藏书房」字体是由问藏书房联合造字工房一起的设计的一款免费字体，字体整体现代简约，中宫紧凑，视觉阅读极具层次感，字字俊秀且呈现古雅之风，设计团队以精心的设计赋予了汉字全新美感！字符编码采用中华人民共和国GB2312-80字符集标准，按需添加101个汉字。共收容字数6864CJK汉字，ASCII常用字符100个。'
+    },
+    LianMengQiYiLuShuaiZhenRuiHeiTi_Regular: {
+        type: '4',
+        code: 'lianmengqiyilushuaizhenruiheiti',
+        name: '联盟起艺卢帅正锐黑体',
+        preview: 'images/font/lianmengqiyilushuaizhenruiheiti/font.svg',
+        posters: ['images/font/lianmengqiyilushuaizhenruiheiti/poster.svg'],
+        license: '商免',
+        auth: false,
+        source: 'https://www.zcool.com.cn/work/ZMzUxMzUzNzY=.html',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%85%B6%E4%BB%96%E5%AD%97%E4%BD%93/%E8%81%94%E7%9B%9F%E8%B5%B7%E8%89%BA%E5%8D%A2%E5%B8%85%E6%AD%A3%E9%94%90%E9%BB%91%E4%BD%93.ttf',
+        desc: '「联盟起艺卢帅正锐黑体」由站酷设计师@设计师卢帅 在站酷发布，共计8000余字'
     }
 
 };

@@ -393,6 +393,42 @@ var fontsMap = {
         source: 'https://www.zcool.com.cn/work/ZMzc1MDI2Njg=.html',
         download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%85%B6%E4%BB%96%E5%AD%97%E4%BD%93/%E6%96%B0%E5%8F%B6%E5%BF%B5%E4%BD%93.otf',
         desc: '「新叶念体」采用GB2312编码，约6900字，王亚设计 在站酷发布。'
+    },
+    QingSongShouXieTiYi_Regular: {
+        type: '5',
+        code: 'qingsongshouxietiyi',
+        name: '清松手写体1',
+        preview: 'images/font/qingsongshouxietiyi/font.svg',
+        posters: ['images/font/qingsongshouxietiyi/poster.svg'],
+        license: '商免',
+        auth: false,
+        source: 'https://www.facebook.com/groups/549661292148791/',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%85%B6%E4%BB%96%E5%AD%97%E4%BD%93/%E6%B8%85%E6%9D%BE%E6%89%8B%E5%AF%AB%E9%AB%94/%E6%B8%85%E6%9D%BE%E6%89%8B%E5%AF%AB%E9%AB%941.ttf',
+        desc: '「清松手写体」它是一款来自台湾的字体，它由游清松建立，为了创建这个字体，他还成立了一个小组： 「顺其字然」，首先先在稿纸上用原子笔手写，然后，透过「守写字」网站产生出初稿字体，再透过字体软件后制加工的手写字体。「顺其字然」手写字体，没有一般计算机字型的生硬感，多了几分手写般的自然感。不论是中文、英文、符号数字，适合在计算机屏幕上阅读、排版，打印出来效果也很棒的！'
+    },
+    QingSongShouXieTiEr_Regular: {
+        type: '5',
+        code: 'qingsongshouxietier',
+        name: '清松手写体2',
+        preview: 'images/font/qingsongshouxietier/font.svg',
+        posters: ['images/font/qingsongshouxietier/poster.svg'],
+        license: '商免',
+        auth: false,
+        source: 'https://www.facebook.com/groups/549661292148791/',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%85%B6%E4%BB%96%E5%AD%97%E4%BD%93/%E6%B8%85%E6%9D%BE%E6%89%8B%E5%AF%AB%E9%AB%94/%E6%B8%85%E6%9D%BE%E6%89%8B%E5%AF%AB%E9%AB%942.ttf',
+        desc: '「清松手写体」它是一款来自台湾的字体，它由游清松建立，为了创建这个字体，他还成立了一个小组： 「顺其字然」，首先先在稿纸上用原子笔手写，然后，透过「守写字」网站产生出初稿字体，再透过字体软件后制加工的手写字体。「顺其字然」手写字体，没有一般计算机字型的生硬感，多了几分手写般的自然感。不论是中文、英文、符号数字，适合在计算机屏幕上阅读、排版，打印出来效果也很棒的！'
+    },
+    QingSongShouXieTiSan_Regular: {
+        type: '5',
+        code: 'qingsongshouxietisan',
+        name: '清松手写体3',
+        preview: 'images/font/qingsongshouxietisan/font.svg',
+        posters: ['images/font/qingsongshouxietisan/poster.svg'],
+        license: '商免',
+        auth: false,
+        source: 'https://www.facebook.com/groups/549661292148791/',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%85%B6%E4%BB%96%E5%AD%97%E4%BD%93/%E6%B8%85%E6%9D%BE%E6%89%8B%E5%AF%AB%E9%AB%94/%E6%B8%85%E6%9D%BE%E6%89%8B%E5%AF%AB%E9%AB%943.ttf',
+        desc: '「清松手写体」它是一款来自台湾的字体，它由游清松建立，为了创建这个字体，他还成立了一个小组： 「顺其字然」，首先先在稿纸上用原子笔手写，然后，透过「守写字」网站产生出初稿字体，再透过字体软件后制加工的手写字体。「顺其字然」手写字体，没有一般计算机字型的生硬感，多了几分手写般的自然感。不论是中文、英文、符号数字，适合在计算机屏幕上阅读、排版，打印出来效果也很棒的！'
     }
 
 };

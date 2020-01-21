@@ -345,6 +345,18 @@ var fontsMap = {
         source: 'https://www.17font.com/fontDay/OpenSource',
         download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%85%B6%E4%BB%96%E5%AD%97%E4%BD%93/%E5%AD%97%E4%BD%93%E8%A7%86%E7%95%8C%E6%B3%95%E6%A3%8D%E4%BD%93.ttf',
         desc: '「字体视界法棍体」由原字体（《义启嘟嘟体》登记号：沪作登字-2016-F-00712739）更名而来。由上海义启信息科技有限公司字库部员工通过字体软件进行设计与制作，为了让更多的人可以免费使用商用字体，公司决定改名为《字体视界法棍体》，并于2019年7月17日字体节这天在字体视界官网发布许可广大用户免费商用。字体视界法棍体笔画中间呈弧形外拓，充满张力，加粗字形笔画显得更可爱个性；结构空间变化不像正体那样小，以拙为巧，憨态可掬。这款字体笔画纤细充满张力，规律加粗，曲线折角充分展现它可爱不粗笨的气质笔画，结构外圆内疏，左右呼应如手写，各个字生机勃勃又融为一体，整体一气呵成。采用 GB2312 编码，共收容 7698 个字符，包含 6771 个汉字，110 个大写字母，139 个小写字母，102 个数字（包含阿拉伯数字，罗马数字等），98 个标点符号，其他特殊符号 164 个，其他字母 224 个。'
+    },
+    ZhuoJianGanLanJianTi_Regular: {
+        type: '4',
+        code: 'zhuojianganlanjianti',
+        name: '卓健橄榄简体',
+        preview: 'images/font/zhuojianganlanjianti/font.svg',
+        posters: ['images/font/zhuojianganlanjianti/poster.svg'],
+        license: '商免',
+        auth: false,
+        source: 'https://www.zcool.com.cn/work/ZNDA2MzA3ODQ=.html',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%85%B6%E4%BB%96%E5%AD%97%E4%BD%93/%E5%8D%93%E5%81%A5%E6%A9%84%E6%A6%84%E7%AE%80%E4%BD%93.ttf',
+        desc: '「卓健橄榄简体」由卓米品牌设计发布，并于于2019年底授权限时免费商用。收容7050个常用字，52 个英文字母，139个阿拉伯数字及常用标点符号，卓健橄榄简体是一款相对较时尚的字体，部分笔画斜切处理，让字体更具时尚感和时尚属性，整体中心偏上，更符合现代审美。官方给出的说法是限时免费下载，免费商用。具体是指可以免费商用，限时下载，还是限时免费商用，官方没有给出明确解释，这点存有疑问。如果有商用需求，请与官方联系求证。'
     }
 
 };

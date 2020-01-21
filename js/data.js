@@ -585,6 +585,30 @@ var fontsMap = {
         source: 'http://founder.acgvlyric.org/iu/doku.php/%E9%80%A0%E5%AD%97:%E9%96%8B%E6%BA%90%E5%AD%97%E5%9E%8B_i.%E6%98%8E%E9%AB%94',
         download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%88%BB%E7%9F%B3%E5%BD%95%E7%B3%BB%E5%88%97/I.%E6%98%8E%E9%AB%94.ttf',
         desc: '「一点明体」是一套依照传承字形标准化文件《传承字形部件检校表》的推荐字形标准，并以 TrueType格式封装、依照 Unicode 编码的 OpenType字型。I.明体 名称里的 I 是罗马数字 一，I. 念作 一点，象徵笔画的基本：点与线。目前I.明体已由开源字型组织一点字坊 全力维护。'
+    },
+    WenQuanYiZhengHei_Regular: {
+        type: '1',
+        code: 'wenquanyizhenghei',
+        name: '文泉驿正黑',
+        preview: 'images/font/wenquanyizhenghei/font.svg',
+        posters: ['images/font/wenquanyizhenghei/poster.svg'],
+        license: 'GPL-2.0',
+        auth: false,
+        source: 'http://wenq.org/wqy2/index.cgi?ZenHei',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%88%BB%E7%9F%B3%E5%BD%95%E7%B3%BB%E5%88%97/I.%E6%98%8E%E9%AB%94.ttf',
+        desc: '「文泉驿正黑体」是一个"自由字体"。该字体包含了所有常用简体中文、繁体中文所需要的汉字(最新版本包含超过27842个汉字，完整覆盖GB2312/Big5/GBK以及GB18030标准字符集)。该字体同时还包含了日文、韩文和其他几十种语言符号。除此以外，该字体还嵌入了最新版本的文泉驿点阵宋体的中英文点阵，使得屏幕汉字显示清晰锐利，易于阅读。作为黑体中文字体，文泉驿正黑为非衬线字体，笔画对比度明显，特别适合屏幕汉字显示以及文档标题字体。'
+    },
+    WenQuanYiWeiMiHei_Regular: {
+        type: '2',
+        code: 'wenquanyiweimihei',
+        name: '一点明体',
+        preview: 'images/font/wenquanyiweimihei/font.svg',
+        posters: ['images/font/wenquanyiweimihei/poster.svg'],
+        license: 'GPL-2.0',
+        auth: false,
+        source: 'http://wenq.org/wqy2/index.cgi?MicroHei',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%88%BB%E7%9F%B3%E5%BD%95%E7%B3%BB%E5%88%97/I.%E6%98%8E%E9%AB%94.ttf',
+        desc: '「文泉驿微米黑」是一个"自由字体"。该字体包含了所有常用简体中文、繁体中文所需要的汉字(最新版本包含超过20932个汉字，完整覆盖GB2312/Big5以及GBK标准字符集)。该字体同时还包含了日文、韩文和其他几十种语言符号。以外，该字体还包含了高质量的Droid Sans拉丁符号和Droid Sans Mono等宽字体，并内置Hinting和Kerning信息。微米黑字体文件极小，特别使用于便携式电脑设备。 该字体版权受到法律保护，字体版权人为Google和文泉驿信任委员会。请遵循官方字体授权使用并衍生本字体'
     }
 
 

@@ -381,6 +381,18 @@ var fontsMap = {
         source: 'http://reeji.com/font/rui_zi_zhen_yan_ti/',
         download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%85%B6%E4%BB%96%E5%AD%97%E4%BD%93/%E9%94%90%E5%AD%97%E7%9C%9F%E8%A8%80%E4%BD%93.ttf',
         desc: '「锐字真言体」是锐字家族字体当中第一款免费可商用的字体。真言体笔触浑厚有力，笔画曲折有度，字形个性鲜明，刚柔并济，落笔简洁有序，给人以遒劲有力、端正凝练的感受。直角与圆角的错落搭配使得字体婉转有度，落落大方，具有自己独到的风格！这款字体特别适用于文字标题、竞技视觉、广告设计、个性品牌设计推广、企业宣传及时尚品牌的设计应用。'
+    },
+    XinYeNianTi_Regular: {
+        type: '4',
+        code: 'xinyenianti',
+        name: '新叶念体',
+        preview: 'images/font/xinyenianti/font.svg',
+        posters: ['images/font/xinyenianti/poster.svg'],
+        license: '商免',
+        auth: false,
+        source: 'https://www.zcool.com.cn/work/ZMzc1MDI2Njg=.html',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%85%B6%E4%BB%96%E5%AD%97%E4%BD%93/%E6%96%B0%E5%8F%B6%E5%BF%B5%E4%BD%93.otf',
+        desc: '「新叶念体」采用GB2312编码，约6900字，王亚设计 在站酷发布。'
     }
 
 };

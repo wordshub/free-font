@@ -549,6 +549,42 @@ var fontsMap = {
         source: 'https://github.com/l10n-tw/cwtex-q-fonts',
         download: 'https://github.com/l10n-tw/cwtex-q-fonts-TTFs/archive/v0.4.zip',
         desc: '「cwTeX 字体」最初是由 Tsong-Min Wu 及 Tsong-Huey Wu 于 1999 至 2004 年间制作作并以 GNU GENERAL PUBLIC LICENSE Version 2 or latter 发布。于 2014 年，Tsong-Min Wu、Tsong-Huey Wu、Edward G.J. Lee 及 Chen-Pan Liao 四人同意将汉字及中文常用标点符号之字符另外独立并以 SIL Open Font License (Version 1.1) 授出，以利与其他 OFL 授权之字体整合。'
+    },
+    YiDianYanTi_Regular: {
+        type: '2',
+        code: 'yidianyanti',
+        name: '一点颜体',
+        preview: 'images/font/yidianyanti/font.svg',
+        posters: ['images/font/yidianyanti/poster.svg'],
+        license: 'GPL-3.0',
+        auth: false,
+        source: 'http://founder.acgvlyric.org/iu/doku.php/%E9%80%A0%E5%AD%97:%E9%96%8B%E6%BA%90%E5%AD%97%E5%9E%8B_i.%E9%A1%8F%E9%AB%94',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%88%BB%E7%9F%B3%E5%BD%95%E7%B3%BB%E5%88%97/I.%E9%A1%8F%E9%AB%94.ttf',
+        desc: '「一点颜体」是由王汉宗颜体修改而来，重新制作和修整原字型中缺少的或有欠美观的部份，例如全半形英数、平假名、片假名、拉丁字母、俄文字母、阿拉伯数字、圈圈字、常用符号等。'
+    },
+    YiDianGangBiHeTi_Regular: {
+        type: '2',
+        code: 'yidiangangbiheti',
+        name: '一点钢笔鹤体',
+        preview: 'images/font/yidiangangbiheti/font.svg',
+        posters: ['images/font/yidiangangbiheti/poster.svg'],
+        license: 'GPL-3.0',
+        auth: false,
+        source: 'http://founder.acgvlyric.org/iu/doku.php/%E9%80%A0%E5%AD%97:%E9%96%8B%E6%BA%90%E5%AD%97%E5%9E%8B_i.%E9%8B%BC%E7%AD%86%E9%B6%B4%E9%AB%94',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%88%BB%E7%9F%B3%E5%BD%95%E7%B3%BB%E5%88%97/I.%E9%8B%BC%E7%AD%86%E9%B6%B4%E9%AB%94.ttf',
+        desc: '「一点钢笔鹤体」由王汉宗粗钢体修改而来，刻石錄重新制作和修整原字型中缺少的或有欠美观的部份，例如半形英数、圈圈字、常用符号等。'
+    },
+    YiDianMingTi_Regular: {
+        type: '2',
+        code: 'yidianmingti',
+        name: '一点明体',
+        preview: 'images/font/yidianmingti/font.svg',
+        posters: ['images/font/yidianmingti/poster.svg'],
+        license: 'IPA-1.0',
+        auth: false,
+        source: 'http://founder.acgvlyric.org/iu/doku.php/%E9%80%A0%E5%AD%97:%E9%96%8B%E6%BA%90%E5%AD%97%E5%9E%8B_i.%E6%98%8E%E9%AB%94',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%88%BB%E7%9F%B3%E5%BD%95%E7%B3%BB%E5%88%97/I.%E6%98%8E%E9%AB%94.ttf',
+        desc: '「一点明体」是一套依照传承字形标准化文件《传承字形部件检校表》的推荐字形标准，并以 TrueType格式封装、依照 Unicode 编码的 OpenType字型。I.明体 名称里的 I 是罗马数字 一，I. 念作 一点，象徵笔画的基本：点与线。目前I.明体已由开源字型组织一点字坊 全力维护。'
     }
 
 

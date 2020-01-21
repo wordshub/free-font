@@ -489,6 +489,67 @@ var fontsMap = {
         source: 'https://bbs.coloros.net/graphic?id=2272309',
         download: 'https://github.com/wordshub/free-font/tree/master/assets/font/%E4%B8%AD%E6%96%87/%E5%85%B6%E4%BB%96%E5%AD%97%E4%BD%93/OPPO%20Sans',
         desc: '「OPPO Sans」 是 OPPO 全新品牌字体，首发于 ColorOS 6 操作系统，由 OPPO 与国内知名字体厂商汉仪合作开发出的全新中文字库，总共 226003 个字节。OPPO Sans 紧随品牌升级的步调，用文字全方位探索科技美感，字体整体简洁优雅，字型设计富有现代感，极具科技美感。字体采用全新骨架设计，中宫自然舒适，更加挺拔优雅；同时简化笔画，把握更多细节处理，去除出脚，使字体显得更加干净。简洁富有变化的字体线条还融入 OPPO 产品曲线美学，极具现代感和未来感，字体更加现代，笔画更加均匀，视觉表现更加整洁，非常适合用来作为设计素材使用，实用性相当广泛。'
+    },
+    CwTeXQMing_Regular: {
+        type: '4',
+        code: 'cwtexqming',
+        name: 'cwTeX 中明體',
+        preview: 'images/font/cwtexqming/font.svg',
+        posters: ['images/font/cwtexqming/poster.svg'],
+        license: 'OFL-1.1',
+        auth: false,
+        source: 'https://github.com/l10n-tw/cwtex-q-fonts',
+        download: 'https://github.com/l10n-tw/cwtex-q-fonts-TTFs/archive/v0.4.zip',
+        desc: '「cwTeX 字体」最初是由 Tsong-Min Wu 及 Tsong-Huey Wu 于 1999 至 2004 年间制作作并以 GNU GENERAL PUBLIC LICENSE Version 2 or latter 发布。于 2014 年，Tsong-Min Wu、Tsong-Huey Wu、Edward G.J. Lee 及 Chen-Pan Liao 四人同意将汉字及中文常用标点符号之字符另外独立并以 SIL Open Font License (Version 1.1) 授出，以利与其他 OFL 授权之字体整合。'
+    },
+    CwTeXQKai_Regular: {
+        type: '3',
+        code: 'cwtexqkai',
+        name: 'cwTeX 中楷體',
+        preview: 'images/font/cwtexqkai/font.svg',
+        posters: ['images/font/cwtexqkai/poster.svg'],
+        license: 'OFL-1.1',
+        auth: false,
+        source: 'https://github.com/l10n-tw/cwtex-q-fonts',
+        download: 'https://github.com/l10n-tw/cwtex-q-fonts-TTFs/archive/v0.4.zip',
+        desc: '「cwTeX 字体」最初是由 Tsong-Min Wu 及 Tsong-Huey Wu 于 1999 至 2004 年间制作作并以 GNU GENERAL PUBLIC LICENSE Version 2 or latter 发布。于 2014 年，Tsong-Min Wu、Tsong-Huey Wu、Edward G.J. Lee 及 Chen-Pan Liao 四人同意将汉字及中文常用标点符号之字符另外独立并以 SIL Open Font License (Version 1.1) 授出，以利与其他 OFL 授权之字体整合。'
+    },
+    CwTeXQHei_Regular: {
+        type: '1',
+        code: 'cwtexqhei',
+        name: 'cwTeX 粗黑體',
+        preview: 'images/font/cwtexqhei/font.svg',
+        posters: ['images/font/cwtexqhei/poster.svg'],
+        license: 'OFL-1.1',
+        auth: false,
+        source: 'https://github.com/l10n-tw/cwtex-q-fonts',
+        download: 'https://github.com/l10n-tw/cwtex-q-fonts-TTFs/archive/v0.4.zip',
+        desc: '「cwTeX 字体」最初是由 Tsong-Min Wu 及 Tsong-Huey Wu 于 1999 至 2004 年间制作作并以 GNU GENERAL PUBLIC LICENSE Version 2 or latter 发布。于 2014 年，Tsong-Min Wu、Tsong-Huey Wu、Edward G.J. Lee 及 Chen-Pan Liao 四人同意将汉字及中文常用标点符号之字符另外独立并以 SIL Open Font License (Version 1.1) 授出，以利与其他 OFL 授权之字体整合。'
+    },
+    CwTeXQYuan_Regular: {
+        type: '4',
+        code: 'cwtexqyuan',
+        name: 'cwTeX 中圆體',
+        preview: 'images/font/cwtexqyuan/font.svg',
+        posters: ['images/font/cwtexqyuan/poster.svg'],
+        license: 'OFL-1.1',
+        auth: false,
+        source: 'https://github.com/l10n-tw/cwtex-q-fonts',
+        download: 'https://github.com/l10n-tw/cwtex-q-fonts-TTFs/archive/v0.4.zip',
+        desc: '「cwTeX 字体」最初是由 Tsong-Min Wu 及 Tsong-Huey Wu 于 1999 至 2004 年间制作作并以 GNU GENERAL PUBLIC LICENSE Version 2 or latter 发布。于 2014 年，Tsong-Min Wu、Tsong-Huey Wu、Edward G.J. Lee 及 Chen-Pan Liao 四人同意将汉字及中文常用标点符号之字符另外独立并以 SIL Open Font License (Version 1.1) 授出，以利与其他 OFL 授权之字体整合。'
+    },
+    CwTeXQFangSong_Regular: {
+        type: '2',
+        code: 'cwtexqfangsong',
+        name: 'cwTeX 中仿宋體',
+        preview: 'images/font/cwtexqfangsong/font.svg',
+        posters: ['images/font/cwtexqfangsong/poster.svg'],
+        license: 'OFL-1.1',
+        auth: false,
+        source: 'https://github.com/l10n-tw/cwtex-q-fonts',
+        download: 'https://github.com/l10n-tw/cwtex-q-fonts-TTFs/archive/v0.4.zip',
+        desc: '「cwTeX 字体」最初是由 Tsong-Min Wu 及 Tsong-Huey Wu 于 1999 至 2004 年间制作作并以 GNU GENERAL PUBLIC LICENSE Version 2 or latter 发布。于 2014 年，Tsong-Min Wu、Tsong-Huey Wu、Edward G.J. Lee 及 Chen-Pan Liao 四人同意将汉字及中文常用标点符号之字符另外独立并以 SIL Open Font License (Version 1.1) 授出，以利与其他 OFL 授权之字体整合。'
     }
+
 
 };

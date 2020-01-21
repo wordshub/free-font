@@ -429,6 +429,54 @@ var fontsMap = {
         source: 'https://www.facebook.com/groups/549661292148791/',
         download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%85%B6%E4%BB%96%E5%AD%97%E4%BD%93/%E6%B8%85%E6%9D%BE%E6%89%8B%E5%AF%AB%E9%AB%94/%E6%B8%85%E6%9D%BE%E6%89%8B%E5%AF%AB%E9%AB%943.ttf',
         desc: '「清松手写体」它是一款来自台湾的字体，它由游清松建立，为了创建这个字体，他还成立了一个小组： 「顺其字然」，首先先在稿纸上用原子笔手写，然后，透过「守写字」网站产生出初稿字体，再透过字体软件后制加工的手写字体。「顺其字然」手写字体，没有一般计算机字型的生硬感，多了几分手写般的自然感。不论是中文、英文、符号数字，适合在计算机屏幕上阅读、排版，打印出来效果也很棒的！'
+    },
+    FandolFang_Regular: {
+        type: '2',
+        code: 'fandolfang',
+        name: '破产字体仿宋',
+        preview: 'images/font/fandolfang/font.svg',
+        posters: ['images/font/fandolfang/poster.svg'],
+        license: '商免',
+        auth: false,
+        source: 'https://ctan.org/tex-archive/fonts/fandol',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E7%A0%B4%E4%BA%A7%E5%AD%97%E4%BD%93%E7%B3%BB%E5%88%97/FandolFang-Regular.otf',
+        desc: '「破产字体」（Fandol）来自一家已经破产的字体公司，现在已经开源了。包含FandolFang、FandolHei、FandolKai、FandolSong四个字体。'
+    },
+    FandolHei_Regular: {
+        type: '1',
+        code: 'fandolhei',
+        name: '破产字体黑体',
+        preview: 'images/font/fandolhei/font.svg',
+        posters: ['images/font/fandolhei/poster.svg'],
+        license: '商免',
+        auth: false,
+        source: 'https://ctan.org/tex-archive/fonts/fandol',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E7%A0%B4%E4%BA%A7%E5%AD%97%E4%BD%93%E7%B3%BB%E5%88%97/FandolHei-Regular.otf',
+        desc: '「破产字体」（Fandol）来自一家已经破产的字体公司，现在已经开源了。包含FandolFang、FandolHei、FandolKai、FandolSong四个字体。'
+    },
+    FandolKai_Regular: {
+        type: '3',
+        code: 'fandolkai',
+        name: '破产字体楷体',
+        preview: 'images/font/fandolkai/font.svg',
+        posters: ['images/font/fandolkai/poster.svg'],
+        license: '商免',
+        auth: false,
+        source: 'https://ctan.org/tex-archive/fonts/fandol',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E7%A0%B4%E4%BA%A7%E5%AD%97%E4%BD%93%E7%B3%BB%E5%88%97/FandolKai-Regular.otf',
+        desc: '「破产字体」（Fandol）来自一家已经破产的字体公司，现在已经开源了。包含FandolFang、FandolHei、FandolKai、FandolSong四个字体。'
+    },
+    FandolSong_Regular: {
+        type: '2',
+        code: 'fandolsong',
+        name: '破产字体宋体',
+        preview: 'images/font/fandolsong/font.svg',
+        posters: ['images/font/fandolsong/poster.svg'],
+        license: '商免',
+        auth: false,
+        source: 'https://ctan.org/tex-archive/fonts/fandol',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E7%A0%B4%E4%BA%A7%E5%AD%97%E4%BD%93%E7%B3%BB%E5%88%97/FandolSong-Regular.otf',
+        desc: '「破产字体」（Fandol）来自一家已经破产的字体公司，现在已经开源了。包含FandolFang、FandolHei、FandolKai、FandolSong四个字体。'
     }
 
 };

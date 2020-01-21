@@ -551,7 +551,7 @@ var fontsMap = {
         desc: '「cwTeX 字体」最初是由 Tsong-Min Wu 及 Tsong-Huey Wu 于 1999 至 2004 年间制作作并以 GNU GENERAL PUBLIC LICENSE Version 2 or latter 发布。于 2014 年，Tsong-Min Wu、Tsong-Huey Wu、Edward G.J. Lee 及 Chen-Pan Liao 四人同意将汉字及中文常用标点符号之字符另外独立并以 SIL Open Font License (Version 1.1) 授出，以利与其他 OFL 授权之字体整合。'
     },
     YiDianYanTi_Regular: {
-        type: '2',
+        type: '4',
         code: 'yidianyanti',
         name: '一点颜体',
         preview: 'images/font/yidianyanti/font.svg',
@@ -563,7 +563,7 @@ var fontsMap = {
         desc: '「一点颜体」是由王汉宗颜体修改而来，重新制作和修整原字型中缺少的或有欠美观的部份，例如全半形英数、平假名、片假名、拉丁字母、俄文字母、阿拉伯数字、圈圈字、常用符号等。'
     },
     YiDianGangBiHeTi_Regular: {
-        type: '2',
+        type: '4',
         code: 'yidiangangbiheti',
         name: '一点钢笔鹤体',
         preview: 'images/font/yidiangangbiheti/font.svg',
@@ -609,6 +609,114 @@ var fontsMap = {
         source: 'http://wenq.org/wqy2/index.cgi?MicroHei',
         download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%88%BB%E7%9F%B3%E5%BD%95%E7%B3%BB%E5%88%97/I.%E6%98%8E%E9%AB%94.ttf',
         desc: '「文泉驿微米黑」是一个"自由字体"。该字体包含了所有常用简体中文、繁体中文所需要的汉字(最新版本包含超过20932个汉字，完整覆盖GB2312/Big5以及GBK标准字符集)。该字体同时还包含了日文、韩文和其他几十种语言符号。以外，该字体还包含了高质量的Droid Sans拉丁符号和Droid Sans Mono等宽字体，并内置Hinting和Kerning信息。微米黑字体文件极小，特别使用于便携式电脑设备。 该字体版权受到法律保护，字体版权人为Google和文泉驿信任委员会。请遵循官方字体授权使用并衍生本字体'
+    },
+    HanaMin_Regular: {
+        type: '2',
+        code: 'hanamin',
+        name: '花园明朝',
+        preview: 'images/font/hanamin/font.svg',
+        posters: ['images/font/hanamin/poster.svg'],
+        license: 'OFL-1.1',
+        auth: false,
+        source: 'http://fonts.jp/hanazono/',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E6%97%A5%E6%96%87/%E8%8A%B1%E5%9B%AD%E6%98%8E%E6%9C%9D/HanaMinA.ttf',
+        desc: '「花园明朝体」（HanaMin 花园フォント）是一款基于日语的自由开源汉字字体。这款字体的特点是涵盖了目前 CJK (中日韩统一表意文字)字库中几乎所有的汉字与字符，而且作为开源项目，任何人可自由下载使用。如果在软件中找不到此字体，请查找名称：HanaMin。此字体对简体中文支持比较好。'
+    },
+    YuanJieMingChaoTi_Regular: {
+        type: '2',
+        code: 'yuanjiemingchaoti',
+        name: '源界明朝体',
+        preview: 'images/font/yuanjiemingchaoti/font.svg',
+        posters: ['images/font/yuanjiemingchaoti/poster.svg'],
+        license: 'OFL-1.1',
+        auth: false,
+        source: 'https://flopdesign.com/blog/font/5146/',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E6%97%A5%E6%96%87/%E6%BA%90%E7%95%8C%E6%98%8E%E6%9C%9D%E4%BD%93.ttf',
+        desc: '「源界明朝体」这款字体是以「思源宋体」（日文为「源ノ明朝」）为基础，加入破坏效果使其最接近可读状态，可以简单理解成思源宋体的破坏版，源界明朝在视觉上具有相当大的张力，可作为图片内的标题和大字使用，整体来说相当吸睛且颇具效果。源界明朝体为日文字体，对部分简体中文支持不太好。'
+    },
+    SoukouMincho_Regular: {
+        type: '4',
+        code: 'soukoumincho',
+        name: '装甲明朝',
+        preview: 'images/font/soukoumincho/font.svg',
+        posters: ['images/font/soukoumincho/poster.svg'],
+        license: 'OFL-1.1',
+        auth: false,
+        source: 'http://flopdesign.com/blog/font/5228/',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E6%97%A5%E6%96%87/%E8%A3%85%E7%94%B2%E6%98%8E%E6%9C%9D%E4%BD%93.ttf',
+        desc: '「装甲明朝」是日本网友以思源宋体为基础，修改后开放免费下载的新字型。字体风格硬朗有气派，若是拿来做越野车、大型装甲机车等玩具淘宝海报设计就非常适用了。Soukou Mincho 装甲明朝体支持繁体（分部）、简体（部分）、英文、日文以及数字符号。'
+    },
+    GenWan_Regular: {
+        type: '2',
+        code: 'genwan',
+        name: '源云明体',
+        preview: 'images/font/genwan/font.svg',
+        posters: ['images/font/genwan/poster.svg'],
+        license: 'OFL-1.1',
+        auth: false,
+        source: 'https://github.com/ButTaiwan/genwan-font',
+        download: 'https://github.com/ButTaiwan/genwan-font',
+        desc: '「源云明体」是基于思源宋体的而改造的开放原始码中文字型。源云明体在横笔的起笔及竖笔的起笔、收笔处加入粗细变化，笔画交叉处有朦胧处理。'
+    },
+    GenRyu_Regular: {
+        type: '2',
+        code: 'genryu',
+        name: '源流明体',
+        preview: 'images/font/genryu/font.svg',
+        posters: ['images/font/genryu/poster.svg'],
+        license: 'OFL-1.1',
+        auth: false,
+        source: 'https://github.com/ButTaiwan/genryu-font',
+        download: 'https://github.com/ButTaiwan/genryu-font',
+        desc: '「源流明体」是基于思源宋体的而改造的开放原始码中文字型。源流明体在笔画上有所调整，使字型看起来更有力道'
+    },
+    GenYo_Regular: {
+        type: '2',
+        code: 'genyo',
+        name: '源样明体',
+        preview: 'images/font/genyo/font.svg',
+        posters: ['images/font/genyo/poster.svg'],
+        license: 'OFL-1.1',
+        auth: false,
+        source: 'https://github.com/ButTaiwan/genyo-font',
+        download: 'https://github.com/ButTaiwan/genyo-font',
+        desc: '「源样明体」是基于思源宋体的开放原始码中文字型。 採用思源宋体韩文（KR）版本的字符，配合繁体中文惯用的置中标点，可排版传统印刷体风格的文件。源样明体采用思源宋体韩文版本的字符，配合繁体中文习惯的置中标点符号，可说是兼具排版及传统印刷体风格的繁体中文字体'
+    },
+    Seto_Regular: {
+        type: '4',
+        code: 'seto',
+        name: '濑户体',
+        preview: 'images/font/seto/font.svg',
+        posters: ['images/font/seto/poster.svg'],
+        license: 'OFL-1.1',
+        auth: false,
+        source: 'http://setofont.osdn.jp/',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E6%97%A5%E6%96%87/%E6%BF%91%E6%88%B7%E4%BD%93.ttf',
+        desc: '「濑户字体」是一款偏可爱风的字体，支持简体中文、繁体中文、日文，包含CJK常用汉字、平片假名、JIS第一至四级，共30000余字。这是由日本的一位业余字体设计师濑户のぞみ小姐所制作的。'
+    },
+    ShouXieZaZiTi_Regular: {
+        type: '4',
+        code: 'shouxiezaziti',
+        name: '手写杂字体',
+        preview: 'images/font/shouxiezaziti/font.svg',
+        posters: ['images/font/shouxiezaziti/poster.svg'],
+        license: '商免',
+        auth: false,
+        source: 'http://setofont.osdn.jp/',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E6%97%A5%E6%96%87/851%E6%89%8B%E5%86%99%E6%9D%82%E5%AD%97%E4%BD%93.ttf',
+        desc: '「手写杂字体」这是一个日本人制作的一款有点可爱风格的字体，所以会是日本字形（然而作者表示其实日本标准很多地方他都没遵循，所以叫杂字体）。作者的描述是自由使用与重新配布，可商用，但是保留著作权，字体仍在不断更新加字中。此款手写杂字体，虽为日文字体，但对中文繁体以及中文简体都支持得灰常不错。'
+    },
+    StanukiPermanentMarker_Regular: {
+        type: '4',
+        code: 'tanukipermanentmarker',
+        name: '麦克笔手绘体',
+        preview: 'images/font/tanukipermanentmarker/font.svg',
+        posters: ['images/font/tanukipermanentmarker/poster.svg'],
+        license: '商免',
+        auth: false,
+        source: 'https://tanukifont.com/tanuki-permanent-marker/',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E6%97%A5%E6%96%87/%E9%BA%A6%E5%85%8B%E7%AC%94%E6%89%8B%E7%BB%98%E4%BD%93.ttf',
+        desc: '「麦克笔手绘体」一款日本网站提供的免费商用字体，たぬき油性マジック(TanukiMagic) 字型风格和马克笔手绘的 POP 效果如出一辙。'
     }
 
 

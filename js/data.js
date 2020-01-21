@@ -357,6 +357,18 @@ var fontsMap = {
         source: 'https://www.zcool.com.cn/work/ZNDA2MzA3ODQ=.html',
         download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%85%B6%E4%BB%96%E5%AD%97%E4%BD%93/%E5%8D%93%E5%81%A5%E6%A9%84%E6%A6%84%E7%AE%80%E4%BD%93.ttf',
         desc: '「卓健橄榄简体」由卓米品牌设计发布，并于于2019年底授权限时免费商用。收容7050个常用字，52 个英文字母，139个阿拉伯数字及常用标点符号，卓健橄榄简体是一款相对较时尚的字体，部分笔画斜切处理，让字体更具时尚感和时尚属性，整体中心偏上，更符合现代审美。官方给出的说法是限时免费下载，免费商用。具体是指可以免费商用，限时下载，还是限时免费商用，官方没有给出明确解释，这点存有疑问。如果有商用需求，请与官方联系求证。'
+    },
+    YouSheBiaoTiHei_Regular: {
+        type: '4',
+        code: 'youshebiaotihei',
+        name: '优设标题黑',
+        preview: 'images/font/youshebiaotihei/font.svg',
+        posters: ['images/font/youshebiaotihei/poster.svg'],
+        license: '商免',
+        auth: false,
+        source: 'https://www.uisdc.com/uisdc-first-free-font',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%85%B6%E4%BB%96%E5%AD%97%E4%BD%93/%E4%BC%98%E8%AE%BE%E6%A0%87%E9%A2%98%E9%BB%91.ttf',
+        desc: '「优设标题黑」由优设与字由合作完成，是一款适用性广，速度感、力量感极强的专业美术标题字体。它以黑体字型为基础，整体字形沉稳，同时采用较大字面和粗壮的笔画来强化力量感。每个字体水平倾斜 8° 的设计，赋予了字体极强的速度感，为了让字体倾斜后也能保持稳固，设计师将整体字身设定宽扁。而起笔和弯钩上独具匠心的尖角设计，不仅突显了设计的几何感，而且方便后期修改。'
     }
 
 };

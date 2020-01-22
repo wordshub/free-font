@@ -1124,12 +1124,14 @@ a.padding {
 }
 
 #fontList {
-    border: 0px solid #000;
     display: block;
     margin-bottom: 15px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
-#fontList div,
 #fontList a,
 #fontList a:link,
 #fontList a:visited {

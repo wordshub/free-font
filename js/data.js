@@ -383,7 +383,7 @@ var fontsMap = {
         desc: '「锐字真言体」是锐字家族字体当中第一款免费可商用的字体。真言体笔触浑厚有力，笔画曲折有度，字形个性鲜明，刚柔并济，落笔简洁有序，给人以遒劲有力、端正凝练的感受。直角与圆角的错落搭配使得字体婉转有度，落落大方，具有自己独到的风格！这款字体特别适用于文字标题、竞技视觉、广告设计、个性品牌设计推广、企业宣传及时尚品牌的设计应用。'
     },
     XinYeNianTi_Regular: {
-        type: '4',
+        type: '5',
         code: 'xinyenianti',
         name: '新叶念体',
         preview: 'images/font/xinyenianti/font.svg',
@@ -491,7 +491,7 @@ var fontsMap = {
         desc: '「OPPO Sans」 是 OPPO 全新品牌字体，首发于 ColorOS 6 操作系统，由 OPPO 与国内知名字体厂商汉仪合作开发出的全新中文字库，总共 226003 个字节。OPPO Sans 紧随品牌升级的步调，用文字全方位探索科技美感，字体整体简洁优雅，字型设计富有现代感，极具科技美感。字体采用全新骨架设计，中宫自然舒适，更加挺拔优雅；同时简化笔画，把握更多细节处理，去除出脚，使字体显得更加干净。简洁富有变化的字体线条还融入 OPPO 产品曲线美学，极具现代感和未来感，字体更加现代，笔画更加均匀，视觉表现更加整洁，非常适合用来作为设计素材使用，实用性相当广泛。'
     },
     CwTeXQMing_Regular: {
-        type: '4',
+        type: '2',
         code: 'cwtexqming',
         name: 'cwTeX 中明體',
         preview: 'images/font/cwtexqming/font.svg',
@@ -599,9 +599,9 @@ var fontsMap = {
         desc: '「文泉驿正黑体」是一个"自由字体"。该字体包含了所有常用简体中文、繁体中文所需要的汉字(最新版本包含超过27842个汉字，完整覆盖GB2312/Big5/GBK以及GB18030标准字符集)。该字体同时还包含了日文、韩文和其他几十种语言符号。除此以外，该字体还嵌入了最新版本的文泉驿点阵宋体的中英文点阵，使得屏幕汉字显示清晰锐利，易于阅读。作为黑体中文字体，文泉驿正黑为非衬线字体，笔画对比度明显，特别适合屏幕汉字显示以及文档标题字体。'
     },
     WenQuanYiWeiMiHei_Regular: {
-        type: '2',
+        type: '1',
         code: 'wenquanyiweimihei',
-        name: '一点明体',
+        name: '文泉驿微米黑',
         preview: 'images/font/wenquanyiweimihei/font.svg',
         posters: ['images/font/wenquanyiweimihei/poster.svg'],
         license: 'GPL-2.0',
@@ -635,7 +635,7 @@ var fontsMap = {
         desc: '「源界明朝体」这款字体是以「思源宋体」（日文为「源ノ明朝」）为基础，加入破坏效果使其最接近可读状态，可以简单理解成思源宋体的破坏版，源界明朝在视觉上具有相当大的张力，可作为图片内的标题和大字使用，整体来说相当吸睛且颇具效果。源界明朝体为日文字体，对部分简体中文支持不太好。'
     },
     SoukouMincho_Regular: {
-        type: '4',
+        type: '2',
         code: 'soukoumincho',
         name: '装甲明朝',
         preview: 'images/font/soukoumincho/font.svg',
@@ -695,7 +695,7 @@ var fontsMap = {
         desc: '「濑户字体」是一款偏可爱风的字体，支持简体中文、繁体中文、日文，包含CJK常用汉字、平片假名、JIS第一至四级，共30000余字。这是由日本的一位业余字体设计师濑户のぞみ小姐所制作的。'
     },
     ShouXieZaZiTi_Regular: {
-        type: '4',
+        type: '5',
         code: 'shouxiezaziti',
         name: '手写杂字体',
         preview: 'images/font/shouxiezaziti/font.svg',
@@ -707,7 +707,7 @@ var fontsMap = {
         desc: '「手写杂字体」这是一个日本人制作的一款有点可爱风格的字体，所以会是日本字形（然而作者表示其实日本标准很多地方他都没遵循，所以叫杂字体）。作者的描述是自由使用与重新配布，可商用，但是保留著作权，字体仍在不断更新加字中。此款手写杂字体，虽为日文字体，但对中文繁体以及中文简体都支持得灰常不错。'
     },
     StanukiPermanentMarker_Regular: {
-        type: '4',
+        type: '5',
         code: 'tanukipermanentmarker',
         name: '麦克笔手绘体',
         preview: 'images/font/tanukipermanentmarker/font.svg',

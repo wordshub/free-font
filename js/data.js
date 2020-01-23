@@ -1010,7 +1010,56 @@ var fontsMap = {
         source: 'https://code.google.com/archive/p/wangfonts/',
         download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E7%8E%8B%E6%B1%89%E5%AE%97%E5%AD%97%E4%BD%93%E7%B3%BB%E5%88%97/%E7%8E%8B%E6%BC%A2%E5%AE%97%E7%B6%9C%E8%97%9D%E9%AB%94%E7%B9%81.ttf',
         desc: '「王汉宗自由字型」由研发天蚕字库的台湾中原大学数学系王汉宗教授先分别在2000年和2004年先后捐出十套WCL系列字型和32套新字型，全部以GNU GPL许可分发。'
+    },
+    QuanZiKuZhengKaiTi_Regular: {
+        type: '3',
+        code: 'quanzikuzhengkaiti',
+        name: '全字庫正楷體',
+        preview: 'images/font/quanzikuzhengkaiti/font.svg',
+        posters: ['images/font/quanzikuzhengkaiti/poster.svg'],
+        license: '商免',
+        auth: false,
+        source: 'https://www.cns11643.gov.tw/pageView.jsp?ID=59',
+        download: '',
+        desc: '「全字库字体」是台湾地区为了解决电脑中文字数不足而做的一款开源字体，供全社会免费商用。'
+    },
+    QuanZiKuZhengSongTi_Regular: {
+        type: '2',
+        code: 'quanzikuzhengsongti',
+        name: '全字庫正宋體',
+        preview: 'images/font/quanzikuzhengsongti/font.svg',
+        posters: ['images/font/quanzikuzhengsongti/poster.svg'],
+        license: '商免',
+        auth: false,
+        source: 'https://www.cns11643.gov.tw/pageView.jsp?ID=59',
+        download: '',
+        desc: '「全字库字体」是台湾地区为了解决电脑中文字数不足而做的一款开源字体，供全社会免费商用。'
+    },
+    QuanZiKuShuoWenJieZi_Regular: {
+        type: '4',
+        code: 'quanzikushuowenjiezi',
+        name: '全字庫說文解字',
+        preview: 'images/font/quanzikushuowenjiezi/font.svg',
+        posters: ['images/font/quanzikushuowenjiezi/poster.svg'],
+        license: '商免',
+        auth: false,
+        source: 'https://www.cns11643.gov.tw/pageView.jsp?ID=59',
+        download: '',
+        desc: '「全字库字体」是台湾地区为了解决电脑中文字数不足而做的一款开源字体，供全社会免费商用。'
+    },
+    ChogokubosoGothic_Regular: {
+        type: '4',
+        code: 'chogokubosogothic',
+        name: '超极细',
+        preview: 'images/font/chogokubosogothic/font.svg',
+        posters: ['images/font/chogokubosogothic/poster.svg'],
+        license: '商免',
+        auth: false,
+        source: 'http://font.websozai.jp/line-font-mihon.html',
+        download: '',
+        desc: '「超极细」日文称为【超極細ゴシック体】，据说是目前字体线条最细的一款字体。超极细本身是日文字体，但同时支持繁体，所以也可作繁体字体使用。'
     }
+
 
 
 };

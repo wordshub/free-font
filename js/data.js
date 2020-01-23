@@ -1048,7 +1048,7 @@ var fontsMap = {
         desc: '「全字库字体」是台湾地区为了解决电脑中文字数不足而做的一款开源字体，供全社会免费商用。'
     },
     ChogokubosoGothic_Regular: {
-        type: '4',
+        type: '1',
         code: 'chogokubosogothic',
         name: '超极细',
         preview: 'images/font/chogokubosogothic/font.svg',
@@ -1060,7 +1060,7 @@ var fontsMap = {
         desc: '「超极细」日文称为【超極細ゴシック体】，据说是目前字体线条最细的一款字体。超极细本身是日文字体，但同时支持繁体，所以也可作繁体字体使用。'
     },
     AlibabaPuHuiTi_Regular: {
-        type: '4',
+        type: '1',
         code: 'alibabapuhuiti',
         name: '阿里巴巴普惠体',
         preview: 'images/font/alibabapuhuiti/font.svg',
@@ -1070,6 +1070,30 @@ var fontsMap = {
         source: 'https://ics.alibaba.com/space/H7rlDe?spm=ics.preview.0.0.242063a8wIReE8',
         download: 'https://ics.alibaba.com/asset/download?spm=ics.preview.0.0.572863a8Ukyybl&id=28c06e8d05462a16',
         desc: '「阿里巴巴普惠体」由阿里巴巴在举办的 「2019 阿里巴巴UCAN 设计大会」发布了，该字体是永久免费商用。'
+    },
+    GenjyuuGothic_Regular: {
+        type: '1',
+        code: 'genjyuugothic',
+        name: '思源柔黑',
+        preview: 'images/font/genjyuugothic/font.svg',
+        posters: ['images/font/genjyuugothic/poster.svg'],
+        license: 'OPL-1.1',
+        auth: false,
+        source: 'http://jikasei.me/font/genjyuu/',
+        download: 'https://osdn.jp/downloads/users/8/8636/genjyuugothic-20150607.7z',
+        desc: '「思源柔黑体」是基于思源黑体修改而成的圆体版思源字体，作者是日本的自家製フォント工房。思源柔黑体提供了三种不同圆角程度的版本，以及七种不同粗细的版本。思源柔黑体保留思源黑体原有的优雅及可读性，在文字边角以圆角进行处理，整体看起来更显得活泼、可爱，也较有活力。思源柔黑体一共释出三种版本，差异在于圆角的圆滑程度不同，L 圆角较轻、X 圆角最重，介于中间的是标准版。 '
+    },
+    GenshinGothic_Regular: {
+        type: '1',
+        code: 'genshingothic',
+        name: '思源真黑',
+        preview: 'images/font/genshingothic/font.svg',
+        posters: ['images/font/genshingothic/poster.svg'],
+        license: 'OPL-1.1',
+        auth: false,
+        source: 'http://jikasei.me/font/genshin/',
+        download: 'https://osdn.jp/downloads/users/8/8634/genshingothic-20150607.7z',
+        desc: '「思源真黑体」也是同样出自日本自家製字型工房，堪称是思源柔黑体的姊妹作，从思源黑体修改而来，在细部上做了些许的调整和变化，使它看起来更为锐利。思源真黑体一共有七种字重，以及等宽字体、比例字体选择。'
     }
 
 

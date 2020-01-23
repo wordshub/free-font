@@ -10,7 +10,7 @@ var fontsMap = {
         auth: false,
         license: 'OFL-1.1',
         source: 'https://github.com/adobe-fonts/source-han-serif',
-        download: '',
+        download: 'https://github.com/wordshub/free-font/tree/master/assets/font/%E4%B8%AD%E6%96%87/%E6%80%9D%E6%BA%90%E5%AD%97%E4%BD%93%E7%B3%BB%E5%88%97/%E6%80%9D%E6%BA%90%E5%AE%8B%E4%BD%93',
         desc: '「思源宋体」是 Adobe Type 发布的最新泛 CJK 字体，它是对应于<a target="blank" href="https://blog.typekit.com/alternate/source-han-sans-chs/" >思源黑体</a>的宋体字体；我们发布这两种字体是为了响应统一设计的需求，以服务于东亚 15 亿人口。\n思源宋体支持四种不同的东亚语言（简体中文、繁体中文、日语和朝鲜语），7 种粗细类型中的每一种都有 65,535 个字形，可共同呈现一致的视觉美感。该字体还包含多个西方字形，支持拉丁语、希腊语和西里尔文脚本，这些字形均来源于 <a target="blank" href="https://blog.typekit.com/2017/01/10/introducing-source-serif-2-0/">Source Serif</a>。'
     },
     SiYuanHeiTi_Regular: {
@@ -22,7 +22,7 @@ var fontsMap = {
         license: 'OFL-1.1',
         auth: false,
         source: 'https://github.com/adobe-fonts/source-han-sans',
-        download: '',
+        download: 'https://github.com/wordshub/free-font/tree/master/assets/font/%E4%B8%AD%E6%96%87/%E6%80%9D%E6%BA%90%E5%AD%97%E4%BD%93%E7%B3%BB%E5%88%97/%E6%80%9D%E6%BA%90%E9%BB%91%E4%BD%93',
         desc: '「思源黑体」是一套 OpenType/CFF 泛中日韩字体。这个开源项目不仅提供了可用的 OpenType 字体，还提供了利用 AFDKO <b>makeotf</b> 和 <b>otf2otc</b> 工具创建这些 OpenType 字体时的所有源文件。'
     },
     FangZhengShuSong_Regular: {
@@ -324,7 +324,7 @@ var fontsMap = {
         license: '商免',
         auth: false,
         source: 'https://mp.weixin.qq.com/s/7kv3i_YEs7x9_9IrCDYvBA',
-        download: '',
+        download: 'https://github.com/wordshub/free-font/tree/master/assets/font/%E4%B8%AD%E6%96%87/%E5%85%B6%E4%BB%96%E5%AD%97%E4%BD%93/%E6%9D%A8%E4%BB%BB%E4%B8%9C%E7%AB%B9%E7%9F%B3%E4%BD%93',
         desc: '杨任东竹石体于2017年4月26日世界知识产权日正式发布，本字体版本为1.23字体按照GB2312-80书写，并增补了少量常见汉字；整套字体有7个字重，共计50000余个字符'
     },
     ZiTiShiJieFaGunTi_Regular: {
@@ -1020,7 +1020,7 @@ var fontsMap = {
         license: '商免',
         auth: false,
         source: 'https://www.cns11643.gov.tw/pageView.jsp?ID=59',
-        download: '',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%85%A8%E5%AD%97%E5%BA%93%E7%B3%BB%E5%88%97/%E5%85%A8%E5%AD%97%E5%BA%AB%E6%AD%A3%E6%A5%B7%E9%AB%94/TW-Kai-98_1.ttf',
         desc: '「全字库字体」是台湾地区为了解决电脑中文字数不足而做的一款开源字体，供全社会免费商用。'
     },
     QuanZiKuZhengSongTi_Regular: {
@@ -1032,7 +1032,7 @@ var fontsMap = {
         license: '商免',
         auth: false,
         source: 'https://www.cns11643.gov.tw/pageView.jsp?ID=59',
-        download: '',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%85%A8%E5%AD%97%E5%BA%93%E7%B3%BB%E5%88%97/%E5%85%A8%E5%AD%97%E5%BA%AB%E6%AD%A3%E5%AE%8B%E9%AB%94/TW-Sung-98_1.ttf',
         desc: '「全字库字体」是台湾地区为了解决电脑中文字数不足而做的一款开源字体，供全社会免费商用。'
     },
     QuanZiKuShuoWenJieZi_Regular: {
@@ -1044,7 +1044,7 @@ var fontsMap = {
         license: '商免',
         auth: false,
         source: 'https://www.cns11643.gov.tw/pageView.jsp?ID=59',
-        download: '',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E5%85%A8%E5%AD%97%E5%BA%93%E7%B3%BB%E5%88%97/%E5%85%A8%E5%AD%97%E5%BA%AB%E8%AA%AA%E6%96%87%E8%A7%A3%E5%AD%97.ttf',
         desc: '「全字库字体」是台湾地区为了解决电脑中文字数不足而做的一款开源字体，供全社会免费商用。'
     },
     ChogokubosoGothic_Regular: {

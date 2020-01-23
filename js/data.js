@@ -1094,6 +1094,30 @@ var fontsMap = {
         source: 'http://jikasei.me/font/genshin/',
         download: 'https://osdn.jp/downloads/users/8/8634/genshingothic-20150607.7z',
         desc: '「思源真黑体」也是同样出自日本自家製字型工房，堪称是思源柔黑体的姊妹作，从思源黑体修改而来，在细部上做了些许的调整和变化，使它看起来更为锐利。思源真黑体一共有七种字重，以及等宽字体、比例字体选择。'
+    },
+    KanjyukuGothic_Regular: {
+        type: '1',
+        code: 'kanjyukugothic',
+        name: 'Kanjyuku Gothic',
+        preview: 'images/font/kanjyukugothic/font.svg',
+        posters: ['images/font/kanjyukugothic/poster.svg'],
+        license: 'IPA-1.0',
+        auth: false,
+        source: 'https://www.flopdesign.com/freefont/kanjyukugothic-freefont.html',
+        download: 'http://flop.sakura.ne.jp/font/fontdata/KanjyukuGothic.zip',
+        desc: '「Kanjiku Gothic」是一种免费字体，是免费下载和商业字体。该免费字体包含第二级汉字，可以由文字处理器和Adobe图形软件等应用程序自由处理和使用。平假名，片假名和字母是原始制作的，并且汉字辅以IPAex Gothic改进的字体。'
+    },
+    Smartfont_Regular: {
+        type: '1',
+        code: 'smartfont',
+        name: 'Smart Font UI',
+        preview: 'images/font/smartfont/font.svg',
+        posters: ['images/font/smartfont/poster.svg'],
+        license: 'IPA-1.0',
+        auth: false,
+        source: 'https://www.flopdesign.com/freefont/smartfont.html',
+        download: 'http://flop.sakura.ne.jp/font/fontdata/SmartFontUI.zip',
+        desc: '「Smart Font UI」是一种时尚而酷炫的日语字体，可以免费下载并在市场上出售。此免费字体还包括第二级汉字，并且是一种哥特式字体，可以自由处理并与Excel，Word和Adobe Illustrator等应用程序一起使用。创建用于平假名，片假名，字母和数字的原始字体，并使用IPAex Gothic改进字体补充汉字字符。'
     }
 
 

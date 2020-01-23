@@ -1058,6 +1058,18 @@ var fontsMap = {
         source: 'http://font.websozai.jp/line-font-mihon.html',
         download: '',
         desc: '「超极细」日文称为【超極細ゴシック体】，据说是目前字体线条最细的一款字体。超极细本身是日文字体，但同时支持繁体，所以也可作繁体字体使用。'
+    },
+    AlibabaPuHuiTi_Regular: {
+        type: '4',
+        code: 'alibabapuhuiti',
+        name: '阿里巴巴普惠体',
+        preview: 'images/font/alibabapuhuiti/font.svg',
+        posters: ['images/font/alibabapuhuiti/poster.svg'],
+        license: '商免',
+        auth: false,
+        source: 'https://ics.alibaba.com/space/H7rlDe?spm=ics.preview.0.0.242063a8wIReE8',
+        download: 'https://ics.alibaba.com/asset/download?spm=ics.preview.0.0.572863a8Ukyybl&id=28c06e8d05462a16',
+        desc: '「阿里巴巴普惠体」由阿里巴巴在举办的 「2019 阿里巴巴UCAN 设计大会」发布了，该字体是永久免费商用。'
     }
 
 

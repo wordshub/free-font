@@ -1012,7 +1012,7 @@ var fontsMap = {
         desc: '「王汉宗自由字型」由研发天蚕字库的台湾中原大学数学系王汉宗教授先分别在2000年和2004年先后捐出十套WCL系列字型和32套新字型，全部以GNU GPL许可分发。'
     },
     WangHanZongBiaoZhunKaiTiKongXin_Regular: {
-        type: '3',
+        type: '4',
         code: 'wanghanzongbiaozhunkaitikongxin',
         name: '王漢宗標楷體空心',
         preview: 'images/font/wanghanzongbiaozhunkaitikongxin/font.svg',
@@ -1024,7 +1024,7 @@ var fontsMap = {
         desc: '「王汉宗自由字型」由研发天蚕字库的台湾中原大学数学系王汉宗教授先分别在2000年和2004年先后捐出十套WCL系列字型和32套新字型，全部以GNU GPL许可分发。'
     },
     WangHanZongBoKaTiKongYin_Regular: {
-        type: '3',
+        type: '4',
         code: 'wanghanzongbokatikongyin',
         name: '王漢宗波卡體空陰',
         preview: 'images/font/wanghanzongbokatikongyin/font.svg',
@@ -1036,7 +1036,7 @@ var fontsMap = {
         desc: '「王汉宗自由字型」由研发天蚕字库的台湾中原大学数学系王汉宗教授先分别在2000年和2004年先后捐出十套WCL系列字型和32套新字型，全部以GNU GPL许可分发。'
     },
     WangHanZongCuGangTiBiaoZhun_Regular: {
-        type: '3',
+        type: '5',
         code: 'wanghanzongcugangtibiaozhun',
         name: '王漢宗粗鋼體標準',
         preview: 'images/font/wanghanzongcugangtibiaozhun/font.svg',
@@ -1048,7 +1048,7 @@ var fontsMap = {
         desc: '「王汉宗自由字型」由研发天蚕字库的台湾中原大学数学系王汉宗教授先分别在2000年和2004年先后捐出十套WCL系列字型和32套新字型，全部以GNU GPL许可分发。'
     },
     WangHanZongCuHeiTiShiYin_Regular: {
-        type: '3',
+        type: '4',
         code: 'wanghanzongcuheitishiyin',
         name: '王漢宗粗黑體實陰',
         preview: 'images/font/wanghanzongcuheitishiyin/font.svg',
@@ -1060,7 +1060,7 @@ var fontsMap = {
         desc: '「王汉宗自由字型」由研发天蚕字库的台湾中原大学数学系王汉宗教授先分别在2000年和2004年先后捐出十套WCL系列字型和32套新字型，全部以GNU GPL许可分发。'
     },
     WangHanZongCuYuanTiShuangKong_Regular: {
-        type: '3',
+        type: '4',
         code: 'wanghanzongcuyuantishuangkong',
         name: '王漢宗粗圓體雙空',
         preview: 'images/font/wanghanzongcuyuantishuangkong/font.svg',
@@ -1072,7 +1072,7 @@ var fontsMap = {
         desc: '「王汉宗自由字型」由研发天蚕字库的台湾中原大学数学系王汉宗教授先分别在2000年和2004年先后捐出十套WCL系列字型和32套新字型，全部以GNU GPL许可分发。'
     },
     WangHanZongFangSongTiBiaoZhun_Regular: {
-        type: '3',
+        type: '2',
         code: 'wanghanzongfangsongtibiaozhun',
         name: '王漢宗仿宋體標準',
         preview: 'images/font/wanghanzongfangsongtibiaozhun/font.svg',
@@ -1084,7 +1084,7 @@ var fontsMap = {
         desc: '「王汉宗自由字型」由研发天蚕字库的台湾中原大学数学系王汉宗教授先分别在2000年和2004年先后捐出十套WCL系列字型和32套新字型，全部以GNU GPL许可分发。'
     },
     WangHanZongHaiBaoTiBanTianShui_Regular: {
-        type: '3',
+        type: '4',
         code: 'wanghanzonghaibaotibantianshui',
         name: '王漢宗海報體半天水',
         preview: 'images/font/wanghanzonghaibaotibantianshui/font.svg',
@@ -1096,7 +1096,7 @@ var fontsMap = {
         desc: '「王汉宗自由字型」由研发天蚕字库的台湾中原大学数学系王汉宗教授先分别在2000年和2004年先后捐出十套WCL系列字型和32套新字型，全部以GNU GPL许可分发。'
     },
     WangHanZongTeMingTiBiaoZhun_Regular: {
-        type: '3',
+        type: '2',
         code: 'wanghanzongtemingtibiaozhun',
         name: '王漢宗特明體標準',
         preview: 'images/font/wanghanzongtemingtibiaozhun/font.svg',
@@ -1108,7 +1108,7 @@ var fontsMap = {
         desc: '「王汉宗自由字型」由研发天蚕字库的台湾中原大学数学系王汉宗教授先分别在2000年和2004年先后捐出十套WCL系列字型和32套新字型，全部以GNU GPL许可分发。'
     },
     WangHanZongXinChaoTiBoLang_Regular: {
-        type: '3',
+        type: '4',
         code: 'wanghanzongxinchaotibolang',
         name: '王漢宗新潮體波浪',
         preview: 'images/font/wanghanzongxinchaotibolang/font.svg',
@@ -1120,7 +1120,7 @@ var fontsMap = {
         desc: '「王汉宗自由字型」由研发天蚕字库的台湾中原大学数学系王汉宗教授先分别在2000年和2004年先后捐出十套WCL系列字型和32套新字型，全部以GNU GPL许可分发。'
     },
     WangHanZongZongYiTiShuangKongYin_Regular: {
-        type: '3',
+        type: '4',
         code: 'wanghanzongzongyitishuangkongyin',
         name: '王漢宗綜藝體雙空陰',
         preview: 'images/font/wanghanzongzongyitishuangkongyin/font.svg',

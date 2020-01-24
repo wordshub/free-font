@@ -53,13 +53,22 @@
 | [cwTeX字体](#cwTeX字体) |![](https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square) |
 | [字体视界法棍体](#字体视界法棍体) |![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square) |
 | [卓健橄榄简体](#卓健橄榄简体) |![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
-| [OPPO Sans](#OPPO Sans) |![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
+| [OPPO Sans](#OPPO&nbsp;Sans) |![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
 | [花园明朝](#花园明朝) | [![](https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square)](https://osdn.jp/projects/opensource/wiki/SIL_Open_Font_License_1.1) |
 | [源界明朝体](#源界明朝体) | [![](https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square)](https://osdn.jp/projects/opensource/wiki/SIL_Open_Font_License_1.1) |
 | [手写杂字体](#手写杂字体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
 | [装甲明朝](#装甲明朝) | [![](https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square)](https://osdn.jp/projects/opensource/wiki/SIL_Open_Font_License_1.1) |
 | [濑户体](#濑户体) | [![](https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square)](https://osdn.jp/projects/opensource/wiki/SIL_Open_Font_License_1.1) |
 | [麦克笔手绘体](#麦克笔手绘体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
+| [全字库正楷体](#全字库正楷体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
+| [全字库正宋体](#全字库正宋体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
+| [全字库说文解字](#全字库说文解字) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
+| [超级细](#超级细) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
+| [阿里巴巴普惠体](#阿里巴巴普惠体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
+| [思源真黑](#思源真黑) | ![](https://img.shields.io/badge/license-OPL--1.1-orange?style=flat-square) |
+| [思源真黑](#思源真黑) | ![](https://img.shields.io/badge/license-OPL--1.1-orange?style=flat-square) |
+| [Kanjyuku Gothic](#[Kanjyuku&nbsp;Gothic) | ![](https://img.shields.io/badge/license-IPA--1.0-orange?style=flat-square) |
+| [Smart Font UI](#Smart&nbsp;Font&nbsp;UI) | ![](https://img.shields.io/badge/license-IPA--1.0-orange?style=flat-square) |
 
 # 中文
 
@@ -403,6 +412,38 @@
 
 **参考**
 [Github](https://github.com/adobe-fonts/source-han-serif)
+
+### 思源柔黑
+
+![思源宋体](assets/image/genjyuu.svg)
+
+**简介**
+
+「思源柔黑体」是基于思源黑体修改而成的圆体版思源字体，作者是日本的自家製フォント工房。思源柔黑体提供了三种不同圆角程度的版本，以及七种不同粗细的版本。思源柔黑体保留思源黑体原有的优雅及可读性，在文字边角以圆角进行处理，整体看起来更显得活泼、可爱，也较有活力。思源柔黑体一共释出三种版本，差异在于圆角的圆滑程度不同，L 圆角较轻、X 圆角最重，介于中间的是标准版。
+
+**授权**
+
+![GitHub](https://img.shields.io/github/license/adobe-fonts/source-han-serif?style=flat-square)
+
+**参考**
+http://jikasei.me/font/genjyuu/
+
+### 思源真黑
+
+![思源宋体](assets/image/genshin.svg)
+
+**简介**
+
+「思源真黑体」也是同样出自日本自家製字型工房，堪称是思源柔黑体的姊妹作，从思源黑体修改而来，在细部上做了些许的调整和变化，使它看起来更为锐利。思源真黑体一共有七种字重，以及等宽字体、比例字体选择。
+
+**授权**
+
+![GitHub](https://img.shields.io/github/license/adobe-fonts/source-han-serif?style=flat-square)
+
+**参考**
+http://jikasei.me/font/genshin/
+
+
 
 ## 文泉驿系列
 
@@ -994,6 +1035,76 @@ https://www.17font.com/fontDay/OpenSource
 
 [ColorOS 社区](https://bbs.coloros.net/graphic?id=2272309)
 
+
+
+###全字库正楷体
+
+![](assets/image/QuanZiKuZhengKaiTi.svg)
+
+**简介**
+
+「全字库字体」是台湾地区为了解决电脑中文字数不足而做的一款开源字体，供全社会免费商用。
+
+**授权**
+
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+
+**参考**
+
+https://www.cns11643.gov.tw/pageView.jsp?ID=59
+
+
+
+###全字库正宋体
+
+![](assets/image/QuanZiKuZhengSongTi.svg)
+
+**简介**
+
+「全字库字体」是台湾地区为了解决电脑中文字数不足而做的一款开源字体，供全社会免费商用。
+
+**授权**
+
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+
+**参考**
+
+https://www.cns11643.gov.tw/pageView.jsp?ID=59
+
+###全字库说文解字
+
+![](assets/image/QuanZiKuShuoWenJieZi.svg)
+
+**简介**
+
+「全字库字体」是台湾地区为了解决电脑中文字数不足而做的一款开源字体，供全社会免费商用。
+
+**授权**
+
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+
+**参考**
+
+https://www.cns11643.gov.tw/pageView.jsp?ID=59
+
+
+
+### 阿里巴巴普惠体
+
+![](assets/image/AlibabaPuHuiTi.svg)
+
+**简介**
+
+「阿里巴巴普惠体」由阿里巴巴在举办的 「2019 阿里巴巴UCAN 设计大会」发布了，该字体是永久免费商用。
+
+**授权**
+
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+
+**参考**
+
+https://ics.alibaba.com/space/H7rlDe?spm=ics.preview.0.0.242063a8wIReE8
+
 ## 日文
 
 ### 花园明朝
@@ -1091,6 +1202,54 @@ http://flopdesign.com/blog/font/5228/
 **参考**
 
 [フリーフォント『たぬき油性マジック』を公開しました](https://tanukifont.com/tanuki-permanent-marker/)
+
+### 超级细
+
+![麦克笔手绘体](assets/image/ChaoJiXiZiTi.svg)
+
+**简介**
+
+「超极细」日文称为【超極細ゴシック体】，据说是目前字体线条最细的一款字体。超极细本身是日文字体，但同时支持繁体，所以也可作繁体字体使用。
+
+**授权**
+
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+
+**参考**
+
+http://font.websozai.jp/line-font-mihon.html
+
+### Kanjyuku Gothic
+
+![麦克笔手绘体](assets/image/KanjikuGothic.svg)
+
+**简介**
+
+「Kanjiku Gothic」是一种免费字体，是免费下载和商业字体。该免费字体包含第二级汉字，可以由文字处理器和Adobe图形软件等应用程序自由处理和使用。平假名，片假名和字母是原始制作的，并且汉字辅以IPAex Gothic改进的字体。
+
+**授权**
+
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+
+**参考**
+
+https://www.flopdesign.com/freefont/kanjyukugothic-freefont.html
+
+### Smart Font UI
+
+![麦克笔手绘体](assets/image/SmartFontUI.svg)
+
+**简介**
+
+「Smart Font UI」是一种时尚而酷炫的日语字体，可以免费下载并在市场上出售。此免费字体还包括第二级汉字，并且是一种哥特式字体，可以自由处理并与Excel，Word和Adobe Illustrator等应用程序一起使用。创建用于平假名，片假名，字母和数字的原始字体，并使用IPAex Gothic改进字体补充汉字字符。
+
+**授权**
+
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+
+**参考**
+
+https://www.flopdesign.com/freefont/kanjyukugothic-freefont.html
 
 # 英文
 

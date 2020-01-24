@@ -1020,7 +1020,7 @@ var fontsMap = {
         license: 'GPL-2.0',
         auth: false,
         source: 'https://code.google.com/archive/p/wangfonts/',
-        download: '',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E7%8E%8B%E6%B1%89%E5%AE%97%E5%AD%97%E4%BD%93%E7%B3%BB%E5%88%97/%E7%8E%8B%E6%BC%A2%E5%AE%97%E6%A8%99%E6%A5%B7%E9%AB%94%E7%A9%BA%E5%BF%83.ttf',
         desc: '「王汉宗自由字型」由研发天蚕字库的台湾中原大学数学系王汉宗教授先分别在2000年和2004年先后捐出十套WCL系列字型和32套新字型，全部以GNU GPL许可分发。'
     },
     WangHanZongBoKaTiKongYin_Regular: {
@@ -1032,7 +1032,7 @@ var fontsMap = {
         license: 'GPL-2.0',
         auth: false,
         source: 'https://code.google.com/archive/p/wangfonts/',
-        download: '',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E7%8E%8B%E6%B1%89%E5%AE%97%E5%AD%97%E4%BD%93%E7%B3%BB%E5%88%97/%E7%8E%8B%E6%BC%A2%E5%AE%97%E6%B3%A2%E5%8D%A1%E9%AB%94%E7%A9%BA%E9%99%B0.ttf',
         desc: '「王汉宗自由字型」由研发天蚕字库的台湾中原大学数学系王汉宗教授先分别在2000年和2004年先后捐出十套WCL系列字型和32套新字型，全部以GNU GPL许可分发。'
     },
     WangHanZongCuGangTiBiaoZhun_Regular: {
@@ -1044,7 +1044,7 @@ var fontsMap = {
         license: 'GPL-2.0',
         auth: false,
         source: 'https://code.google.com/archive/p/wangfonts/',
-        download: '',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E7%8E%8B%E6%B1%89%E5%AE%97%E5%AD%97%E4%BD%93%E7%B3%BB%E5%88%97/%E7%8E%8B%E6%BC%A2%E5%AE%97%E7%B2%97%E9%8B%BC%E9%AB%94%E6%A8%99%E6%BA%96.ttf',
         desc: '「王汉宗自由字型」由研发天蚕字库的台湾中原大学数学系王汉宗教授先分别在2000年和2004年先后捐出十套WCL系列字型和32套新字型，全部以GNU GPL许可分发。'
     },
     WangHanZongCuHeiTiShiYin_Regular: {
@@ -1056,7 +1056,7 @@ var fontsMap = {
         license: 'GPL-2.0',
         auth: false,
         source: 'https://code.google.com/archive/p/wangfonts/',
-        download: '',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E7%8E%8B%E6%B1%89%E5%AE%97%E5%AD%97%E4%BD%93%E7%B3%BB%E5%88%97/%E7%8E%8B%E6%BC%A2%E5%AE%97%E7%B2%97%E9%BB%91%E9%AB%94%E5%AF%A6%E9%99%B0.ttf',
         desc: '「王汉宗自由字型」由研发天蚕字库的台湾中原大学数学系王汉宗教授先分别在2000年和2004年先后捐出十套WCL系列字型和32套新字型，全部以GNU GPL许可分发。'
     },
     WangHanZongCuYuanTiShuangKong_Regular: {
@@ -1092,7 +1092,7 @@ var fontsMap = {
         license: 'GPL-2.0',
         auth: false,
         source: 'https://code.google.com/archive/p/wangfonts/',
-        download: '',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E7%8E%8B%E6%B1%89%E5%AE%97%E5%AD%97%E4%BD%93%E7%B3%BB%E5%88%97/%E7%8E%8B%E6%BC%A2%E5%AE%97%E6%B5%B7%E5%A0%B1%E9%AB%94%E5%8D%8A%E5%A4%A9%E6%B0%B4.ttf',
         desc: '「王汉宗自由字型」由研发天蚕字库的台湾中原大学数学系王汉宗教授先分别在2000年和2004年先后捐出十套WCL系列字型和32套新字型，全部以GNU GPL许可分发。'
     },
     WangHanZongTeMingTiBiaoZhun_Regular: {
@@ -1104,7 +1104,7 @@ var fontsMap = {
         license: 'GPL-2.0',
         auth: false,
         source: 'https://code.google.com/archive/p/wangfonts/',
-        download: '',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E7%8E%8B%E6%B1%89%E5%AE%97%E5%AD%97%E4%BD%93%E7%B3%BB%E5%88%97/%E7%8E%8B%E6%BC%A2%E5%AE%97%E7%89%B9%E6%98%8E%E9%AB%94%E6%A8%99%E6%BA%96.ttf',
         desc: '「王汉宗自由字型」由研发天蚕字库的台湾中原大学数学系王汉宗教授先分别在2000年和2004年先后捐出十套WCL系列字型和32套新字型，全部以GNU GPL许可分发。'
     },
     WangHanZongXinChaoTiBoLang_Regular: {
@@ -1116,7 +1116,7 @@ var fontsMap = {
         license: 'GPL-2.0',
         auth: false,
         source: 'https://code.google.com/archive/p/wangfonts/',
-        download: '',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E7%8E%8B%E6%B1%89%E5%AE%97%E5%AD%97%E4%BD%93%E7%B3%BB%E5%88%97/%E7%8E%8B%E6%BC%A2%E5%AE%97%E6%96%B0%E6%BD%AE%E9%AB%94.ttf',
         desc: '「王汉宗自由字型」由研发天蚕字库的台湾中原大学数学系王汉宗教授先分别在2000年和2004年先后捐出十套WCL系列字型和32套新字型，全部以GNU GPL许可分发。'
     },
     WangHanZongZongYiTiShuangKongYin_Regular: {
@@ -1128,7 +1128,7 @@ var fontsMap = {
         license: 'GPL-2.0',
         auth: false,
         source: 'https://code.google.com/archive/p/wangfonts/',
-        download: '',
+        download: 'https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E7%8E%8B%E6%B1%89%E5%AE%97%E5%AD%97%E4%BD%93%E7%B3%BB%E5%88%97/%E7%8E%8B%E6%BC%A2%E5%AE%97%E7%B6%9C%E8%97%9D%E9%AB%94%E9%9B%99%E7%A9%BA%E9%99%B0.ttf',
         desc: '「王汉宗自由字型」由研发天蚕字库的台湾中原大学数学系王汉宗教授先分别在2000年和2004年先后捐出十套WCL系列字型和32套新字型，全部以GNU GPL许可分发。'
     },
 

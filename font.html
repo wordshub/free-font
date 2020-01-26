@@ -48,7 +48,7 @@
                             <a href="javascript:" longdesc="shouhui">手绘</a>
                         </div>
                         <div id="fontList" class=""></div>
-
+                        <div class="arrow down"></div>
 
                     </div>
                     <div class="row">
@@ -167,16 +167,38 @@
 
             /**/
             $(".fontMainTit a").on("click", function() {
+
                 $(".fontMainTit a").removeClass("on");
                 $(this).addClass("on");
                 var aimNavi = eval($(this).attr("longdesc"));
-                $("#fontList").html(aimNavi.join('\r\n'));
+                $("#fontList").html(aimNavi.join('\r\n')).removeClass('overflow-hidden');
+                initNav()
             });
 
         };
 
+        function initNav() {
+            if ($('#fontList').height() <= 84) {
+                $('.arrow').hide()
+                $('#fontList').removeClass('overflow-hidden')
+            } else {
+                $('.arrow').show().removeClass('up').addClass('down');
+                $('#fontList').addClass('overflow-hidden')
+            }
+        }
+
         $(document).ready(function() {
             insertFontNaviHtml();
+            initNav()
+            $('.arrow').on('click', function() {
+                if ($(this).hasClass('down')) {
+                    $(this).removeClass('down').addClass('up');
+                    $('#fontList').removeClass('overflow-hidden')
+                } else {
+                    $(this).removeClass('up').addClass('down');
+                    $('#fontList').addClass('overflow-hidden')
+                }
+            })
         });
     </script>
 

@@ -1123,13 +1123,42 @@ a.padding {
     clear: both;
 }
 
+.fonts-navigation {
+    position: relative;
+}
+
 #fontList {
-    display: block;
-    margin-bottom: 15px;
+    margin-bottom: 30px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
+    padding: 0px 10px;
+    -webkit-transition: 0.2s;
+    transition: 0.2s;
+}
+
+.overflow-hidden {
+    max-height: 84px;
+    overflow: hidden;
+}
+
+.arrow {
+    width: 20px;
+    height: 20px;
+    background-size: cover;
+    position: absolute;
+    left: 50%;
+    margin-left: -10px;
+    bottom: -20px;
+}
+
+.arrow.down {
+    background-image: url(../images/arrow-down.svg);
+}
+
+.arrow.up {
+    background-image: url(../images/arrow-up.svg);
 }
 
 #fontList a,

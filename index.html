@@ -111,6 +111,7 @@
     <script src="//cdn.jsdelivr.net/gh/wordshub/free-font/vendor/jquery-1.11.0.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/lazyload@2.0.0-rc.2/lazyload.js"></script>
     <script src="//cdn.jsdelivr.net/gh/wordshub/free-font/vendor/isotope/isotope.pkgd.min.js"></script>
+    <script src="//unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
     <script src="//cdn.jsdelivr.net/gh/wordshub/free-font/js/custom.js"></script>
     <script src="js/data.js"></script>
     <script>
@@ -167,6 +168,7 @@
             var the_font_type = location.search.substring(1); //hei
             var $project_feed_wrapper = $(".project-feed-wrapper");
             var $container = $('.project-feed, .masonry-feed');
+
             $container.imagesLoaded(function() {
                 $container.isotope({
                     filter: '*',

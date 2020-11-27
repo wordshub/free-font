@@ -14,19 +14,19 @@
 | [方正书宋](#方正书宋) | ![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square) |
 | [方正仿宋](#方正仿宋) | ![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square) |
 | [方正楷体](#方正楷体) | ![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square) |
-| [庞门正道标题体](#庞门正道标题体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
-| [庞门正道粗书体](#庞门正道粗书体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
-| [庞门正道轻松体](#庞门正道轻松体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
-| [站酷高端黑](#站酷高端黑) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
-| [站酷文艺体](#站酷文艺体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
-| [站酷小微LOGO体](#站酷小微logo体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
-| [站酷庆科黄油体](#站酷庆科黄油体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)     |
-| [站酷酷黑](#站酷酷黑) |  ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)    |
-| [胡晓波男神体](#胡晓波男神体) |  ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)    |
-| [胡晓波骚包体](#胡晓波骚包体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)     |
-| [胡晓波真帅体](#胡晓波真帅体) |  ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)    |
-| [沐瑶软笔手写体](#沐瑶软笔手写体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)     |
-| [沐瑶随心手写体](#沐瑶随心手写体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)     |
+| [庞门正道标题体](#庞门正道标题体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success) |
+| [庞门正道粗书体](#庞门正道粗书体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success) |
+| [庞门正道轻松体](#庞门正道轻松体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success) |
+| [站酷高端黑](#站酷高端黑) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success) |
+| [站酷文艺体](#站酷文艺体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success) |
+| [站酷小微LOGO体](#站酷小微logo体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success) |
+| [站酷庆科黄油体](#站酷庆科黄油体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)     |
+| [站酷酷黑](#站酷酷黑) |  ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)    |
+| [胡晓波男神体](#胡晓波男神体) |  ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)    |
+| [胡晓波骚包体](#胡晓波骚包体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)     |
+| [胡晓波真帅体](#胡晓波真帅体) |  ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)    |
+| [沐瑶软笔手写体](#沐瑶软笔手写体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)     |
+| [沐瑶随心手写体](#沐瑶随心手写体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)     |
 | [思源黑体](#思源黑体) | [![GitHub](https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square)](https://github.com/adobe-fonts/source-han-sans/blob/master/LICENSE.txt) |
 | [思源宋体](#思源宋体) | ![GitHub](https://img.shields.io/github/license/adobe-fonts/source-han-serif?style=flat-square) |
 | [文泉驿正黑](#文泉驿正黑) | [![文泉驿](https://img.shields.io/badge/license-GPL--2.0-orange?style=flat-square)](http://wenq.org/wqy2/index.cgi?GPL) |
@@ -38,17 +38,17 @@
 | [一点钢笔鹤体](#一点钢笔鹤体) | [![](https://img.shields.io/badge/license-GPL--2.0-orange?style=flat-square)](http://www.gnu.org/licenses/gpl-2.0.txt) [![](https://img.shields.io/badge/license-GPL--3.0-orange?style=flat-square)](http://www.gnu.org/licenses/gpl-3.0.txt) |
 | [一点颜体](#一点颜体) | [![](https://img.shields.io/badge/license-GPL--2.0-orange?style=flat-square)](http://www.gnu.org/licenses/gpl-2.0.txt) [![](https://img.shields.io/badge/license-GPL--3.0-orange?style=flat-square)](http://www.gnu.org/licenses/gpl-3.0.txt) |
 | [王汉宗系列](#王汉宗系列) | ![](https://img.shields.io/badge/license-GPL--2.0-orange?style=flat-square) |
-| [包图小白体](#包图小白体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)     |
-| [江西拙楷](#江西拙楷) |  ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)    |
-| [优设标题黑](#优设标题黑) |  ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)    |
+| [包图小白体](#包图小白体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)     |
+| [江西拙楷](#江西拙楷) |  ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)    |
+| [优设标题黑](#优设标题黑) |  ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)    |
 | [锐字真言体](#锐字真言体) | ![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square) |
-| [联盟起艺卢帅正锐黑体](#联盟起艺卢帅正锐黑体) |![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)      |
+| [联盟起艺卢帅正锐黑体](#联盟起艺卢帅正锐黑体) |![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)      |
 | [问藏书房](#问藏书房) | ![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square) |
-| [清松手写体](#清松手写体) |   ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)   |
+| [清松手写体](#清松手写体) |   ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)   |
 | [新叶念体](#新叶念体) | ![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square) |
 | [贤二体](#贤二体) |  ![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square)  |
-| [手书体](#手书体) |  ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)    |
-| [杨任东竹石体](#杨任东竹石体) |![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
+| [手书体](#手书体) |  ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)    |
+| [杨任东竹石体](#杨任东竹石体) |![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success) |
 | [破产字体](#破产字体) |![](https://img.shields.io/badge/license-GPL--3.0-orange?style=flat-square) |
 | [cwTeX字体](#cwTeX字体) |![](https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square) |
 | [字体视界法棍体](#字体视界法棍体) |![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square) |
@@ -56,15 +56,15 @@
 | [OPPO Sans](#OPPO&nbsp;Sans) |![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
 | [花园明朝](#花园明朝) | [![](https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square)](https://osdn.jp/projects/opensource/wiki/SIL_Open_Font_License_1.1) |
 | [源界明朝体](#源界明朝体) | [![](https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square)](https://osdn.jp/projects/opensource/wiki/SIL_Open_Font_License_1.1) |
-| [手写杂字体](#手写杂字体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
+| [手写杂字体](#手写杂字体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success) |
 | [装甲明朝](#装甲明朝) | [![](https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square)](https://osdn.jp/projects/opensource/wiki/SIL_Open_Font_License_1.1) |
 | [濑户体](#濑户体) | [![](https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square)](https://osdn.jp/projects/opensource/wiki/SIL_Open_Font_License_1.1) |
-| [麦克笔手绘体](#麦克笔手绘体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
-| [全字库正楷体](#全字库正楷体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
-| [全字库正宋体](#全字库正宋体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
-| [全字库说文解字](#全字库说文解字) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
-| [超级细](#超级细) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
-| [阿里巴巴普惠体](#阿里巴巴普惠体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square) |
+| [麦克笔手绘体](#麦克笔手绘体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success) |
+| [全字库正楷体](#全字库正楷体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success) |
+| [全字库正宋体](#全字库正宋体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success) |
+| [全字库说文解字](#全字库说文解字) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success) |
+| [超级细](#超级细) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success) |
+| [阿里巴巴普惠体](#阿里巴巴普惠体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success) |
 | [思源真黑](#思源真黑) | ![](https://img.shields.io/badge/license-OPL--1.1-orange?style=flat-square) |
 | [思源真黑](#思源真黑) | ![](https://img.shields.io/badge/license-OPL--1.1-orange?style=flat-square) |
 | [Kanjyuku Gothic](#[Kanjyuku&nbsp;Gothic) | ![](https://img.shields.io/badge/license-IPA--1.0-orange?style=flat-square) |
@@ -154,7 +154,7 @@
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -170,7 +170,7 @@
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -186,7 +186,7 @@
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -205,7 +205,7 @@
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -221,7 +221,7 @@
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 免费授权全社会使用（包括商用）
 
@@ -239,7 +239,7 @@
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -255,7 +255,7 @@
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -271,7 +271,7 @@
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -287,7 +287,7 @@
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -305,7 +305,7 @@
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -321,7 +321,7 @@
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -337,7 +337,7 @@
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -355,7 +355,7 @@
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -372,7 +372,7 @@
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -734,7 +734,7 @@ https://github.com/ButTaiwan/genyo-font
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -750,7 +750,7 @@ https://github.com/ButTaiwan/genyo-font
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -766,7 +766,7 @@ https://github.com/ButTaiwan/genyo-font
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -800,7 +800,7 @@ https://github.com/ButTaiwan/genyo-font
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -846,7 +846,7 @@ https://github.com/ButTaiwan/genyo-font
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -862,7 +862,7 @@ https://github.com/ButTaiwan/genyo-font
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -896,7 +896,7 @@ https://github.com/ButTaiwan/genyo-font
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -912,7 +912,7 @@ https://github.com/ButTaiwan/genyo-font
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -1004,7 +1004,7 @@ https://www.17font.com/fontDay/OpenSource
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -1030,7 +1030,7 @@ https://www.17font.com/fontDay/OpenSource
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -1048,7 +1048,7 @@ https://www.17font.com/fontDay/OpenSource
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -1066,7 +1066,7 @@ https://www.cns11643.gov.tw/pageView.jsp?ID=59
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -1082,7 +1082,7 @@ https://www.cns11643.gov.tw/pageView.jsp?ID=59
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -1100,7 +1100,7 @@ https://www.cns11643.gov.tw/pageView.jsp?ID=59
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -1150,7 +1150,7 @@ https://flopdesign.com/blog/font/5146/
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -1198,7 +1198,7 @@ http://flopdesign.com/blog/font/5228/
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -1214,7 +1214,7 @@ http://flopdesign.com/blog/font/5228/
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -1230,7 +1230,7 @@ http://font.websozai.jp/line-font-mihon.html
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -1246,7 +1246,7 @@ https://www.flopdesign.com/freefont/kanjyukugothic-freefont.html
 
 **授权**
 
-![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 **参考**
 
@@ -1263,7 +1263,7 @@ https://www.flopdesign.com/freefont/kanjyukugothic-freefont.html
 可能在不少人看来，「开源」就是没有限制。但实际情况恰恰相反。开源字体和开源软件一样，不但受制于各种类型的许可证，而且由于开源许可证的社区属性，关于其用法的争议甚至比权利义务一目了然的商业许可更大，在使用前必须认真检索和理解。值得注意的是常见的开源字体许可证对字体的使用限制不大，主要限制在于对字体的编辑和再分发。
 
 ## 免费商用字体
-![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square) ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square)
+![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square) ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
 
 商用免费不是一种开源软件的授权协议，主要指个人或者字体开发厂商没有开源但是免费提供给个人和商业机构使用的字体。目前中文字体的版权没有一个统一的标准，不同的字体厂商，对免费商用的字体有不同的限制，有些字体免费商用之前还需要获得厂商的授权，使用这类字体时需要仔细阅读他们的条款，避免不必要的麻烦。个人设计师发布并承诺开放免费商用的字体这没有这些限制。
 

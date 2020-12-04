@@ -69,6 +69,19 @@
 | [思源真黑](#思源真黑) | ![](https://img.shields.io/badge/license-OPL--1.1-orange?style=flat-square) |
 | [Kanjyuku Gothic](#[Kanjyuku&nbsp;Gothic) | ![](https://img.shields.io/badge/license-IPA--1.0-orange?style=flat-square) |
 | [Smart Font UI](#Smart&nbsp;Font&nbsp;UI) | ![](https://img.shields.io/badge/license-IPA--1.0-orange?style=flat-square) |
+| [智勇手书体](#智勇手书体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success) |
+| [千图小兔体](#千图小兔体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success) |
+| [演示佛系体](#演示佛系体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success) |
+| [演示秋鸿楷](#演示秋鸿楷) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success) |
+| [演示夏行楷](#演示夏行楷) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success) |
+| [演示春风楷](#演示春风楷) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success) |
+| [演示悠然小楷](#演示悠然小楷) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success) |
+| [和田研字体](#和田研字体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success) |
+| [摄图摩登小方体](#摄图摩登小方体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success) |
+| [中文像素体](#中文像素体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success) |
+| [iSlide云犹体](#iSlide云犹体) | ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success) |
+| [黄令东齐伋体](#黄令东齐伋体) | ![GitHub](https://img.shields.io/github/license/LingDong-/qiji-font?style=flat-square) |
+| [钟齐志莽行书](#钟齐志莽行书) | ![](https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square) |
 
 # 中文
 
@@ -726,6 +739,8 @@ https://github.com/ButTaiwan/genyo-font
 
 ### 智勇手书体
 
+![智勇手书体](assets/image/ZhiYongShouShuTi.svg)
+
 **简介**
 
 智勇手书体是设计师 [贾智勇](https://www.zcool.com.cn/work/ZMjI2MDk1MDg=.html) 手写并制作分享给大家使用的字体。这款字体按照 GB2312 标准， 共做了基本汉字6763个 。这款字体风格为手写风格，可以用于slogan、banner、海报、商标等设计里面。
@@ -739,6 +754,8 @@ https://github.com/ButTaiwan/genyo-font
 [手书体—可免费商用字体](https://www.zcool.com.cn/work/ZMjI2MDk1MDg=.html)
 
 ### 千图小兔体
+
+![千图小兔体](assets/image/QianTuXiaoTuTi.svg)
 
 **简介**
 
@@ -754,6 +771,8 @@ https://github.com/ButTaiwan/genyo-font
 
 ### 演示佛系体
 
+![演示佛系体](assets/image/YanShiFoXiTi.svg)
+
 **简介**
 
 「演示佛系体」是由一生酷爱书法的纪国才老先生，在80岁这年亲手写了一套独具风格的字体，并授权 **Keynote研究所** 和 **秋叶PPT** 面向全社会联合发布，**全渠道免费商用！**
@@ -768,6 +787,8 @@ https://github.com/ButTaiwan/genyo-font
 
 ### 演示秋鸿楷
 
+![演示秋鸿楷](assets/image/YanShiQiuHongKai.svg)
+
 **简介**
 
 「演示秋鸿楷」是**Keynote研究所**的人生哥制作发布的一款毛笔字体。字稿的作者是叶运鹏：高中教师丨辽宁人丨98年加入农民书画家协会。该字体简体中文楷书，包含标准的6763个字符。
@@ -781,6 +802,8 @@ https://github.com/ButTaiwan/genyo-font
 [免费可商用字体“三连发”，但这不是重点](https://mp.weixin.qq.com/s/CRnRsYu8ymlG9_oK6wmBag)
 
 ### 演示夏行楷
+
+![演示夏行楷](assets/image/YanShiXiaXingKai.svg)
 
 **简介**
 
@@ -797,6 +820,8 @@ https://github.com/ButTaiwan/genyo-font
 
 ### 演示春风楷
 
+![演示春风楷](assets/image/YanShiChunFengKai.svg)
+
 **简介**
 
 「演示春风楷」是**Keynote研究所**的人生哥制作发布的一款毛笔字体。字稿的作者是**徐占海**，军人出身，1983年入伍。每日笔耕不辍练习写字。该字体简体中文楷书，包含标准的6763个字符。
@@ -810,6 +835,8 @@ https://github.com/ButTaiwan/genyo-font
 [免费可商用字体“三连发”，但这不是重点](https://mp.weixin.qq.com/s/CRnRsYu8ymlG9_oK6wmBag)
 
 ### 演示悠然小楷
+
+![演示悠然小楷](assets/image/YanShiYouRanXiaoKai.svg)
 
 **简介**
 
@@ -829,6 +856,8 @@ https://github.com/ButTaiwan/genyo-font
 
 ### 和田研字体
 
+![和田研字体](assets/image/HeTianYanZiTi.svg)
+
 **简介**
 
 「和田研字体」（和田研細丸ゴシック / 和田研中丸ゴシック；WadaLabChuMaruGo2004Emoji）是**WadaLab**,**RareEarth**(日本)发布于2004年的一款字体，年代相对久远，但是迄今为止依然在持续维护更新中，最新的版本发布于2020年02月24日。以简单的元素来表达字体的美感且每一个字体的直角转折处都以椭圆角来做替代，整个字体的设计都充满了浓浓的古典风格。
@@ -844,6 +873,8 @@ https://github.com/ButTaiwan/genyo-font
 https://ja.osdn.net/projects/jis2004/
 
 ### 摄图摩登小方体
+
+![摄图摩登小方体](assets/image/SheTuMoDengXiaoFang.svg)
 
 **简介**
 
@@ -863,6 +894,8 @@ https://ja.osdn.net/projects/jis2004/
 
 ### 中文像素体
 
+![中文像素体](assets/image/ZhongWenXiangSuTi.svg)
+
 **简介**
 
 「中文像素体」是一个像素中文字体，里面具有6000多个常用字，其是使用[HZK16](https://github.com/aguegu/BitmapFont)字模制作。可以在在商业和免费游戏项目中使用这个字体。
@@ -876,6 +909,8 @@ https://ja.osdn.net/projects/jis2004/
 [IPix(Chinese Pixel Font/ 中文像素字体)](https://purestudio.itch.io/ipix)
 
 ### iSlide云犹体
+
+![iSlide云犹体](assets/image/islide.svg)
 
 **简介**
 
@@ -891,6 +926,8 @@ https://ja.osdn.net/projects/jis2004/
 
 ### 黄令东齐伋体
 
+![黄令东齐伋体](assets/image/HuangLingDongQiTi.svg)
+
 **简介**
 
 「黄令东齐伋体」，一款可以媲美康熙字典体的免费商用字体！可以免费商用！黄令东齐伋体摘自明代木版印刷书籍《凌閔刻本》，采用半自动计算机视觉和OCR制作而成的一款字体。其笔画风格书法特征浓郁，比常规的明朝体更具韵律感，富有人文气息。黄令东齐伋体非常适宜用于需要展现人文感、手作感、古拙感的场景。 黄令东齐伋体（QIJIFALLBACK Regular）是基于思源宋体改造而来，所以对中文汉字很全，无论是简体还是繁体都基本上不缺字! 依据SIL Open Font License 1.1授权协议，可以用于任何用途，包括免费商用。
@@ -904,6 +941,8 @@ https://ja.osdn.net/projects/jis2004/
 **https://github.com/LingDong-/qiji-font**
 
 ### 钟齐志莽行书
+
+![钟齐志莽行书](assets/image/ZhiMangXing.svg)
 
 **简介**
 

@@ -37,7 +37,7 @@
 | [思源真黑](#思源真黑) |[千图小兔体](#千图小兔体)||
 | [OPPO Sans](#oppo-sans) |[黄令东齐伋体](#黄令东齐伋体)||
 |  |[Smart Font UI](#smart-font-ui)||
-|  |[Kanjyuku Gothic](#[kanjyuku-gothic)||
+|  |[Kanjyuku Gothic](#kanjyuku-gothic)||
 # 中文
 
 &nbsp;

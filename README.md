@@ -35,9 +35,9 @@
 | [全字库正宋体](#全字库正宋体) |[和田研字体](#和田研字体)|[钟齐志莽行书](#钟齐志莽行书)|
 | [阿里巴巴普惠体](#阿里巴巴普惠体) |[超级细](#超级细)||
 | [思源真黑](#思源真黑) |[千图小兔体](#千图小兔体)||
-| [OPPO Sans](#OPPO&nbsp;Sans) |[黄令东齐伋体](#黄令东齐伋体)||
-|  |[Smart Font UI](#Smart&nbsp;Font&nbsp;UI)||
-|  |[Kanjyuku Gothic](#[Kanjyuku&nbsp;Gothic)||
+| [OPPO Sans](#oppo-sans) |[黄令东齐伋体](#黄令东齐伋体)||
+|  |[Smart Font UI](#smart-font-ui)||
+|  |[Kanjyuku Gothic](#[kanjyuku-gothic)||
 # 中文
 
 &nbsp;
@@ -866,7 +866,7 @@
 
 &nbsp;
 
-<a id="user-content-OPP%C2%A Sans"  href="#OPPO%C2%ASans"><img src="assets/image/OPPOSansLight.svg" alt="OPPO Sans" width="100%"></a>
+<a id="user-content-oppo-sans"  href="#oppo-sans"><img src="assets/image/OPPOSansLight.svg" alt="OPPO Sans" width="100%"></a>
 
 ![OPPO Sans Regular](assets/image/OPPOSansRegular.svg)
 
@@ -1005,7 +1005,7 @@
 
 &nbsp;
 
-<a id="user-content-Kanjyuku%C2%AGothic"  href="#Kanjyuku%C2%AGothic"><img src="assets/image/KanjikuGothic.svg" alt="Kanjyuku Gothic" width="100%"></a>
+<a id="user-content-kanjyuku-gothic"  href="#kanjyuku-gothic"><img src="assets/image/KanjikuGothic.svg" alt="Kanjyuku Gothic" width="100%"></a>
 
 「Kanjiku Gothic」是一种免费字体，是免费下载和商业字体。该免费字体包含第二级汉字，可以由文字处理器和Adobe图形软件等应用程序自由处理和使用。平假名，片假名和字母是原始制作的，并且汉字辅以IPAex Gothic改进的字体。
 
@@ -1015,7 +1015,7 @@
 
 &nbsp;
 
-<a id="user-content-Smart%C2%AFont%C2%AUI"  href="#Smart%C2%AFont%C2%AUI"><img src="assets/image/SmartFontUI.svg" alt="Smart Font UI" width="100%"></a>
+<a id="user-content-smart-font-ui"  href="#smart-font-ui"><img src="assets/image/SmartFontUI.svg" alt="Smart Font UI" width="100%"></a>
 
 「Smart Font UI」是一种时尚而酷炫的日语字体，可以免费下载并在市场上出售。此免费字体还包括第二级汉字，并且是一种哥特式字体，可以自由处理并与Excel，Word和Adobe Illustrator等应用程序一起使用。创建用于平假名，片假名，字母和数字的原始字体，并使用IPAex Gothic改进字体补充汉字字符。
 

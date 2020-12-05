@@ -40,10 +40,13 @@
 |  |[Kanjyuku Gothic](#[Kanjyuku&nbsp;Gothic)||
 # 中文
 
+&nbsp;
+
 ## 方正系列
 
-<a id="user-content-方正黑体"  href="#方正黑体"><img src="assets/image/FangZhengHeiTi.svg" alt="方正黑体" width="100%"></a>
+&nbsp;
 
+<a id="user-content-方正黑体"  href="#方正黑体"><img src="assets/image/FangZhengHeiTi.svg" alt="方正黑体" width="100%"></a>
 
 「方正黑体」的设计源于铅字时代的黑体字稿，是一款专门为正文排版设计的黑体。方正黑体的笔画两端留有喇叭口，撇、捺、钩笔画的粗细变化较大，中宫比较紧凑。其字重适中、字形风格中性朴实，不但适用于印刷媒介，还可用于屏幕阅读，是一款非常经典的正文黑体。
 
@@ -51,7 +54,7 @@
 <a href="https://www.foundertype.com/index.php/About/bookAuth/key/my_sysq.html" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square"></a>
 </div>
 
-
+&nbsp;
 
 <a id="user-content-方正书宋"  href="#方正书宋"><img src="assets/image/FangZhengShuSong.svg" alt="方正书宋" width="100%"></a>
 
@@ -62,7 +65,7 @@
 <a href="https://www.foundertype.com/index.php/About/bookAuth/key/my_sysq.html" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square"></a>
 </div>
 
-
+&nbsp;
 
 <a id="user-content-方正仿宋"  href="#方正仿宋"><img src="assets/image/FangZhengFangSong.svg" alt="方正仿宋" width="100%"></a>
 
@@ -73,6 +76,7 @@
 <a href="https://www.foundertype.com/index.php/About/bookAuth/key/my_sysq.html" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square"></a>
 </div>
 
+&nbsp;
 
 <a id="user-content-方正楷体"  href="#方正楷体"><img src="assets/image/FangZhengKaiTi.svg" alt="方正楷体" width="100%"></a>
 
@@ -83,9 +87,11 @@
 <a href="https://www.foundertype.com/index.php/About/bookAuth/key/my_sysq.html" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square"></a>
 </div>
 
+&nbsp;
 
 ## 庞门正道系列
 
+&nbsp;
 
 <a id="user-content-庞门正道标题体"  href="#庞门正道标题体"><img src="assets/image/PangMenZhengDaoBiaoTiTi.svg" alt="庞门正道标题体" width="100%"></a>
 
@@ -96,6 +102,7 @@
 <a href="https://mp.weixin.qq.com/s/1ccpLCOrIn81JhV9ulwPIQ" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
+&nbsp;
 
 <a id="user-content-庞门正道粗书体"  href="#庞门正道粗书体"><img src="assets/image/PangMenZhengDaoCuShuTi.svg" alt="庞门正道粗书体" width="100%"></a>
 
@@ -106,6 +113,7 @@
 <a href="https://mp.weixin.qq.com/s/LZ_PMNc-3uX-Atmri4OLGQ" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
+&nbsp;
 
 <a id="user-content-庞门正道轻松体"  href="#庞门正道轻松体"><img src="assets/image/PangMenZhengDaoQingSongTi.svg" alt="庞门正道轻松体" width="100%"></a>
 
@@ -116,9 +124,11 @@
 <a href="https://mp.weixin.qq.com/s/1ccpLCOrIn81JhV9ulwPIQ" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
+&nbsp;
 
 ## 站酷系列
 
+&nbsp;
 
 <a id="user-content-站酷高端黑"  href="#站酷高端黑"><img src="assets/image/ZhanKuGaoDuanHei.svg" alt="站酷高端黑" width="100%"></a>
 
@@ -129,6 +139,7 @@
 <a href="https://www.zcool.com.cn/article/ZMTQyOTUy.html" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
+&nbsp;
 
 <a id="user-content-站酷文艺体"  href="#站酷文艺体"><img src="assets/image/ZhanKuWenYiTi.svg" alt="站酷文艺体" width="100%"></a>
 
@@ -139,9 +150,9 @@
 <a href="https://www.zcool.com.cn/work/ZMjc2NDA5NDA=.html)" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
+&nbsp;
 
 <a id="user-content-站酷小微LOGO体"  href="#站酷小微LOGO体"><img src="assets/image/ZhanKuXiaoWeiLOGOTi.svg" alt="站酷小微LOGO体" width="100%"></a>
-
 
 「站酷小微LOGO体」由上海佐兹品牌设计工作室设计总监李大卫 (David 小马哥）带领其工作室团队共成完成。是李大卫送给自己女儿出生三周年的一个礼物。其目的是为了填补免费字体中的LOGO体空缺。字体笔画浑厚，识别性高,放大放小空间间隙都能如意灵通。2018年1月最新修订版。采用GB2312汉字编码，共收录6763个汉字。
 
@@ -149,10 +160,9 @@
 <a href="https://www.zcool.com.cn/special/zcoolfonts/" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
+&nbsp;
 
 <a id="user-content-站酷庆科黄油体"  href="#站酷庆科黄油体"><img src="assets/image/ZhanKuQingKeHuangYouTi.svg" alt="站酷庆科黄油体" width="100%"></a>
-
-
 
 「站酷庆科黄油体」，由字体设计师[郑庆科](https://www.zcool.com.cn/u/387222)开发，线条圆润。并且字体数量多，达到了9千个多个汉字。站酷庆科黄油体是一款字型创新、线条圆润的字体。笔划的每一个直角，都被处理成了半径为4pt的圆角。在设计中需遵循笔划简化但不省略，笔划角度尽量为垂直角度。字体部首的右下角均为45°缺角，提高了字体视觉中心，并有效的解决了一些字体因笔划交叉，字体阅读困难的毛病。
 
@@ -160,11 +170,9 @@
 <a href="https://www.zcool.com.cn/work/ZMTg5MDEyMDQ=.html" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
-
+&nbsp;
 
 <a id="user-content-站酷酷黑"  href="#站酷酷黑"><img src="assets/image/ZhanKuKuHei.svg" alt="站酷酷黑" width="100%"></a>
-
-
 
 「站酷酷黑」由[胡晓波](https://huxiaobo.zcool.com.cn/)发起，字游工作室成员进行基础字形设计。胡晓波设计班十名学员共同设计完成。[站酷酷黑体验版］在站酷十周年之际横空出世。字形笔画粗犷有力，用宽扁型的字面构建出厚重的字体形态，笔画细节上的修饰既增强了字体的设计感，又让字体多了一些小小的精致感，中宫的饱满使得文字之间的排版组合非常醒目好看。2016年7月发布体验版。包含3500个常用字，52个英文字母，10个阿拉伯数字。
 
@@ -172,10 +180,9 @@
 <a href="https://www.zcool.com.cn/work/ZMTc2MDM5MTY=.html))" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
-
+&nbsp;
 
 <a id="user-content-站酷快乐体"  href="#站酷快乐体"><img src="assets/image/ZhanKuKuaiLeTi.svg" alt="站酷快乐体" width="100%"></a>
-
 
 「站酷快乐体」由[刘兵克](https://liubingke.zcool.com.cn/)学员和工作室团队设计。是在“站酷快乐体”基础上耗时7个月进行的大幅修改与提升，经过多轮校审之后已正式对外公布并提供下载。2015年9月发布第一版，2016年6月发布最新修订版。采用GB2312汉字编码，共收录6763个汉字。
 
@@ -183,13 +190,13 @@
 <a href="https://www.zcool.com.cn/work/ZMTMzMDQ0Mjg=.html" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
-
+&nbsp;
 
 ## 胡晓波系列
 
+&nbsp;
 
 <a id="user-content-胡晓波男神体"  href="#胡晓波男神体"><img src="assets/image/HuXiaoBoNanShenTi.svg" alt="胡晓波男神体" width="100%"></a>
-
 
 「胡晓波男神体」由设计师胡晓波设计的一款免费字体
 
@@ -197,11 +204,9 @@
 <a href="https://www.zcool.com.cn/work/ZNDE3NjcwMTY=.html" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
-
+&nbsp;
 
 <a id="user-content-胡晓波骚包体"  href="#胡晓波骚包体"><img src="assets/image/HuXiaoBoSaoBaoTi.svg" alt="胡晓波骚包体" width="100%"></a>
-
-
 
 「胡晓波骚包体」由设计师[胡晓波](https://huxiaobo.zcool.com.cn/)设计的一款免费字体
 
@@ -209,9 +214,9 @@
 <a href="https://www.zcool.com.cn/work/ZNDE3NjcwMTY=.html" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
+&nbsp;
 
 <a id="user-content-胡晓波真帅体"  href="#胡晓波真帅体"><img src="assets/image/HuXiaoBoZhenShuaiTi.svg" alt="胡晓波真帅体" width="100%"></a>
-
 
 「胡晓波真帅体」是由设计师[胡晓波](https://huxiaobo.zcool.com.cn/)设计的一款免费字体
 
@@ -219,12 +224,13 @@
 <a href="https://www.zcool.com.cn/work/ZNDE3NjcwMTY=.html" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
+&nbsp;
+
 ## 沐瑶系列
 
+&nbsp;
 
 <a id="user-content-沐瑶软笔手写体"  href="#沐瑶软笔手写体"><img src="assets/image/MuYaoRuanBiShouXieTi.svg" alt="沐瑶软笔手写体" width="100%"></a>
-
-
 
 「沐瑶软笔手写体」（Muyao-Softbrush ） 是一款手写体，自来站酷设计师@[春颜秋色](https://www.zcool.com.cn/u/402511)送给女儿的礼物。也是以女儿名字命名的一款可免费商用的手写字体。遵循GB2312标准，共包含6763个汉字加数字英文和常用标点。
 
@@ -232,10 +238,9 @@
 <a href="https://www.zcool.com.cn/work/ZMjg5MjAwMDQ=.html" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
+&nbsp;
 
 <a id="user-content-沐瑶随心手写体"  href="#沐瑶随心手写体"><img src="assets/image/MuYaoSuiXinShouXieTi.svg" alt="沐瑶随心手写体" width="100%"></a>
-
-
 
 「沐瑶随心手写体」站酷设计师@[春颜秋色](https://www.zcool.com.cn/u/402511)免费开发的第二款公益字体。沐瑶是以其女儿的名字命名的。字体本身是基于GB2312-80标准，共包含6763个汉字和数百个符号。
 
@@ -243,13 +248,13 @@
 <a href="https://www.zcool.com.cn/work/ZMzYwMzk2MjA=.html" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
-
+&nbsp;
 
 ## 思源系列
 
+&nbsp;
 
 <a id="user-content-思源黑体"  href="#思源黑体"><img src="assets/image/SiYuanHeiTi.svg" alt="思源黑体" width="100%"></a>
-
 
 「思源黑体」是一套 OpenType/CFF 泛中日韩字体。这个开源项目不仅提供了可用的 OpenType 字体，还提供了利用 AFDKO *makeotf* 和 *otf2otc* 工具创建这些 OpenType 字体时的所有源文件。
 
@@ -257,10 +262,9 @@
 <a href="https://github.com/adobe-fonts/source-han-sans/blob/master/LICENSE.txt" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square"></a>
 </div>
 
+&nbsp;
 
 <a id="user-content-思源宋体"  href="#思源宋体"><img src="assets/image/SiYuanSongTi.svg" alt="思源宋体" width="100%"></a>
-
-
 
 「思源宋体」是 Adobe Type 发布的最新泛 CJK 字体，它是对应于[思源黑体](https://blog.typekit.com/alternate/source-han-sans-chs/)的宋体字体；我们发布这两种字体是为了响应统一设计的需求，以服务于东亚 15 亿人口。
 
@@ -270,10 +274,9 @@
 <a href="https://github.com/adobe-fonts/source-han-sans/blob/master/LICENSE.txt" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square"></a>
 </div>
 
+&nbsp;
 
 <a id="user-content-思源柔黑"  href="#思源柔黑"><img src="assets/image/genjyuu.svg" alt="思源柔黑" width="100%"></a>
-
-
 
 「思源柔黑体」是基于思源黑体修改而成的圆体版思源字体，作者是日本的自家製フォント工房。思源柔黑体提供了三种不同圆角程度的版本，以及七种不同粗细的版本。思源柔黑体保留思源黑体原有的优雅及可读性，在文字边角以圆角进行处理，整体看起来更显得活泼、可爱，也较有活力。思源柔黑体一共释出三种版本，差异在于圆角的圆滑程度不同，L 圆角较轻、X 圆角最重，介于中间的是标准版。
 
@@ -281,11 +284,9 @@
 <a href="http://jikasei.me/font/genjyuu/" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square"></a>
 </div>
 
-
+&nbsp;
 
 <a id="user-content-思源真黑"  href="#思源真黑"><img src="assets/image/genshin.svg" alt="思源真黑" width="100%"></a>
-
-
 
 「思源真黑体」也是同样出自日本自家製字型工房，堪称是思源柔黑体的姊妹作，从思源黑体修改而来，在细部上做了些许的调整和变化，使它看起来更为锐利。思源真黑体一共有七种字重，以及等宽字体、比例字体选择。
 
@@ -293,14 +294,13 @@
 <a href="http://jikasei.me/font/genshin/" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square"></a>
 </div>
 
-
+&nbsp;
 
 ## 文泉驿系列
 
+&nbsp;
 
 <a id="user-content-文泉驿正黑"  href="#文泉驿正黑"><img src="assets/image/WenQuanYiZhengHei.svg" alt="文泉驿正黑" width="100%"></a>
-
-
 
 「文泉驿正黑体」是一个"[自由字体](http://wenq.org/wqy2/index.cgi?LibreFont)"。该字体包含了所有常用简体中文、繁体中文所需要的汉字(最新版本包含超过27842个汉字，完整覆盖GB2312/Big5/GBK以及GB18030标准字符集)。该字体同时还包含了日文、韩文和其他几十种语言符号。除此以外，该字体还嵌入了最新版本的[文泉驿点阵宋体](http://wenq.org/wqy2/index.cgi?BitmapSong)的中英文点阵，使得屏幕汉字显示清晰锐利，易于阅读。
 
@@ -310,10 +310,9 @@
 <a href="http://wenq.org/wqy2/index.cgi?ZenHei" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/license-GPL--2.0-orange?style=flat-square"></a>
 </div>
 
-
+&nbsp;
 
 <a id="user-content-文泉驿微米黑"  href="#文泉驿微米黑"><img src="assets/image/WenQuanYiWeiMiHei.svg" alt="文泉驿微米黑" width="100%"></a>
-
 
 「文泉驿微米黑」是一个"[自由字体](http://wenq.org/wqy2/index.cgi?LibreFont)"。该字体包含了所有常用简体中文、繁体中文所需要的汉字(最新版本包含超过20932个汉字，完整覆盖GB2312/Big5以及GBK标准字符集)。该字体同时还包含了日文、韩文和其他几十种语言符号。以外，该字体还包含了高质量的Droid Sans拉丁符号和Droid Sans Mono等宽字体，并内置Hinting和Kerning信息。微米黑字体文件极小，特别使用于便携式电脑设备。
 该字体版权受到法律保护，字体版权人为[Google](http://www.google.com/intl/en/contact/)和[文泉驿信任委员会](http://wenq.org/wqy2/index.cgi?CopyrightPolicy)。请遵循官方字体授权使用并衍生本字体
@@ -322,8 +321,11 @@
 <a href="http://wenq.org/wqy2/index.cgi?MicroHei" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/license-GPL--2.0-orange?style=flat-square"></a>
 </div>
 
+&nbsp;
 
 ## 明体系列
+
+&nbsp;
 
 台湾最活跃的字型社团「[字嗨](https://www.facebook.com/groups/enjoyfonts/)」管理员 [But Ko](https://www.facebook.com/but.ko.5) ，释出三款改造自思源宋体的繁体中文字体，开放给需要的使用者免费下载！三款字体分别为：源样明体、源流明体及源云明体。
 
@@ -331,9 +333,9 @@
 
 和思源宋体一样，源样明体、源流明体都有七种字重，源云明体则是 Light、Regular、Medium 和 SemiBold 四种，能广泛使用于各种环境。
 
+&nbsp;
 
 <a id="user-content-源云明体"  href="#源云明体"><img src="assets/image/YuanYunMingTi.svg" alt="源云明体" width="100%"></a>
-
 
 「源云明体」是基于[思源宋体](https://github.com/adobe-fonts/source-han-serif/)的而改造的开放原始码中文字型。
 
@@ -341,11 +343,9 @@
 <a href="https://github.com/ButTaiwan/genwan-font" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square"></a>
 </div>
 
-
+&nbsp;
 
 <a id="user-content-源流明体"  href="#源流明体"><img src="assets/image/YuanLiuMingTi.svg" alt="源流明体" width="100%"></a>
-
-
 
 「源流明体」是基于[思源宋体](https://github.com/adobe-fonts/source-han-serif/)的而改造的开放原始码中文字型。
 
@@ -353,10 +353,9 @@
 <a href="https://github.com/ButTaiwan/genryu-font" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square"></a>
 </div>
 
-
+&nbsp;
 
 <a id="user-content-源样明体"  href="#源样明体"><img src="assets/image/YuanYangMingTi.svg" alt="源样明体" width="100%"></a>
-
 
 「源样明体」是基于[思源宋体](https://github.com/adobe-fonts/source-han-serif)的开放原始码中文字型。 採用思源宋体韩文（KR）版本的字符，配合繁体中文惯用的置中标点，可排版传统印刷体风格的文件。
 
@@ -364,14 +363,13 @@
 <a href="https://github.com/ButTaiwan/genyo-font" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square"></a>
 </div>
 
-
+&nbsp;
 
 ## 刻石录系列
 
+&nbsp;
 
 <a id="user-content-一点明体"  href="#一点明体"><img src="assets/image/YiDianMingTi.svg" alt="一点明体" width="100%"></a>
-
-
 
 「一点明体」是一套依照传承字形标准化文件《传承字形部件检校表》的推荐字形标准，并以 `TrueType`格式封装、依照 `Unicode` 编码的 `OpenType`字型。`I.明体` 名称里的 `I` 是罗马数字 `一`，`I.`  念作 `一点`，象徵笔画的基本：点与线。目前`I.明体`已由开源字型组织[一点字坊](https://github.com/ichitenfont/I.Ming) 全力维护。
 
@@ -379,10 +377,9 @@
 <a href="http://founder.acgvlyric.org/iu/doku.php/造字:開源字型_i.明體" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/license-IPA--1.0-orange?style=flat-square"></a>
 </div>
 
-
+&nbsp;
 
 <a id="user-content-一点钢笔鹤体"  href="#一点钢笔鹤体"><img src="assets/image/YiDianGangBiHeTi.svg" alt="一点钢笔鹤体" width="100%"></a>
-
 
 「一点钢笔鹤体」由王汉宗粗钢体修改而来，刻石錄重新制作和修整原字型中缺少的或有欠美观的部份，例如半形英数、圈圈字、常用符号等。
 
@@ -390,11 +387,9 @@
 <a href="http://founder.acgvlyric.org/iu/doku.php/造字:開源字型_i.鋼筆鶴體" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/license-GPL--2.0-orange?style=flat-square"></a>
 </div>
 
-
+&nbsp;
 
 <a id="user-content-一点颜体"  href="#一点颜体"><img src="assets/image/YiDianYanTi.svg" alt="一点颜体" width="100%"></a>
-
-
 
 「一点颜体」是由王汉宗颜体修改而来，重新制作和修整原字型中缺少的或有欠美观的部份，例如全半形英数、平假名、片假名、拉丁字母、俄文字母、阿拉伯数字、圈圈字、常用符号等。
 
@@ -402,8 +397,11 @@
 <a href="http://founder.acgvlyric.org/iu/doku.php/造字:開源字型_i.顏體" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/license-GPL--2.0-orange?style=flat-square"></a>
 </div>
 
+&nbsp;
 
 ## 王汉宗系列
+
+&nbsp;
 
 <a id="user-content-王汉宗系列"  href="#王汉宗系列"><img src="assets/image/WangHanZhongChaoHeiQiaoPiDongWuYi.svg" alt="王汉宗系列" width="100%"></a>
 
@@ -470,13 +468,15 @@
 ![](assets/image/WangHanZhongKaiTiZhuYin.svg)
 
 
-
-**简介**
+<div align="center">
+<strong>简介</strong>
+</div>
 
 王汉宗自由字型由研发天蚕字库的台湾中原大学数学系王汉宗教授先分别在2000年和2004年先后捐出十套WCL系列字型和32套新字型，全部以GNU GPL许可分发。
 
-**争议**
-
+<div align="center">
+<strong>争议</strong>
+</div>
 2005年，台湾著名字型厂商文鼎科技认为王汉宗字型与文鼎的字体极度相似，一些自由软件网站决定在问题明了前先移除字体下载以避免法律问题。
 
 然而云端字体服务公司 justfont 则不认为存在授权问题，在提供字体列表中可见到 17 个王汉宗自由字型。文鼎公司觉得王汉宗有许多套字体是 copy 自文鼎字体。但是如果说是完全抄袭，也会有争议，因为虽然骨架相同，但描绘点并不一样，法律上顶多只能算是「疑似」抄袭。
@@ -533,14 +533,13 @@
 <a href="https://code.google.com/archive/p/wangfonts/" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/license-GPL--2.0-orange?style=flat-square"></a>
 </div>
 
+&nbsp;
 
 ## 其他
 
-
+&nbsp;
 
 <a id="user-content-千图小兔体"  href="#千图小兔体"><img src="assets/image/QianTuXiaoTuTi.svg" alt="千图小兔体" width="100%"></a>
-
-
 
 「千图小兔体」是千图网联合国内专业字体设计机构 iFonts 共同发布的一款萌系创意字体，历时半年多悉心打磨完成。向所有千图网用户开放免费下载。将可爱的千小兔融入字体设计中，尽显年轻、活力与俏皮，适用于可爱、少女风的海报、店招等场景。
 
@@ -548,9 +547,9 @@
 <a href="https://www.58pic.com/index.php?m=qtwFonts&a=index" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
+&nbsp;
 
 <a id="user-content-演示佛系体"  href="#演示佛系体"><img src="assets/image/YanShiFoXiTi.svg" alt="演示佛系体" width="100%"></a>
-
 
 「演示佛系体」是由一生酷爱书法的纪国才老先生，在80岁这年亲手写了一套独具风格的字体，并授权 **Keynote研究所** 和 **秋叶PPT** 面向全社会联合发布，**全渠道免费商用！**
 
@@ -558,9 +557,9 @@
 <a href="https://mp.weixin.qq.com/s/iWn8SWH5ymBKmsGiHe8Yfw" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
+&nbsp;
 
 <a id="user-content-演示秋鸿楷"  href="#演示秋鸿楷"><img src="assets/image/YanShiQiuHongKai.svg" alt="演示秋鸿楷" width="100%"></a>
-
 
 「演示秋鸿楷」是**Keynote研究所**的人生哥制作发布的一款毛笔字体。字稿的作者是叶运鹏：高中教师丨辽宁人丨98年加入农民书画家协会。该字体简体中文楷书，包含标准的6763个字符。
 
@@ -568,9 +567,9 @@
 <a href="https://mp.weixin.qq.com/s/CRnRsYu8ymlG9_oK6wmBag" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
+&nbsp;
 
 <a id="user-content-演示夏行楷"  href="#演示夏行楷"><img src="assets/image/YanShiXiaXingKai.svg" alt="演示夏行楷" width="100%"></a>
-
 
 「演示夏行楷」是**Keynote研究所**的人生哥制作发布的一款毛笔字体。字稿作者是**刘锡栋**：中国漓江书画艺术家协会理事丨北京中国书画研究院研究员丨中国民族硬笔书法家协会会员丨中国楹联学会会员丨黑龙江楹联家协会会员丨高级政工师，已退休
 该字体简体中文行楷，包含标准的6763个字符。
@@ -579,9 +578,9 @@
 <a href="https://mp.weixin.qq.com/s/CRnRsYu8ymlG9_oK6wmBag" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
+&nbsp;
 
 <a id="user-content-演示春风楷"  href="#演示春风楷"><img src="assets/image/YanShiChunFengKai.svg" alt="演示春风楷" width="100%"></a>
-
 
 「演示春风楷」是**Keynote研究所**的人生哥制作发布的一款毛笔字体。字稿的作者是**徐占海**，军人出身，1983年入伍。每日笔耕不辍练习写字。该字体简体中文楷书，包含标准的6763个字符。
 
@@ -589,10 +588,9 @@
 <a href="https://mp.weixin.qq.com/s/CRnRsYu8ymlG9_oK6wmBag" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
+&nbsp;
 
 <a id="user-content-演示悠然小楷"  href="#演示悠然小楷"><img src="assets/image/YanShiYouRanXiaoKai.svg" alt="演示悠然小楷" width="100%"></a>
-
-
 
 「演示悠然小楷」是**秋叶PPT**联合**keynote研究所**推出的一款书法字体，字稿的作者是**孟祥媛**，一位还在大学读书的书法专业学生。
 
@@ -604,10 +602,9 @@
 <a href="https://mp.weixin.qq.com/s/Q1lAIre4yJ-Zlf2CD82EPA" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
+&nbsp;
 
 <a id="user-content-和田研字体"  href="#和田研字体"><img src="assets/image/HeTianYanZiTi.svg" alt="和田研字体" width="100%"></a>
-
-
 
 「和田研字体」（和田研細丸ゴシック / 和田研中丸ゴシック；WadaLabChuMaruGo2004Emoji）是**WadaLab**,**RareEarth**(日本)发布于2004年的一款字体，年代相对久远，但是迄今为止依然在持续维护更新中，最新的版本发布于2020年02月24日。以简单的元素来表达字体的美感且每一个字体的直角转折处都以椭圆角来做替代，整个字体的设计都充满了浓浓的古典风格。
 在字体包里面包含了两款字体，分别是“和田研细丸”和“和田研中丸”，细丸笔画较细，而中丸笔画较粗。而字体文件上带有P的，则是代表等宽字体。这款字体虽然是日本的，但是包含的繁体字符还是比较全的，常用字基本都覆盖了。
@@ -617,13 +614,11 @@
 <a href="https://ja.osdn.net/projects/jis2004/" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
-
+&nbsp;
 
 <a id="user-content-摄图摩登小方体"  href="#摄图摩登小方体"><img src="assets/image/SheTuMoDengXiaoFang.svg" alt="摄图摩登小方体" width="100%"></a>
 
-
-
-摄图摩登小方体是[摄图网](https://699pic.com/subject/gongyiziti.html)联合[iFonts](https://51ifonts.com/)共同推出的一款公益创意黑体字，由[摄图网](https://699pic.com/)委托[iFonts](https://51ifonts.com/)制作，版权归摄图网所有，本字库供社会各界全渠道商用。「摄图摩登小方体」采用GB2312编码，共包含6995个字符，其中6763个简体汉字，52个大小写字母，10个数字，170个标点符号。
+「摄图摩登小方体」是[摄图网](https://699pic.com/subject/gongyiziti.html)联合[iFonts](https://51ifonts.com/)共同推出的一款公益创意黑体字，由[摄图网](https://699pic.com/)委托[iFonts](https://51ifonts.com/)制作，版权归摄图网所有，本字库供社会各界全渠道商用。「摄图摩登小方体」采用GB2312编码，共包含6995个字符，其中6763个简体汉字，52个大小写字母，10个数字，170个标点符号。
 
 字体的设计灵感来自对未来空间的想象，传达给人一种未来与现实的交际感。笔画方正质朴而又不失灵气活力，适中的字体笔画粗度和几何感的细节设计，让字体有良好的视觉应用表现。通过对字体负形空间的处理，使字体整体感觉稳重端正而又不呆板，更加具有趣味性。适合电商、广告、美食等商业宣传和包装设计，以及社交网络的个性化用字。
 
@@ -633,10 +628,9 @@
 <a href="https://699pic.com/subject/gongyiziti.html" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
+&nbsp;
 
 <a id="user-content-中文像素体"  href="#中文像素体"><img src="assets/image/ZhongWenXiangSuTi.svg" alt="中文像素体" width="100%"></a>
-
-
 
 「中文像素体」是一个像素中文字体，里面具有6000多个常用字，其是使用[HZK16](https://github.com/aguegu/BitmapFont)字模制作。可以在在商业和免费游戏项目中使用这个字体。
 
@@ -644,10 +638,9 @@
 <a href="https://purestudio.itch.io/ipix" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
+&nbsp;
 
 <a id="user-content-iSlide云犹体"  href="#iSlide云犹体"><img src="assets/image/islide.svg" alt="iSlide云犹体" width="100%"></a>
-
-
 
 「iSlide云犹体」在秀丽毛笔字风格的基础上更加强调了字体的曲折收放变化，使得整个字体开合揖让有度，辗转腾挪，不至过于秀气婉约，婉转中铿锵有力，锋芒外露。局部的形变与外拓带来的是整体气势的叠加，兼顾了阴柔与阳刚、含蓄与强劲。露锋用笔贯彻到了字体的始终，结体紧致，大量的曲线强化了字体的动感与字形张力。
 
@@ -655,10 +648,9 @@
 <a href="https://mp.weixin.qq.com/s/Dx9mZM-BG2XIeDu-nx2SEw" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
-
+&nbsp;
 
 <a id="user-content-黄令东齐伋体"  href="#黄令东齐伋体"><img src="assets/image/HuangLingDongQiTi.svg" alt="黄令东齐伋体" width="100%"></a>
-
 
 「黄令东齐伋体」，一款可以媲美康熙字典体的免费商用字体！可以免费商用！黄令东齐伋体摘自明代木版印刷书籍《凌閔刻本》，采用半自动计算机视觉和OCR制作而成的一款字体。其笔画风格书法特征浓郁，比常规的明朝体更具韵律感，富有人文气息。黄令东齐伋体非常适宜用于需要展现人文感、手作感、古拙感的场景。 黄令东齐伋体（QIJIFALLBACK Regular）是基于思源宋体改造而来，所以对中文汉字很全，无论是简体还是繁体都基本上不缺字! 依据SIL Open Font License 1.1授权协议，可以用于任何用途，包括免费商用。
 
@@ -666,20 +658,19 @@
 <a href="https://github.com/LingDong-/qiji-font" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
-
+&nbsp;
 
 <a id="user-content-钟齐志莽行书"  href="#钟齐志莽行书"><img src="assets/image/ZhiMangXing.svg" alt="庞门正道轻松体" width="100%"></a>
 
-
-钟齐志莽行书（Zhi Mang Xing Regular）是谷歌开源字体项目里面其中一款字体，遵循SIL Open Font License 1.1授权协议，可以用于任何用途，包括免费商用。如有疑虑，可点击下方官网链接，查看开源字体授权OFL协议
+「钟齐志莽行书」（Zhi Mang Xing Regular）是谷歌开源字体项目里面其中一款字体，遵循SIL Open Font License 1.1授权协议，可以用于任何用途，包括免费商用。如有疑虑，可点击下方官网链接，查看开源字体授权OFL协议
 
 <div align="center">
 <a href="https://github.com/google/fonts/blob/master/ofl/zhimangxing/OFL.txt" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
+&nbsp;
 
 <a id="user-content-包图小白体"  href="#包图小白体"><img src="assets/image/BaoTuXiaoBaiTi.svg" alt="包图小白体" width="100%"></a>
-
 
 「包图小白体」 定义为一款简单可爱的创意字体。在字形笔画上去除了折笔的弧形，换之以平直的笔画，竖弯钩转为竖折，同时弱化了钩笔画，省去了许多笔画末尾的小尾巴，显得更加直白可爱。粗短的笔画，像柯基的小短腿，相比细长的字体能给人更多的轻松感。整体形态采用了镂空的制作技巧，增强了字体的立体感，适合用于品牌标志、海报、包装、影视综艺、游戏、漫画等场景。包图小白体采用GB2312编码，共收容7707个字符，包含6763个简体汉字、110个大写字母、139个小写字母、102个数字、95个标点符号、其他特殊类符号288个、其他字母210个（包含日文平假名片假名）。
 
@@ -687,23 +678,19 @@
 <a href="https://act.ibaotu.com/activity/1.html" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
-
+&nbsp;
 
 <a id="user-content-江西拙楷"  href="#江西拙楷"><img src="assets/image/JiangXiZhuoKai.svg" alt="江西拙楷" width="100%"></a>
 
-
-
-由站酷设计师@[Fontree](https://www.zcool.com.cn/u/653645) （黄煜臣）个人开发并发布，这是一套手写楷体，相比电脑中标准化制作的楷体，这套字体的笔画会带有一些书写的痕迹，每个字的笔画是没有统一标准的，所以看上去显得不够规范，但是会有一种手写的自然之感。
+「江西拙楷」由站酷设计师@[Fontree](https://www.zcool.com.cn/u/653645) （黄煜臣）个人开发并发布，这是一套手写楷体，相比电脑中标准化制作的楷体，这套字体的笔画会带有一些书写的痕迹，每个字的笔画是没有统一标准的，所以看上去显得不够规范，但是会有一种手写的自然之感。
 
 <div align="center">
 <a href="https://www.zcool.com.cn/work/ZNDE4MzY4Mjg=.html" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
-
+&nbsp;
 
 <a id="user-content-优设标题黑"  href="#优设标题黑"><img src="assets/image/YouSheBiaoTiHei.svg" alt="优设标题黑" width="100%"></a>
-
-
 
 「优设标题黑」由[优设](https://www.uisdc.com/)与[字由](http://www.hellofont.cn/)合作完成，是一款适用性广，速度感、力量感极强的专业美术标题字体。它以黑体字型为基础，整体字形沉稳，同时采用较大字面和粗壮的笔画来强化力量感。每个字体水平倾斜 8° 的设计，赋予了字体极强的速度感，为了让字体倾斜后也能保持稳固，设计师将整体字身设定宽扁。而起笔和弯钩上独具匠心的尖角设计，不仅突显了设计的几何感，而且方便后期修改。
 
@@ -711,44 +698,41 @@
 <a href="https://www.uisdc.com/uisdc-first-free-font" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
+&nbsp;
 
 <a id="user-content-锐字真言体"  href="#锐字真言体"><img src="assets/image/RuiZiZhenYanTi.svg" alt="锐字真言体" width="100%"></a>
 
-
-
-锐字真言体，是锐字家族字体当中第一款免费可商用的字体。真言体笔触浑厚有力，笔画曲折有度，字形个性鲜明，刚柔并济，落笔简洁有序，给人以遒劲有力、端正凝练的感受。直角与圆角的错落搭配使得字体婉转有度，落落大方，具有自己独到的风格！这款字体特别适用于文字标题、竞技视觉、广告设计、个性品牌设计推广、企业宣传及时尚品牌的设计应用。
-
-
+「锐字真言体」是锐字家族字体当中第一款免费可商用的字体。真言体笔触浑厚有力，笔画曲折有度，字形个性鲜明，刚柔并济，落笔简洁有序，给人以遒劲有力、端正凝练的感受。直角与圆角的错落搭配使得字体婉转有度，落落大方，具有自己独到的风格！这款字体特别适用于文字标题、竞技视觉、广告设计、个性品牌设计推广、企业宣传及时尚品牌的设计应用。
 
 <div align="center">
 <a href="http://reeji.com/font/rui_zi_zhen_yan_ti/" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square"></a>
 </div>
 
-
+&nbsp;
 
 <a id="user-content-联盟起艺卢帅正锐黑体"  href="#联盟起艺卢帅正锐黑体"><img src="assets/image/LianMenQiYiLuShuaiZhenRuiHeiTi.svg" alt="联盟起艺卢帅正锐黑体" width="100%"></a>
 
-
-由站酷设计师@[设计师卢帅 ](https://lushuai.zcool.com.cn/) 在站酷发布，共计8000余字
+「联盟起艺卢帅正锐黑体」由站酷设计师@[设计师卢帅 ](https://lushuai.zcool.com.cn/) 在站酷发布，共计8000余字
 
 <div align="center">
 <a href="https://www.zcool.com.cn/work/ZMzUxMzUzNzY=.html" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
-
+&nbsp;
 
 <a id="user-content-问藏书房"  href="#问藏书房"><img src="assets/image/WenCangShuFang.svg" alt="问藏书房" width="100%"></a>
 
-
-
-问藏书房字体是由[问藏书房](https://www.wencang.com/)联合[造字工房](https://www.makefont.com/)一起的设计的一款免费字体，字体整体现代简约，中宫紧凑，视觉阅读极具层次感，字字俊秀且呈现古雅之风，设计团队以精心的设计赋予了汉字全新美感！字符编码采用中华人民共和国GB2312-80字符集标准，按需添加101个汉字。共收容字数6864CJK汉字，ASCII常用字符100个。
+「问藏书房」字体是由[问藏书房](https://www.wencang.com/)联合[造字工房](https://www.makefont.com/)一起的设计的一款免费字体，字体整体现代简约，中宫紧凑，视觉阅读极具层次感，字字俊秀且呈现古雅之风，设计团队以精心的设计赋予了汉字全新美感！字符编码采用中华人民共和国GB2312-80字符集标准，按需添加101个汉字。共收容字数6864CJK汉字，ASCII常用字符100个。
 
 <div align="center">
 <a href="https://www.wencang.com/font.jsp" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square"></a>
 </div>
 
+&nbsp;
 
 ### 清松手写体
+
+&nbsp;
 
 <a id="user-content-清松手写体"  href="#清松手写体"><img src="assets/image/QingSongShouXieTi1.svg" alt="清松手写体" width="100%"></a>
 
@@ -756,8 +740,7 @@
 
 ![清松手写体3](assets/image/QingSongShouXieTi3.svg)
 
-
-清松手写体，它是一款来自台湾的字体，它由[游清松](https://www.facebook.com/profile.php?id=100000429450523&fref=gs&__tn__=%2CdlC-R-R&eid=ARDuxW5_2bPXsaSEBgVxUNYgclqSwadvD-UedUTUZ4XvocvmKY3rd3QLH5rSQJjHjSH-Bocd9dZ80eMi&hc_ref=ARRRfmkMFvqFTCYs_BTizP8GsjPbmV4Brl8qL8_BefXDfAB2-uSuq-KIXP_D7IL7KeQ&dti=549661292148791&hc_location=group)建立，为了创建这个字体，他还成立了一个小组： [「顺其字然」](https://www.facebook.com/groups/549661292148791/about/)，首先先在稿纸上用原子笔手写，然后，透过[「守写字」](https://www.writes.com.tw/)网站产生出初稿字体，再透过字体软件后制加工的手写字体。「顺其字然」手写字体，没有一般计算机字型的生硬感，多了几分手写般的自然感。不论是中文、英文、符号数字，适合在计算机屏幕上阅读、排版，打印出来效果也很棒的！ 
+「清松手写体」是一款来自台湾的字体，它由[游清松](https://www.facebook.com/profile.php?id=100000429450523&fref=gs&__tn__=%2CdlC-R-R&eid=ARDuxW5_2bPXsaSEBgVxUNYgclqSwadvD-UedUTUZ4XvocvmKY3rd3QLH5rSQJjHjSH-Bocd9dZ80eMi&hc_ref=ARRRfmkMFvqFTCYs_BTizP8GsjPbmV4Brl8qL8_BefXDfAB2-uSuq-KIXP_D7IL7KeQ&dti=549661292148791&hc_location=group)建立，为了创建这个字体，他还成立了一个小组： [「顺其字然」](https://www.facebook.com/groups/549661292148791/about/)，首先先在稿纸上用原子笔手写，然后，透过[「守写字」](https://www.writes.com.tw/)网站产生出初稿字体，再透过字体软件后制加工的手写字体。「顺其字然」手写字体，没有一般计算机字型的生硬感，多了几分手写般的自然感。不论是中文、英文、符号数字，适合在计算机屏幕上阅读、排版，打印出来效果也很棒的！ 
 
 目前青松手写体已经发布了三个版本，另有两个版本正在准备中，清松字体的另一大特色是可以在小组里提出[增字](https://www.facebook.com/groups/549661292148791/learning_content/?filter=1118270238328592)的要求，更新的频率也很快。
 
@@ -773,58 +756,48 @@
 <a href="https://www.facebook.com/groups/549661292148791/" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
-
+&nbsp;
 
 <a id="user-content-新叶念体"  href="#新叶念体"><img src="assets/image/XinYeNianTi.svg" alt="新叶念体" width="100%"></a>
 
-
-
-新叶念体采用GB2312编码，约6900字，[王亚设计](https://www.zcool.com.cn/u/16357511) 在站酷发布。
-
+「新叶念体」采用GB2312编码，约6900字，[王亚设计](https://www.zcool.com.cn/u/16357511) 在站酷发布。
 
 <div align="center">
 <a href="https://www.zcool.com.cn/work/ZMzc1MDI2Njg=.html" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
-
+&nbsp;
 
 <a id="user-content-贤二体"  href="#贤二体"><img src="assets/image/XianErTi.svg" alt="贤二体" width="100%"></a>
 
-
-
-“贤二体”是龙泉专寺动漫中心与汉仪字库联合推出的一款免费商用字体。
-
-贤二体的字形偏长，起笔收笔锋利且粗细对比明显，笔画笨拙微带曲线感。字体组合结构松散，重心不稳，达到诙谐幽默，惹人喜爱的效果。
+「贤二体」是龙泉专寺动漫中心与汉仪字库联合推出的一款免费商用字体。贤二体的字形偏长，起笔收笔锋利且粗细对比明显，笔画笨拙微带曲线感。字体组合结构松散，重心不稳，达到诙谐幽默，惹人喜爱的效果。
 
 <div align="center">
 <a href="https://www.zcool.com.cn/article/ZNjk4NDM2.html" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square"></a>
 </div>
 
+&nbsp;
 
 <a id="user-content-手书体"  href="#手书体"><img src="assets/image/ShouShuTi.svg" alt="手书体" width="100%"></a>
 
 
-
-由站酷设计师@[Joker9](https://jiazhiyong.zcool.com.cn/) 设计，收录基本汉字6763个，字体风格为手写风格，可以用于slogan、banner、海报、商标等设计里面。
+「手书体」由站酷设计师@[Joker9](https://jiazhiyong.zcool.com.cn/) 设计，收录基本汉字6763个，字体风格为手写风格，可以用于slogan、banner、海报、商标等设计里面。
 
 <div align="center">
 <a href="https://www.zcool.com.cn/work/ZMjI2MDk1MDg=.html" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
-
-
-
+&nbsp;
 
 <a id="user-content-杨任东竹石体"  href="#杨任东竹石体"><img src="assets/image/YangRenDongZhuShiTi.svg" alt="杨任东竹石体" width="100%"></a>
 
-
-杨任东竹石体于2017年4月26日世界知识产权日正式发布，本字体版本为1.23字体按照GB2312-80书写，并增补了少量常见汉字；整套字体有7个字重，共计50000余个字符
+「杨任东竹石体」于2017年4月26日世界知识产权日正式发布，本字体版本为1.23字体按照GB2312-80书写，并增补了少量常见汉字；整套字体有7个字重，共计50000余个字符
 
 <div align="center">
 <a href="https://mp.weixin.qq.com/s/7kv3i_YEs7x9_9IrCDYvBA" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
-
+&nbsp;
 
 <a id="user-content-破产字体"  href="#破产字体"><img src="assets/image/PoChanZiTiFangSong.svg" alt="破产字体" width="100%"></a>
 
@@ -841,8 +814,11 @@
 <a href="https://ctan.org/tex-archive/fonts/fandol" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/license-GPL--3.0-orange?style=flat-square"></a>
 </div>
 
+&nbsp;
 
 ### cwTeX系列
+
+&nbsp;
 
 <a id="user-content-cwTeX字体"  href="#cwTeX字体"><img src="assets/image/CwTeXZhongMingTi.svg" alt="cwTeX字体" width="100%"></a>
 
@@ -854,8 +830,6 @@
 
 ![粗黑體](assets/image/CwTeXCuHeiTi.svg)
 
-
-
 「cwTeX 字体」最初是由 Tsong-Min Wu 及 Tsong-Huey Wu 于 1999 至 2004 年间制作作并以 GNU GENERAL PUBLIC LICENSE Version 2 or latter 发布。于 2014 年，Tsong-Min Wu、Tsong-Huey Wu、Edward G.J. Lee 及 Chen-Pan Liao 四人同意将汉字及中文常用标点符号之字符另外独立并以 SIL Open Font License (Version 1.1) 授出，以利与其他 OFL 授权之字体整合。
 
 目前 cwtex-q-fonts 共有五种字体，两种授权方式，0.3版本之前以 GPL 2.0 及以上授权，0.3版本之后以及 OFL 1.1 授权，这里收录的是0.4版本。
@@ -864,18 +838,13 @@
 <a href="https://github.com/l10n-tw/cwtex-q-fonts" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square"></a>
 </div>
 
-
+&nbsp;
 
 <a id="user-content-字体视界法棍体"  href="#字体视界法棍体"><img src="assets/image/ZiTiShiJieFaGunTi.svg" alt="字体视界法棍体" width="100%"></a>
 
-![字体视界法棍体](assets/image/ZiTiShiJieFaGunTiPinYinBan.svg)
-
-
-
-
 「字体视界法棍体」由原字体（《义启嘟嘟体》登记号：沪作登字-2016-F-00712739）更名而来。由上海义启信息科技有限公司字库部员工通过字体软件进行设计与制作，为了让更多的人可以免费使用商用字体，公司决定改名为《字体视界法棍体》，并于2019年7月17日字体节这天在字体视界官网发布许可广大用户免费商用。
 
- 字体视界法棍体笔画中间呈弧形外拓，充满张力，加粗字形笔画显得更可爱个性；结构空间变化不像正体那样小，以拙为巧，憨态可掬。这款字体笔画纤细充满张力，规律加粗，曲线折角充分展现它可爱不粗笨的气质笔画，结构外圆内疏，左右呼应如手写，各个字生机勃勃又融为一体，整体一气呵成。
+字体视界法棍体笔画中间呈弧形外拓，充满张力，加粗字形笔画显得更可爱个性；结构空间变化不像正体那样小，以拙为巧，憨态可掬。这款字体笔画纤细充满张力，规律加粗，曲线折角充分展现它可爱不粗笨的气质笔画，结构外圆内疏，左右呼应如手写，各个字生机勃勃又融为一体，整体一气呵成。
 
 采用 GB2312 编码，共收容 7698 个字符，包含 6771 个汉字，110 个大写字母，139 个小写字母，102 个数字（包含阿拉伯数字，罗马数字等），98 个标点符号，其他特殊符号 164 个，其他字母 224 个。
 
@@ -883,11 +852,9 @@
 <a href="https://www.17font.com/fontDay/OpenSource" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square"></a>
 </div>
 
-
+&nbsp;
 
 <a id="user-content-卓健橄榄简体"  href="#卓健橄榄简体"><img src="assets/image/ZhuoJianGanLanJianTi.svg" alt="卓健橄榄简体" width="100%"></a>
-
-
 
 「卓健橄榄简体」由[卓米品牌设计](https://www.zcool.com.cn/u/15755122)发布，并于于2019年底授权**限时免费商用**。收容7050个常用字，52 个英文字母，139个阿拉伯数字及常用标点符号，卓健橄榄简体是一款相对较时尚的字体，部分笔画斜切处理，让字体更具时尚感和时尚属性，整体中心偏上，更符合现代审美。
 
@@ -897,9 +864,9 @@
 <a href="https://www.zcool.com.cn/work/ZNDA2MzA3ODQ=.html" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
+&nbsp;
 
-
-<a id="user-content-OPPO Sans"  href="#OPPO Sans"><img src="assets/image/OPPOSansLight.svg" alt="OPPO Sans" width="100%"></a>
+<a id="user-content-OPP%C2%A Sans"  href="#OPPO%C2%ASans"><img src="assets/image/OPPOSansLight.svg" alt="OPPO Sans" width="100%"></a>
 
 ![OPPO Sans Regular](assets/image/OPPOSansRegular.svg)
 
@@ -918,13 +885,13 @@
 <a href="https://bbs.coloros.net/graphic?id=2272309" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
-
-
+&nbsp;
 
 ###  全字库系列
 
-<a id="user-content-全字库正楷体"  href="#全字库正楷体"><img src="assets/image/QuanZiKuZhengKaiTi.svg" alt="全字库正楷体" width="100%"></a>
+&nbsp;
 
+<a id="user-content-全字库正楷体"  href="#全字库正楷体"><img src="assets/image/QuanZiKuZhengKaiTi.svg" alt="全字库正楷体" width="100%"></a>
 
 「全字库字体」是台湾地区为了解决电脑中文字数不足而做的一款开源字体，供全社会免费商用。
 
@@ -932,34 +899,29 @@
 <a href="https://www.cns11643.gov.tw/pageView.jsp?ID=59" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
-
+&nbsp;
 
 <a id="user-content-全字库正宋体"  href="#全字库正宋体"><img src="assets/image/QuanZiKuZhengSongTi.svg" alt="全字库正宋体" width="100%"></a>
 
-
-
 「全字库字体」是台湾地区为了解决电脑中文字数不足而做的一款开源字体，供全社会免费商用。
 
 <div align="center">
 <a href="https://www.cns11643.gov.tw/pageView.jsp?ID=59" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
-
+&nbsp;
 
 <a id="user-content-全字库说文解字"  href="#全字库说文解字"><img src="assets/image/QuanZiKuShuoWenJieZi.svg" alt="全字库说文解字" width="100%"></a>
 
-
 「全字库字体」是台湾地区为了解决电脑中文字数不足而做的一款开源字体，供全社会免费商用。
 
 <div align="center">
 <a href="https://www.cns11643.gov.tw/pageView.jsp?ID=59" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
-
-
+&nbsp;
 
 <a id="user-content-阿里巴巴普惠体"  href="#阿里巴巴普惠体"><img src="assets/image/AlibabaPuHuiTi.svg" alt="阿里巴巴普惠体" width="100%"></a>
-
 
 「阿里巴巴普惠体」由阿里巴巴在举办的 「2019 阿里巴巴UCAN 设计大会」发布了，该字体是永久免费商用。
 
@@ -967,14 +929,13 @@
 <a href="https://ics.alibaba.com/space/H7rlDe?spm=ics.preview.0.0.242063a8wIReE8" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
-
+&nbsp;
 
 ## 日文
 
+&nbsp;
 
 <a id="user-content-花园明朝"  href="#花园明朝"><img src="assets/image/HuaYuanMingChao.svg" alt="花园明朝" width="100%"></a>
-
-
 
 「花园明朝体」（HanaMin 花园フォント）是一款基于日语的自由开源汉字字体。这款字体的特点是涵盖了目前 CJK (中日韩统一表意文字)字库中几乎所有的汉字与字符，而且作为开源项目，任何人可自由下载使用。如果在软件中找不到此字体，请查找名称：HanaMin。此字体对简体中文支持比较好。
 
@@ -982,11 +943,9 @@
 <a href="http://fonts.jp/hanazono/" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square"></a>
 </div>
 
-
+&nbsp;
 
 <a id="user-content-源界明朝体"  href="#源界明朝体"><img src="assets/image/YuanJieMingChaoTi.svg" alt="源界明朝体" width="100%"></a>
-
-
 
 「源界明朝体」这款字体是以「思源宋体」（日文为「源ノ明朝」）为基础，加入破坏效果使其最接近可读状态，可以简单理解成思源宋体的破坏版，源界明朝在视觉上具有相当大的张力，可作为图片内的标题和大字使用，整体来说相当吸睛且颇具效果。源界明朝体为日文字体，对部分简体中文支持不太好。
 
@@ -994,10 +953,9 @@
 <a href="https://flopdesign.com/blog/font/5146/" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square"></a>
 </div>
 
-
+&nbsp;
 
 <a id="user-content-手写杂字体"  href="#手写杂字体"><img src="assets/image/851ShouXieZaZiTi.svg" alt="手写杂字体" width="100%"></a>
-
 
 「手写杂字体」这是一个日本人制作的一款有点可爱风格的字体，所以会是日本字形（然而作者表示其实日本标准很多地方他都没遵循，所以叫杂字体）。作者的描述是自由使用与重新配布，可商用，但是保留著作权，字体仍在不断更新加字中。此款手写杂字体，虽为日文字体，但对中文繁体以及**中文简体**都支持得灰常不错。
 
@@ -1005,11 +963,9 @@
 <a href="http://pm85122.onamae.jp/851fontpage.html" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
-
+&nbsp;
 
 <a id="user-content-装甲明朝"  href="#装甲明朝"><img src="assets/image/ZhuangJiaMingChao.svg" alt="装甲明朝" width="100%"></a>
-
-
 
 「装甲明朝」是日本网友以思源宋体为基础，修改后开放免费下载的新字型。字体风格硬朗有气派，若是拿来做越野车、大型装甲机车等玩具淘宝海报设计就非常适用了。Soukou Mincho 装甲明朝体支持繁体（分部）、简体（部分）、英文、日文以及数字符号。
 
@@ -1017,10 +973,9 @@
 <a href="http://flopdesign.com/blog/font/5228/" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square"></a>
 </div>
 
-
+&nbsp;
 
 <a id="user-content-濑户体"  href="#濑户体"><img src="assets/image/LaiHuTi.svg" alt="濑户体" width="100%"></a>
-
 
 「濑户字体」是一款偏可爱风的字体，支持简体中文、繁体中文、日文，包含CJK常用汉字、平片假名、JIS第一至四级，共30000余字。这是由日本的一位业余字体设计师濑户のぞみ小姐所制作的。
 
@@ -1028,11 +983,9 @@
 <a href="http://setofont.osdn.jp/" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square"></a>
 </div>
 
-
+&nbsp;
 
 <a id="user-content-麦克笔手绘体"  href="#麦克笔手绘体"><img src="assets/image/MaiKeBiShouHui.svg" alt="麦克笔手绘体" width="100%"></a>
-
-
 
 「麦克笔手绘体」一款日本网站提供的免费商用字体，たぬき油性マジック(TanukiMagic) 字型风格和马克笔手绘的 POP 效果如出一辙。
 
@@ -1040,11 +993,9 @@
 <a href="https://tanukifont.com/tanuki-permanent-marker/" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
-
+&nbsp;
 
 <a id="user-content-超级细"  href="#超级细"><img src="assets/image/ChaoJiXiZiTi.svg" alt="超级细" width="100%"></a>
-
-
 
 「超极细」日文称为【超極細ゴシック体】，据说是目前字体线条最细的一款字体。超极细本身是日文字体，但同时支持繁体，所以也可作繁体字体使用。
 
@@ -1052,10 +1003,9 @@
 <a href="http://font.websozai.jp/line-font-mihon.html" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
+&nbsp;
 
-
-<a id="user-content-Kanjyuku Gothic"  href="#Kanjyuku Gothic"><img src="assets/image/KanjikuGothic.svg" alt="Kanjyuku Gothic" width="100%"></a>
-
+<a id="user-content-Kanjyuku%C2%AGothic"  href="#Kanjyuku%C2%AGothic"><img src="assets/image/KanjikuGothic.svg" alt="Kanjyuku Gothic" width="100%"></a>
 
 「Kanjiku Gothic」是一种免费字体，是免费下载和商业字体。该免费字体包含第二级汉字，可以由文字处理器和Adobe图形软件等应用程序自由处理和使用。平假名，片假名和字母是原始制作的，并且汉字辅以IPAex Gothic改进的字体。
 
@@ -1063,10 +1013,9 @@
 <a href="https://www.flopdesign.com/freefont/kanjyukugothic-freefont.html" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
+&nbsp;
 
-
-<a id="user-content-Smart Font UI"  href="#Smart Font UI"><img src="assets/image/SmartFontUI.svg" alt="Smart Font UI" width="100%"></a>
-
+<a id="user-content-Smart%C2%AFont%C2%AUI"  href="#Smart%C2%AFont%C2%AUI"><img src="assets/image/SmartFontUI.svg" alt="Smart Font UI" width="100%"></a>
 
 「Smart Font UI」是一种时尚而酷炫的日语字体，可以免费下载并在市场上出售。此免费字体还包括第二级汉字，并且是一种哥特式字体，可以自由处理并与Excel，Word和Adobe Illustrator等应用程序一起使用。创建用于平假名，片假名，字母和数字的原始字体，并使用IPAex Gothic改进字体补充汉字字符。
 
@@ -1074,22 +1023,25 @@
 <a href="https://www.flopdesign.com/freefont/kanjyukugothic-freefont.html" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
+&nbsp;
 
 # 英文
 
-
+&nbsp;
 
 # 数字
 
-
+&nbsp;
 
 # 关于授权
+
+&nbsp;
 
 这里的授权形式分为两类：免费商用和开源。
 
 可能在不少人看来，「开源」就是没有限制。但实际情况恰恰相反。开源字体和开源软件一样，不但受制于各种类型的许可证，而且由于开源许可证的社区属性，关于其用法的争议甚至比权利义务一目了然的商业许可更大，在使用前必须认真检索和理解。值得注意的是常见的开源字体许可证对字体的使用限制不大，主要限制在于对字体的编辑和再分发。
 
-
+&nbsp;
 
 ## 免费商用字体
 ![](https://img.shields.io/badge/免费商用-需要授权-orange?style=flat-square) ![](https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success)
@@ -1098,9 +1050,12 @@
 
 > 厂商对于免费商用的字体有收回的权利，之前有过这样的案例 ，某些厂商对一些曾经免费商用的字体收回了授权。使用字体厂商发布的免费商用字体前需要确认这个字体是否还面对公众免费商用，这里也会尽量及时更新这类字体的授权信息。
 
-
+&nbsp;
 
 ## 开源字体
+
+&nbsp;
+
 ![](https://img.shields.io/badge/license-GPL--2.0-orange?style=flat-square)
 [GNU通用公共许可证](http://www.gnu.org/licenses/old-licenses/) (GNU General Public License)是GNU运动为保证其软件在后续的发展中仍保持开源开放而为其软件设立的“使用条款”。
 
@@ -1108,15 +1063,17 @@ GPL 最大的特点是：**如果你在自己的作品中使用了受制于 GPL 
 
 > 由于其争议性这里收录的文泉系列字体需慎用。
 
-
+&nbsp;
 
 ![](https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square)
 [SIL开放字体许可证](https://scripts.sil.org/OFL) (SIL Open Font License) 由SIL国际制定，初版于2005年发布，如今已是诸多开源字体的首选授权条款，这种许可证比 GPL 要开明，不会扩散到使用 SIL 字体的作品上，而只要求对字体作出修改后的作品本身要以相同许可分发。
 
-
+&nbsp;
 
 ![](https://img.shields.io/badge/license-IPA--1.0-orange?style=flat-square)
 IPA开放字型授权条款是日本「IPA」以符合「开放原始码促进会（Open Source Initiative）」于2009年开源定义的使用条款。
+
+&nbsp;
 
 **免责声明：本文涉及对字体/字库/字库软件等的分发、使用等著作权相关法律问题的讨论。其中很多目前在法律上并无明确规定，学理上存在争议，不同国家、甚至相同法域内也存在相互冲突的判例。因此，文章内容仅代表个人观点，仅供参考，不应被作为正式的法律意见，作者不对采纳文中建议或观点所可能产生的任何责任或后果承担责任。**
 

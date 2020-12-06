@@ -611,7 +611,7 @@
 和田研字体日本一个开源的字体项目，无论是商用还是非商用都可以免费使用。您可以对此字体进行重新修改发布，也可以以嵌入在其他软件上的形式进行分发。 大家可以请放心下载使用
 
 <div align="center">
-<a href="https://ja.osdn.net/projects/jis2004/" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
+<a href="https://zh.osdn.net/projects/jis2004/wiki/FrontPage" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
 &nbsp;

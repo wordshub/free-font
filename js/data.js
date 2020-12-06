@@ -109,18 +109,6 @@ var fontsMap = {
         download: '',
         desc: '「中文像素体」是一个像素中文字体，里面具有6000多个常用字，其是使用<a target="blank" href="https://github.com/aguegu/BitmapFont" >HZK16</a>字模制作。可以在在商业和免费游戏项目中使用这个字体。'
     },
-    Islide_Regular: {
-        type: '5',
-        code: 'islide',
-        name: 'iSlide云犹体',
-        preview: 'images/font/islide/font.svg',
-        posters: ['images/font/islide/poster.svg'],
-        auth: false,
-        license: '商免',
-        source: 'https://mp.weixin.qq.com/s/Dx9mZM-BG2XIeDu-nx2SEw',
-        download: '',
-        desc: '「iSlide云犹体」在秀丽毛笔字风格的基础上更加强调了字体的曲折收放变化，使得整个字体开合揖让有度，辗转腾挪，不至过于秀气婉约，婉转中铿锵有力，锋芒外露。局部的形变与外拓带来的是整体气势的叠加，兼顾了阴柔与阳刚、含蓄与强劲。露锋用笔贯彻到了字体的始终，结体紧致，大量的曲线强化了字体的动感与字形张力。'
-    },
     LingDongQiJiTi_Regular: {
         type: '4',
         code: 'lingdongqijiti',

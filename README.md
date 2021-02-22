@@ -25,7 +25,7 @@
 | [源流明体](#源流明体) |[装甲明朝](#装甲明朝)|[智勇手书体](#智勇手书体)|
 | [源样明体](#源样明体) |[包图小白体](#包图小白体)|[手书体](#手书体)|
 | [一点明体](#一点明体) |[优设标题黑](#优设标题黑)|[杨任东竹石体](#杨任东竹石体)|
-| [破产字体](#破产字体) |[锐字真言体](#锐字真言体)|[新叶念体](#新叶念体)|
+| [OPPO Sans](#oppo-sans)|[锐字真言体](#锐字真言体)|[新叶念体](#新叶念体)|
 | [一点颜体](#一点颜体) |[联盟起艺卢帅正锐黑体](#联盟起艺卢帅正锐黑体)|[贤二体](#贤二体)|
 | [王汉宗系列](#王汉宗系列) |[中文像素体](#中文像素体)|[手写杂字体](#手写杂字体)|
 | [cwTeX字体](#cwTeX字体) |[摄图摩登小方体](#摄图摩登小方体)|[麦克笔手绘体](#麦克笔手绘体)|
@@ -35,7 +35,7 @@
 | [全字库正宋体](#全字库正宋体) |[和田研字体](#和田研字体)||
 | [阿里巴巴普惠体](#阿里巴巴普惠体) |[超级细](#超级细)||
 | [思源真黑](#思源真黑) |[千图小兔体](#千图小兔体)||
-| [OPPO Sans](#oppo-sans) |[黄令东齐伋体](#黄令东齐伋体)||
+|  |[黄令东齐伋体](#黄令东齐伋体)||
 |  |[Smart Font UI](#smart-font-ui)||
 |  |[Kanjyuku Gothic](#kanjyuku-gothic)||
 # 中文
@@ -786,23 +786,6 @@
 
 <div align="center">
 <a href="https://mp.weixin.qq.com/s/7kv3i_YEs7x9_9IrCDYvBA" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
-</div>
-
-&nbsp;
-
-<a id="user-content-破产字体"  href="#破产字体"><img src="assets/image/PoChanZiTiFangSong.svg" alt="破产字体" width="100%"></a>
-
-![破产字体黑体](assets/image/PoChanZiTiHeiTi.svg)
-
-![破产字体楷体](assets/image/PoChanZiTiKaiTi.svg)
-
-![破产字体宋体](assets/image/PoChanZiTiSongTi.svg)
-
-
-「破产字体」（Fandol）来自一家已经破产的字体公司，现在已经开源了。包含FandolFang、FandolHei、FandolKai、FandolSong四个字体。
-
-<div align="center">
-<a href="https://ctan.org/tex-archive/fonts/fandol" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/license-GPL--3.0-orange?style=flat-square"></a>
 </div>
 
 &nbsp;
